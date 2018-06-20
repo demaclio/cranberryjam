@@ -674,3 +674,103 @@ LogInit: Object subsystem initialized
 [2018.06.20-03.56.54:026][429]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Saved/ThirdPersonExampleMap6F1D058746E10DD31DC0B88098E63C9C.tmp' to '../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2018.06.20-03.56.54:031][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
 [2018.06.20-03.56.56:994][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.20-04.03.51:592][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.20-04.03.56:911][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.20-04.03.58:897][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.20-04.06.17:918][659]LogSlate: Window 'Project Settings' being destroyed
+[2018.06.20-04.06.17:922][659]LogSlate: Window 'Project Settings' being destroyed
+[2018.06.20-04.06.41:019][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.06.47:725][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.06.48:541][238]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.06.20-04.07.03:447][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.07.28:066][878]Cmd: TRANSACTION UNDO
+[2018.06.20-04.07.28:066][878]LogEditorTransaction: Undo Set Scale
+[2018.06.20-04.07.28:072][878]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.06.20-04.08.03:155][ 34]Cmd: TRANSACTION UNDO
+[2018.06.20-04.08.03:155][ 34]LogEditorTransaction: Undo Move Actors
+[2018.06.20-04.08.03:161][ 34]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.06.20-04.08.03:530][ 70]Cmd: TRANSACTION UNDO
+[2018.06.20-04.08.03:530][ 70]LogEditorTransaction: Undo Move Actors
+[2018.06.20-04.08.03:533][ 70]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Draws_10.BrushComponent0) Component already registered.
+[2018.06.20-04.08.03:535][ 70]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.06.20-04.08.03:891][107]Cmd: TRANSACTION UNDO
+[2018.06.20-04.08.03:891][107]LogEditorTransaction: Undo Set Scale
+[2018.06.20-04.08.03:896][107]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.06.20-04.08.04:219][141]Cmd: TRANSACTION UNDO
+[2018.06.20-04.08.04:219][141]LogEditorTransaction: Undo Brush Add
+[2018.06.20-04.08.05:355][274]Cmd: TRANSACTION REDO
+[2018.06.20-04.08.05:355][274]LogEditorTransaction: Redo Brush Add
+[2018.06.20-04.08.11:915][ 40]Cmd: TRANSACTION UNDO
+[2018.06.20-04.08.11:915][ 40]LogEditorTransaction: Undo Scale Actors
+[2018.06.20-04.08.11:920][ 40]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.06.20-04.08.17:528][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.08.40:622][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.08.56:453][261]Cmd: TRANSACTION UNDO
+[2018.06.20-04.08.56:453][261]LogEditorTransaction: Undo Edit Y
+[2018.06.20-04.08.56:458][261]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Draws_10.BrushComponent0) Component already registered.
+[2018.06.20-04.08.56:460][261]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.06.20-04.08.56:652][270]Cmd: TRANSACTION UNDO
+[2018.06.20-04.08.56:652][270]LogEditorTransaction: Undo Move Actors
+[2018.06.20-04.08.56:658][270]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Draws_10.BrushComponent0) Component already registered.
+[2018.06.20-04.08.56:659][270]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.06.20-04.08.57:287][324]Cmd: TRANSACTION UNDO
+[2018.06.20-04.08.57:287][324]LogEditorTransaction: Undo Edit Z
+[2018.06.20-04.08.57:293][324]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Draws_10.BrushComponent0) Component already registered.
+[2018.06.20-04.08.57:294][324]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.06.20-04.08.58:946][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.09.24:866][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.09.38:978][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.09.44:562][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.20-04.09.54:601][790]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2018.06.20-04.09.55:025][835]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2018.06.20-04.09.57:081][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.10.07:731][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.10.08:553][386]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.06.20-04.10.09:836][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.10.20:442][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.10.59:080][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.20-04.10.59:317][269]LogSavePackage: Save=196.07ms
+[2018.06.20-04.10.59:317][269]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Saved/ThirdPersonExampleMap_Auto138226384473536856046CEBEF6F359E1.tmp' to '../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.06.20-04.10.59:321][269]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.06.20-04.10.59:323][269]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.232
+[2018.06.20-04.10.59:323][269]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2018.06.20-04.17.59:921][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.18.01:281][436]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.06.20-04.18.07:772][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.18.18:654][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.18.24:690][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.18.31:582][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.20-04.20.51:622][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.20-04.20.52:882][788]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.20-04.20.52:897][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-04.20.52:898][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.20-04.20.52:898][788]PIE: New page: PIE session: ThirdPersonExampleMap (21 Jun 2018 12:20:52 am)
+[2018.06.20-04.20.52:898][788]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.20-04.20.52:916][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018026s)
+[2018.06.20-04.20.52:917][788]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.20-04.20.52:917][788]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2018.06.20-04.20.52:917][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019438s)
+[2018.06.20-04.20.52:961][788]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.20-04.20.52:972][788]LogInit: FAudioDevice initialized.
+[2018.06.20-04.20.53:003][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.20-04.20.53:005][788]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.20-14.20.53
+[2018.06.20-04.20.53:006][788]LogWorld: Bringing up level for play took: 0.001564
+[2018.06.20-04.20.53:006][788]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.20-04.20.53:006][788]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.365
+[2018.06.20-04.20.53:007][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-04.21.18:783][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-04.21.18:822][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-04.21.49:760][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.20-04.21.50:034][477]LogSavePackage: Save=233.70ms
+[2018.06.20-04.21.50:034][477]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Saved/ThirdPersonExampleMap_Auto2562E5C86469C5301EA86D59E343423D2.tmp' to '../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.06.20-04.21.50:037][477]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.06.20-04.21.50:039][477]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.269
+[2018.06.20-04.21.50:039][477]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.269
+[2018.06.20-04.22.00:355][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.20-04.23.29:615][146]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.20-04.23.30:991][272]LogSavePackage: Save=227.12ms
+[2018.06.20-04.23.30:991][272]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Saved/ThirdPersonExampleMap8BBDFB87461A33F3086862B2C5752C0D.tmp' to '../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.20-04.23.30:996][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.20-04.23.32:886][457]LogSavePackage: Save=136.01ms
+[2018.06.20-04.23.32:886][457]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Saved/ThirdPersonExampleMap8D8BAD754779CFEA22C5B7BB5DDEDE53.tmp' to '../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.20-04.23.32:891][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/cranberryjam/Studio2Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
