@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 06/25/18 15:33:37
 =======
 ﻿Log file open, 06/25/18 13:34:07
 >>>>>>> master
+=======
+﻿Log file open, 06/25/18 13:34:07
+>>>>>>> 2abcaea... Lose menu pops up, light position fixed
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -12,19 +16,27 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Studio2Level
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: Display: RandInit(-808805431) SRandInit(-808805431).
 =======
 LogInit: Display: RandInit(699872136) SRandInit(699872136).
 >>>>>>> master
+=======
+LogInit: Display: RandInit(699872136) SRandInit(699872136).
+>>>>>>> 2abcaea... Lose menu pops up, light position fixed
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.965253
 =======
 LogStats: Stats thread started at 0.946810
 >>>>>>> master
+=======
+LogStats: Stats thread started at 0.946810
+>>>>>>> 2abcaea... Lose menu pops up, light position fixed
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -181,10 +193,14 @@ LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStreaming: Display: Took  1.170s to configure plugins.
 =======
 LogStreaming: Display: Took  1.107s to configure plugins.
 >>>>>>> master
+=======
+LogStreaming: Display: Took  1.107s to configure plugins.
+>>>>>>> 2abcaea... Lose menu pops up, light position fixed
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -205,10 +221,14 @@ LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connecti
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: WinSock: I am MEL-109-2608 (10.40.35.204:0)
 =======
 LogInit: WinSock: I am MEL-109-2596 (10.40.35.115:0)
 >>>>>>> master
+=======
+LogInit: WinSock: I am MEL-109-2596 (10.40.35.115:0)
+>>>>>>> 2abcaea... Lose menu pops up, light position fixed
 LogHMD: Failed initializing OVRPlugin 1.21.0
 LogInit: Build: ++UE4+Release-4.19-CL-3989454
 LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
@@ -243,6 +263,7 @@ LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.003s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2018.06.25-05.33.39:172][  0]LogInit: Selected Device Profile: [Windows]
 [2018.06.25-05.33.39:172][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
@@ -1438,6 +1459,8 @@ LogInit: Object subsystem initialized
 [2018.06.25-06.07.31:557][777]LogExit: Exiting.
 [2018.06.25-06.07.31:586][777]Log file closed, 06/25/18 16:07:31
 =======
+=======
+>>>>>>> 2abcaea... Lose menu pops up, light position fixed
 [2018.06.25-03.34.09:567][  0]LogInit: Selected Device Profile: [Windows]
 [2018.06.25-03.34.09:567][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.06.25-03.34.09:579][  0]LogInit: Computer: MEL-109-2596
@@ -3432,4 +3455,7 @@ LogInit: Object subsystem initialized
 [2018.06.25-06.09.32:387][873]LogSavePackage: Save=7.56ms
 [2018.06.25-06.09.32:387][873]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level/Saved/LoseMenu54E948E14F984E3AC01E88B2A767DC06.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level/Content/ThirdPersonBP/Blueprints/LoseMenu.uasset'
 [2018.06.25-06.09.32:391][873]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level/Content/ThirdPersonBP/Blueprints/LoseMenu.uasset
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 2abcaea... Lose menu pops up, light position fixed
