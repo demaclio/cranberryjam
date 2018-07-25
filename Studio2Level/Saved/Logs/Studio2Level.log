@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 07/14/18 15:51:04
+=======
+﻿Log file open, 06/28/18 10:06:03
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +11,21 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Studio2Level
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< Updated upstream
 LogInit: Display: RandInit(395534134) SRandInit(395534134).
+=======
+LogInit: Display: RandInit(-1229218254) SRandInit(-1229218253).
+>>>>>>> Stashed changes
 LogInit: Read version file with build ID '3944462'
-LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
+<<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.182040
+=======
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.738383
+>>>>>>> Stashed changes
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +181,11 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< Updated upstream
 LogStreaming: Display: Took  1.140s to configure plugins.
+=======
+LogStreaming: Display: Took  1.160s to configure plugins.
+>>>>>>> Stashed changes
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -188,9 +205,16 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+<<<<<<< Updated upstream
 LogInit: WinSock: I am Luke-PC (10.1.1.180:0)
 LogInit: Build: ++UE4+Release-4.19-CL-4033788
 LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+=======
+LogInit: WinSock: I am MEL-R119-2613 (10.40.35.202:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+>>>>>>> Stashed changes
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
 LogInit: Net CL: 3944462
 LogDevObjectVersion: Number of dev versions registered: 18
@@ -212,13 +236,14 @@ LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 
 LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
 LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
-LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line:  
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
+<<<<<<< Updated upstream
 LogStreaming: Display: Took  0.018s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
@@ -2140,4 +2165,216 @@ LogInit: Object subsystem initialized
 [2018.06.20-06.52.48:636][626]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.06.20-06.52.48:656][626]LogExit: Exiting.
 [2018.06.20-06.52.48:685][626]Log file closed, 06/20/18 16:52:48
+>>>>>>> Stashed changes
+=======
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.28-00.06.05:391][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.28-00.06.05:391][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.28-00.06.05:401][  0]LogInit: Computer: MEL-R119-2613
+[2018.06.28-00.06.05:401][  0]LogInit: User: lricardo
+[2018.06.28-00.06.05:401][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.28-00.06.05:401][  0]LogInit: High frequency timer resolution =3.328124 MHz
+[2018.06.28-00.06.05:401][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.28-00.06.05:401][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.28-00.06.05:401][  0]LogMemory: Process Physical Memory: 280.20 MB used, 280.20 MB peak
+[2018.06.28-00.06.05:401][  0]LogMemory: Process Virtual Memory: 281.10 MB used, 281.10 MB peak
+[2018.06.28-00.06.05:401][  0]LogMemory: Physical Memory: 3992.08 MB used,  12307.07 MB free, 16299.15 MB total
+[2018.06.28-00.06.05:401][  0]LogMemory: Virtual Memory: 4851.45 MB used,  12307.07 MB free, 134217728.00 MB total
+[2018.06.28-00.06.05:500][  0]LogInit: Using OS detected language (en-US).
+[2018.06.28-00.06.05:500][  0]LogInit: Using OS detected locale (en-AU).
+[2018.06.28-00.06.05:509][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.28-00.06.05:947][  0]LogStreaming: Display: Took  0.448s to EndInitTextLocalization.
+[2018.06.28-00.06.05:948][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.28-00.06.05:997][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.28-00.06.05:997][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.28-00.06.06:245][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.28-00.06.06:284][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.06.28-00.06.06:285][  0]LogD3D11RHI:       4053/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.28-00.06.06:286][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.28-00.06.06:286][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.28-00.06.06:286][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.28-00.06.06:291][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.28-00.06.06:291][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.28-00.06.06:291][  0]LogWindows: EnumDisplayDevices:
+[2018.06.28-00.06.06:292][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.06.28-00.06.06:292][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.06.28-00.06.06:292][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.06.28-00.06.06:292][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.06.28-00.06.06:292][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.28-00.06.06:292][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.06.28-00.06.06:292][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.28-00.06.06:292][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.28-00.06.06:292][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.06.28-00.06.06:328][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.28-00.06.06:328][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.28-00.06.06:328][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.28-00.06.06:346][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.28-00.06.06:389][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Intermediate/Shaders/WorkingDirectory/12616/).
+[2018.06.28-00.06.06:389][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lricardo/AppData/Local/Temp/UnrealShaderWorkingDir/C1C05DA4422FA3E2CD4C7DBDAF865183/'.
+[2018.06.28-00.06.06:662][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.28-00.06.06:679][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.28-00.06.06:693][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.28-00.06.06:706][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.28-00.06.06:720][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.28-00.06.06:733][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.28-00.06.06:749][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.28-00.06.06:762][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.28-00.06.06:769][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.28-00.06.06:780][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.28-00.06.06:792][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.28-00.06.06:807][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.28-00.06.06:819][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.28-00.06.06:831][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.28-00.06.06:844][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.28-00.06.06:868][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.28-00.06.06:868][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.28-00.06.06:880][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.28-00.06.06:882][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.28-00.06.06:921][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.28-00.06.06:931][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.28-00.06.06:942][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.28-00.06.06:953][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.28-00.06.06:963][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.28-00.06.06:976][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.28-00.06.06:976][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.28-00.06.07:155][  0]LogXGEController: Cleaning working directory: C:/Users/lricardo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.28-00.06.07:155][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.28-00.06.07:155][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.28-00.06.07:155][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.28-00.06.07:862][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.28-00.06.08:174][  0]LogDerivedDataCache: Loaded boot cache 0.31s 74MB C:/Users/lricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.28-00.06.08:175][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.28-00.06.08:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.28-00.06.08:175][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.28-00.06.08:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.28-00.06.08:175][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.28-00.06.08:196][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.28-00.06.08:208][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lricardo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.28-00.06.08:219][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.28-00.06.08:220][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.28-00.06.08:221][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.28-00.06.08:221][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.28-00.06.08:541][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.06.28-00.06.08:847][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.28-00.06.09:030][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.28-00.06.09:037][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.28-00.06.09:037][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.28-00.06.09:037][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.28-00.06.09:037][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.28-00.06.09:037][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.28-00.06.09:076][  0]LogNetVersion: Studio2Level , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3027956618)
+[2018.06.28-00.06.09:649][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.129007 seconds
+[2018.06.28-00.06.09:655][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.28-00.06.09:655][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.28-00.06.09:656][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.28-00.06.12:142][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.28-00.06.12:179][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.28-00.06.12:626][  0]SourceControl: Source control is disabled
+[2018.06.28-00.06.12:626][  0]SourceControl: Source control is disabled
+[2018.06.28-00.06.12:656][  0]SourceControl: Source control is disabled
+[2018.06.28-00.06.12:679][  0]SourceControl: Source control is disabled
+[2018.06.28-00.06.13:306][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.28-00.06.13:515][  0]LogOcInput: OculusInput pre-init called
+[2018.06.28-00.06.13:645][  0]LogEngine: Initializing Engine...
+[2018.06.28-00.06.13:646][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.28-00.06.13:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.28-00.06.13:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.28-00.06.13:904][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.28-00.06.13:934][  0]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.28-00.06.13:998][  0]LogInit: FAudioDevice initialized.
+[2018.06.28-00.06.14:075][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/lricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.28-00.06.14:097][  0]LogInit: Texture streaming: Enabled
+[2018.06.28-00.06.14:119][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.28-00.06.14:142][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.28-00.06.15:254][  0]LogInit: Transaction tracking system initialized
+[2018.06.28-00.06.15:350][  0]BlueprintLog: New page: Editor Load
+[2018.06.28-00.06.15:612][  0]LocalizationService: Localization service is disabled
+[2018.06.28-00.06.15:766][  0]LogConsoleResponse: Display: 
+[2018.06.28-00.06.15:974][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.28-00.06.15:975][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.28-00.06.15:975][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.28-00.06.15:975][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.28-00.06.15:975][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.28-00.06.16:366][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lricardo/Desktop/cranberryjam/Studio2Level/Content/' took 0.01s
+[2018.06.28-00.06.16:567][  0]SourceControl: Source control is disabled
+[2018.06.28-00.06.16:567][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.28-00.06.16:567][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.28-00.06.16:568][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.28-00.06.16:639][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.742ms to complete.
+[2018.06.28-00.06.16:640][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.072
+[2018.06.28-00.06.16:770][  0]LogCollectionManager: Loaded 0 collections in 0.002448 seconds
+[2018.06.28-00.06.16:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lricardo/Desktop/cranberryjam/Studio2Level/Saved/Collections/' took 0.01s
+[2018.06.28-00.06.16:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lricardo/Desktop/cranberryjam/Studio2Level/Content/Developers/lricardo/Collections/' took 0.01s
+[2018.06.28-00.06.16:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lricardo/Desktop/cranberryjam/Studio2Level/Content/Collections/' took 0.01s
+[2018.06.28-00.06.16:813][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.28-00.06.16:821][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2452 classes and 558 folders.
+[2018.06.28-00.06.16:829][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.28-00.06.16:966][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.28-00.06.16:977][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.28-00.06.16:999][  0]LogSlate: Took 0.002378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.28-00.06.17:003][  0]LogSlate: Took 0.001339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.28-00.06.17:012][  0]LogSlate: Took 0.001371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.28-00.06.17:120][  0]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:1).
+[2018.06.28-00.06.17:252][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.28-00.06.17:252][  0]LogLoad: (Engine Initialization) Total time: 16.44 seconds
+[2018.06.28-00.06.17:252][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.28-00.06.17:281][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.28-00.06.17:415][  1]LogAssetRegistry: Asset discovery search completed in 8.8962 seconds
+[2018.06.28-00.06.17:418][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.28-00.06.17:418][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000115 seconds (updated 0 objects)
+[2018.06.28-00.06.18:282][ 98]LogSlate: Took 0.001265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.28-00.06.40:630][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.06.43:242][ 24]LogSkeletalMesh: Skeletal Mesh found in DDC [14.046051ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.28-00.06.43:259][ 24]LogMaterial: Missing cached shader map for material Door, compiling. 
+[2018.06.28-00.06.43:301][ 24]LogAIModule: Creating AISystem for world Level
+[2018.06.28-00.06.43:316][ 24]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.28-00.06.43:316][ 24]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.28-00.06.43:316][ 24]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.06.43:316][ 24]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.06.43:335][ 24]Cmd: MAP LOAD FILE="../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Content/ThirdPersonBP/Maps/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.28-00.06.43:335][ 24]LightingResults: New page: Lighting Build
+[2018.06.28-00.06.43:338][ 24]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.06.28-00.06.43:339][ 24]LoadErrors: New page: Loading map: Level.umap
+[2018.06.28-00.06.43:339][ 24]MapCheck: New page: Map Check
+[2018.06.28-00.06.43:339][ 24]LightingResults: New page: Lighting Build
+[2018.06.28-00.06.43:361][ 24]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.28-00.06.43:418][ 24]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.28-00.06.43:500][ 24]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.248ms to complete.
+[2018.06.28-00.06.43:500][ 24]LogFileHelpers: Loading map 'Level' took 0.166
+[2018.06.28-00.07.03:514][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.07.45:830][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.07.53:083][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.08.04:759][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.16.43:505][ 42]LogSavePackage: Save=320.85ms
+[2018.06.28-00.16.43:505][ 42]LogSavePackage: Moving '../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Saved/Level_Auto13181FEEE40629FB5F99C8CBB3F2CE517.tmp' to '../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level_Auto1.umap'
+[2018.06.28-00.16.43:509][ 42]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level_Auto1.umap
+[2018.06.28-00.16.43:516][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level' took 0.420
+[2018.06.28-00.16.43:516][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.420
+[2018.06.28-00.36.35:279][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.36.49:468][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.36.55:990][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.37.04:011][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.37.09:224][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.39.38:390][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-00.39.38:782][400]LogSavePackage: Save=333.20ms
+[2018.06.28-00.39.38:782][400]LogSavePackage: Moving '../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Saved/Level_Auto2575DE21A42E6F42BB3BCB495F7700A55.tmp' to '../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level_Auto2.umap'
+[2018.06.28-00.39.38:786][400]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level_Auto2.umap
+[2018.06.28-00.39.38:788][400]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level' took 0.373
+[2018.06.28-00.39.38:788][400]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.373
+[2018.06.28-00.42.38:476][571]Cmd: TRANSACTION UNDO
+[2018.06.28-00.42.38:476][571]LogEditorTransaction: Undo Move Actors
+[2018.06.28-00.42.38:494][571]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.06.28-00.42.38:510][571]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Chair4.BrushComponent0) Component already registered.
+[2018.06.28-00.42.38:512][571]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Chair_73.BrushComponent0) Component already registered.
+[2018.06.28-00.42.38:512][571]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Chair_75.BrushComponent0) Component already registered.
+[2018.06.28-00.42.38:513][571]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.BoxBrush55.BrushComponent0) Component already registered.
+[2018.06.28-00.42.38:513][571]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.06.28-00.47.24:756][360]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-00.49.39:870][764]LogSavePackage: Save=356.14ms
+[2018.06.28-00.49.39:870][764]LogSavePackage: Moving '../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Saved/Level_Auto33E70B0474046BCE48F337D840073BBE1.tmp' to '../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level_Auto3.umap'
+[2018.06.28-00.49.39:874][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lricardo/Desktop/cranberryjam/Studio2Level/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level_Auto3.umap
+[2018.06.28-00.49.39:877][764]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level' took 0.405
+[2018.06.28-00.49.39:877][764]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.405
 >>>>>>> Stashed changes
