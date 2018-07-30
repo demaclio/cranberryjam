@@ -558,28 +558,3 @@ LogInit: Object subsystem initialized
 [2018.07.30-04.08.15:492][772]LogSavePackage: Moving '../../../../../../Users/rdennaoui/Downloads/LatestMothersWish/cranberryjam/Studio2Level 4.19/Saved/EnemySpawner_Auto157BF0AB842C24D052E7A8F916CE328B8.tmp' to '../../../../../../Users/rdennaoui/Downloads/LatestMothersWish/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/EnemySpawner_Auto1.uasset'
 [2018.07.30-04.08.15:493][772]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rdennaoui/Downloads/LatestMothersWish/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/EnemySpawner_Auto1.uasset
 [2018.07.30-04.08.15:493][772]LogFileHelpers: Auto-saving content packages took 0.056
-[2018.07.30-04.16.06:567][186]LogInit: XAudio2 using 'Headset Earphone (XBOX_360_DEVICE_00:01)' : 1 channels at 8 kHz using 16 bits per sample (channel mask 0x0)
-[2018.07.30-04.16.06:578][186]LogAudio: Error: CreateSubmixVoice (Reverb) error: XAPO Creation Failed
-[2018.07.30-04.16.19:909][820]LogTemp: Repeating last play command: Selected Viewport
-[2018.07.30-04.16.19:921][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level.Level_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Level'
-[2018.07.30-04.16.19:921][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.07.30-04.16.19:921][820]PIE: New page: PIE session: Level (31 Jul 2018 12:16:19 am)
-[2018.07.30-04.16.19:921][820]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
-[2018.07.30-04.16.19:958][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035457s)
-[2018.07.30-04.16.19:959][820]LogAIModule: Creating AISystem for world Level
-[2018.07.30-04.16.19:959][820]LogPlayLevel: PIE: World Init took: (0.001178s)
-[2018.07.30-04.16.19:959][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level.Level to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level (0.036850s)
-[2018.07.30-04.16.19:993][820]LogInit: XAudio2 using 'Headset Earphone (XBOX_360_DEVICE_00:01)' : 1 channels at 8 kHz using 16 bits per sample (channel mask 0x0)
-[2018.07.30-04.16.20:001][820]LogAudio: Error: CreateSubmixVoice (Reverb) error: XAPO Creation Failed
-[2018.07.30-04.16.20:001][820]LogInit: FAudioDevice initialized.
-[2018.07.30-04.16.20:034][820]LogLoad: Game class is 'ThirdPersonGameMode_C'
-[2018.07.30-04.16.20:038][820]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.07.30-14.16.20
-[2018.07.30-04.16.20:039][820]LogWorld: Bringing up level for play took: 0.003621
-[2018.07.30-04.16.20:039][820]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.07.30-04.16.20:040][820]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_29)
-[2018.07.30-04.16.20:040][820]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter'!
-[2018.07.30-04.16.20:041][820]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level -0.786
-[2018.07.30-04.16.20:041][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level.Level_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Level'
-[2018.07.30-04.16.23:522][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fail
-[2018.07.30-04.16.26:563][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level.Level_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Level'
-[2018.07.30-04.16.26:628][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level.Level_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.Level'
