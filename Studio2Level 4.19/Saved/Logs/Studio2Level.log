@@ -938,3 +938,1223 @@ Make sure 'EnemyCharacter' has been compiled for  Set Owner
 [2018.07.30-05.02.43:011][540]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.07.30-05.02.43:078][540]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.546ms to complete.
 [2018.07.30-05.02.43:078][540]LogFileHelpers: Loading map 'Level1' took 0.141
+[2018.07.30-05.07.22:984][817]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.30-05.07.23:003][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.07.23:004][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-05.07.23:004][817]PIE: New page: PIE session: Level1 (31 Jul 2018 1:07:23 am)
+[2018.07.30-05.07.23:004][817]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.07.30-05.07.23:016][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011970s)
+[2018.07.30-05.07.23:016][817]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-05.07.23:017][817]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2018.07.30-05.07.23:017][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.012823s)
+[2018.07.30-05.07.23:058][817]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-05.07.23:067][817]LogInit: FAudioDevice initialized.
+[2018.07.30-05.07.23:100][817]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.30-05.07.23:102][817]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.07.30-15.07.23
+[2018.07.30-05.07.23:102][817]LogWorld: Bringing up level for play took: 0.001242
+[2018.07.30-05.07.23:104][817]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.07.30-05.07.23:104][817]LogBlueprintUserMessages: [Level1_C_0] Level 1
+[2018.07.30-05.07.23:105][817]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.813
+[2018.07.30-05.07.23:105][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.07.23:667][881]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.07.28:408][450]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.07.29:233][549]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.07.29:266][549]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.07.33:643][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.08.49:586][523]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.30-05.09.17:143][990]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d6f1ae50, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.09.19:819][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d6f1ae50, Size=4
+[2018.07.30-05.09.19:819][257]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d43b23d0, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_132:ExecuteUbergraph_Level1
+[2018.07.30-05.09.19:821][257]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d43b34c0, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.09.20:966][365]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d43b34c0, Size=4
+[2018.07.30-05.09.20:966][365]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c30b2930, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_134:ExecuteUbergraph_Level1
+[2018.07.30-05.09.20:968][365]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c30b0c50, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.09.29:390][127]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c30b0c50, Size=4
+[2018.07.30-05.09.29:390][127]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c0b9b328, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_136:ExecuteUbergraph_Level1
+[2018.07.30-05.09.29:391][127]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c0b9b748, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.09.30:662][235]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.30-05.09.38:725][938]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c0b9b748, Size=4
+[2018.07.30-05.09.38:725][938]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d4646630, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_138:ExecuteUbergraph_Level1
+[2018.07.30-05.09.38:726][938]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d46466e8, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.09.40:539][103]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d46466e8, Size=4
+[2018.07.30-05.09.40:539][103]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d46466e8, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_140:ExecuteUbergraph_Level1
+[2018.07.30-05.09.40:541][103]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d4645580, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.09.41:286][169]BlueprintLog: New page: Compile Level1
+[2018.07.30-05.09.41:292][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d4645580, Size=4
+[2018.07.30-05.09.41:292][169]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d4645580, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_142:ExecuteUbergraph_Level1
+[2018.07.30-05.09.41:297][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3b97fe4e0, Size=104
+[2018.07.30-05.09.41:297][169]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d8358100, Size=104, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_144:ExecuteUbergraph_Level1
+[2018.07.30-05.09.41:299][169]LogBlueprint: Error: [Compiler PersistentLevel.Level1] This blueprint (self) is not a EnemySpawner_C, therefore ' Target ' must have a connection.
+[2018.07.30-05.09.41:299][169]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d0c8f780, Size=120, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.09.41:395][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d4645580, Size=4
+[2018.07.30-05.09.41:395][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d46466e8, Size=4
+[2018.07.30-05.09.41:395][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d4646630, Size=4
+[2018.07.30-05.09.41:395][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c0b9b328, Size=4
+[2018.07.30-05.09.41:395][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c30b2930, Size=4
+[2018.07.30-05.09.41:395][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d43b23d0, Size=4
+[2018.07.30-05.09.41:402][169]LogBlueprint: Warning: [Compiler PersistentLevel.Level1] [1444.85] Compile of PersistentLevel.Level1 failed. 1 Fatal Issue(s) 0 Warning(s) [in 114 ms] (/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1)
+[2018.07.30-05.09.50:735][964]BlueprintLog: New page: Compile Level1
+[2018.07.30-05.09.50:746][964]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d0c8f780, Size=120
+[2018.07.30-05.09.50:746][964]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d0465b00, Size=120, Level1_C_0 Function /Engine/Transient.REINST_Level1_C_148:ExecuteUbergraph_Level1
+[2018.07.30-05.09.50:749][964]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d0465000, Size=120, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.09.50:837][964]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d8358100, Size=104
+[2018.07.30-05.10.00:493][788]BlueprintLog: New page: Compile Level1
+[2018.07.30-05.10.00:505][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d0465000, Size=120
+[2018.07.30-05.10.00:505][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da77c300, Size=120, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_152:ExecuteUbergraph_Level1
+[2018.07.30-05.10.00:509][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da77d280, Size=120, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.10.00:606][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d0465b00, Size=120
+[2018.07.30-05.10.03:584][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.30-05.10.03:602][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.10.03:602][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-05.10.03:602][ 93]PIE: New page: PIE session: Level1 (31 Jul 2018 1:10:03 am)
+[2018.07.30-05.10.03:602][ 93]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.07.30-05.10.03:613][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010520s)
+[2018.07.30-05.10.03:613][ 93]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-05.10.03:614][ 93]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2018.07.30-05.10.03:614][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.011579s)
+[2018.07.30-05.10.03:635][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da77c300, Size=120
+[2018.07.30-05.10.03:656][ 93]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-05.10.03:666][ 93]LogInit: FAudioDevice initialized.
+[2018.07.30-05.10.03:700][ 93]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.30-05.10.03:702][ 93]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.07.30-15.10.03
+[2018.07.30-05.10.03:702][ 93]LogWorld: Bringing up level for play took: 0.001199
+[2018.07.30-05.10.03:704][ 93]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.07.30-05.10.03:704][ 93]LogBlueprintUserMessages: [Level1_C_3] Level 1
+[2018.07.30-05.10.03:704][ 93]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	Level1_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Level1_C_3
+	Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1:0160
+[2018.07.30-05.10.03:705][ 93]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_Level1' from node: Spawn Wave in graph: EventGraph in object: Level1 with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-05.10.03:705][ 93]LogBlueprintUserMessages: [Level1_C_3] Hello
+[2018.07.30-05.10.03:705][ 93]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.583
+[2018.07.30-05.10.03:712][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.10.17:733][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.10.17:777][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.10.20:185][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.10.26:144][763]LogSlate: Window 'Message Log' being destroyed
+[2018.07.30-05.10.26:147][763]LogSlate: Window 'Message Log' being destroyed
+[2018.07.30-05.10.29:062][111]LogEditorViewport: Clicking on Actor (LMB): EnemySpawner_C (EnemySpawner)
+[2018.07.30-05.10.39:850][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.30-05.11.04:051][279]LogEditorTransaction: Undo Add Node
+[2018.07.30-05.11.04:053][279]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3a8e6f360, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.11.05:101][368]LogEditorTransaction: Undo Move Nodes
+[2018.07.30-05.11.05:101][368]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3a8e6f360, Size=4
+[2018.07.30-05.11.05:101][368]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b38cb5a530, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_156:ExecuteUbergraph_Level1
+[2018.07.30-05.11.05:103][368]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b38cb5a868, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.11.05:675][421]LogEditorTransaction: Undo Break Pin Links
+[2018.07.30-05.11.05:676][421]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b38cb5a868, Size=4
+[2018.07.30-05.11.05:676][421]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da15f598, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_158:ExecuteUbergraph_Level1
+[2018.07.30-05.11.05:677][421]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da15f618, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.11.06:602][507]LogEditorTransaction: Undo Move Node
+[2018.07.30-05.11.06:603][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da15f618, Size=4
+[2018.07.30-05.11.06:603][507]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da15f618, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_160:ExecuteUbergraph_Level1
+[2018.07.30-05.11.06:604][507]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da15de60, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.11.07:225][560]LogEditorTransaction: Undo Break Pin Links
+[2018.07.30-05.11.07:226][560]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da15de60, Size=4
+[2018.07.30-05.11.07:226][560]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3a8e6f780, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_162:ExecuteUbergraph_Level1
+[2018.07.30-05.11.07:227][560]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3a8e6f6b8, Size=4, Default__SKEL_Level1_C Function /Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.11.09:091][731]BlueprintLog: New page: Compile Level1
+[2018.07.30-05.11.09:097][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3a8e6f6b8, Size=4
+[2018.07.30-05.11.09:097][731]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d8502e78, Size=4, Default__SKEL_Level1_C Function /Engine/Transient.REINST_SKEL_Level1_C_164:ExecuteUbergraph_Level1
+[2018.07.30-05.11.09:102][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da77d280, Size=120
+[2018.07.30-05.11.09:102][731]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c89e2880, Size=120, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_166:ExecuteUbergraph_Level1
+[2018.07.30-05.11.09:105][731]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c89e0780, Size=120, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.11.09:195][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d8502e78, Size=4
+[2018.07.30-05.11.09:195][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3a8e6f780, Size=4
+[2018.07.30-05.11.09:195][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da15f618, Size=4
+[2018.07.30-05.11.09:195][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da15f598, Size=4
+[2018.07.30-05.11.09:195][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b38cb5a530, Size=4
+[2018.07.30-05.11.09:804][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c89e2880, Size=120
+[2018.07.30-05.11.09:829][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c89e0780, Size=120
+[2018.07.30-05.11.09:829][774]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d0c8fa80, Size=120, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_170:ExecuteUbergraph_Level1
+[2018.07.30-05.11.09:832][774]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d0c8f380, Size=120, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.11.10:032][774]LogSavePackage: Save=214.87ms
+[2018.07.30-05.11.10:032][774]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Level12D91B916413FBCC5EF6915B12F7D8607.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.07.30-05.11.10:039][774]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.07.30-05.11.10:070][774]LogFileHelpers: Saving map 'Level1' took 0.358
+[2018.07.30-05.14.17:470][759]BlueprintLog: New page: Compile EnemySpawner
+[2018.07.30-05.14.17:501][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b31905a600, Size=120
+[2018.07.30-05.14.17:501][759]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d4629c00, Size=120, Default__EnemySpawner_C Function /Engine/Transient.REINST_EnemySpawner_C_178:ExecuteUbergraph_EnemySpawner
+[2018.07.30-05.14.17:504][759]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d462b980, Size=120, Default__EnemySpawner_C Function /Game/ThirdPersonBP/Blueprints/EnemySpawner.EnemySpawner_C:ExecuteUbergraph_EnemySpawner
+[2018.07.30-05.14.17:754][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d0c8fa80, Size=120
+[2018.07.30-05.14.18:831][828]LogSavePackage: Save=30.06ms
+[2018.07.30-05.14.18:831][828]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemySpawner9A8BCF0B49BA563BEFEC20BE3E54DCDB.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemySpawner.uasset'
+[2018.07.30-05.14.18:838][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemySpawner.uasset
+[2018.07.30-05.14.20:594][980]BlueprintLog: New page: Compile Level1
+[2018.07.30-05.14.20:604][980]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d0c8f380, Size=120
+[2018.07.30-05.14.20:604][980]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3bad7c080, Size=120, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_182:ExecuteUbergraph_Level1
+[2018.07.30-05.14.20:607][980]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3b3a83190, Size=104, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.14.20:697][980]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d4629c00, Size=120
+[2018.07.30-05.14.21:248][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3bad7c080, Size=120
+[2018.07.30-05.14.21:266][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3b3a83190, Size=104
+[2018.07.30-05.14.21:266][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da8d9bb0, Size=104, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_186:ExecuteUbergraph_Level1
+[2018.07.30-05.14.21:268][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da14a9b0, Size=104, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.14.21:441][ 20]LogSavePackage: Save=184.06ms
+[2018.07.30-05.14.21:441][ 20]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Level1AC73DEE24C949849BDC383861B73607B.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.07.30-05.14.21:448][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.07.30-05.14.21:474][ 20]LogFileHelpers: Saving map 'Level1' took 0.313
+[2018.07.30-05.14.25:596][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.14.25:671][427]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.30-05.14.25:699][427]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.14.25:700][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-05.14.25:700][427]PIE: New page: PIE session: Level1 (31 Jul 2018 1:14:25 am)
+[2018.07.30-05.14.25:700][427]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.07.30-05.14.25:711][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011366s)
+[2018.07.30-05.14.25:712][427]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-05.14.25:712][427]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2018.07.30-05.14.25:712][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.012107s)
+[2018.07.30-05.14.25:733][427]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da8d9bb0, Size=104
+[2018.07.30-05.14.25:757][427]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-05.14.25:767][427]LogInit: FAudioDevice initialized.
+[2018.07.30-05.14.25:797][427]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.30-05.14.25:799][427]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.07.30-15.14.25
+[2018.07.30-05.14.25:799][427]LogWorld: Bringing up level for play took: 0.001117
+[2018.07.30-05.14.25:801][427]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.14.25:802][427]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.07.30-05.14.25:802][427]LogBlueprintUserMessages: [Level1_C_7] Level 1
+[2018.07.30-05.14.25:803][427]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.482
+[2018.07.30-05.14.25:803][427]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.14.27:325][606]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.27:667][647]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.14.29:325][846]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.29:667][887]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.14.30:275][960]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.31:667][127]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.14.45:198][748]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.46:431][896]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.47:148][982]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.47:506][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.47:915][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.48:298][120]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.48:665][164]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.49:259][235]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0216
+[2018.07.30-05.14.49:259][235]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-05.14.49:259][235]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0067
+[2018.07.30-05.14.49:259][235]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-05.14.49:457][259]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0216
+[2018.07.30-05.14.49:458][259]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-05.14.49:458][259]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0067
+[2018.07.30-05.14.49:458][259]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-05.14.49:657][283]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.49:816][302]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.50:375][369]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0216
+[2018.07.30-05.14.50:375][369]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-05.14.50:375][369]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0067
+[2018.07.30-05.14.50:375][369]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-05.14.50:534][388]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.50:574][393]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.14.58:684][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.14.58:722][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.15.02:387][742]LogEditorViewport: Clicking on Actor (LMB): EnemySpawner_C (EnemySpawner)
+[2018.07.30-05.15.30:244][ 54]Cmd: SELECT NONE
+[2018.07.30-05.16.04:930][191]Cmd: TRANSACTION UNDO
+[2018.07.30-05.16.04:930][191]LogEditorTransaction: Undo Apply Material to Surface
+[2018.07.30-05.16.07:931][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.16.13:090][979]LogRenderer: Reallocating scene render targets to support 1616x1000 Format 10 NumSamples 1 (Frame:1056).
+[2018.07.30-05.17.17:097][151]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.30-05.17.22:130][574]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.30-05.17.22:215][574]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b382453200, Size=1392
+[2018.07.30-05.17.22:215][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da613200, Size=1392, ThirdPersonCharacter_C_132 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_193:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.30-05.17.22:228][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3a3a90800, Size=1392, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.30-05.17.25:192][800]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.30-05.17.25:211][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.17.25:211][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-05.17.25:211][800]PIE: New page: PIE session: Level1 (31 Jul 2018 1:17:25 am)
+[2018.07.30-05.17.25:212][800]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.07.30-05.17.25:222][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010424s)
+[2018.07.30-05.17.25:222][800]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-05.17.25:223][800]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2018.07.30-05.17.25:223][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.011224s)
+[2018.07.30-05.17.25:244][800]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da613200, Size=1392
+[2018.07.30-05.17.25:265][800]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-05.17.25:275][800]LogInit: FAudioDevice initialized.
+[2018.07.30-05.17.25:313][800]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.30-05.17.25:315][800]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.07.30-15.17.25
+[2018.07.30-05.17.25:315][800]LogWorld: Bringing up level for play took: 0.001400
+[2018.07.30-05.17.25:317][800]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.17.25:318][800]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.07.30-05.17.25:318][800]LogBlueprintUserMessages: [Level1_C_7] Level 1
+[2018.07.30-05.17.25:318][800]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 1.043
+[2018.07.30-05.17.25:319][800]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.17.27:291][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.17.27:341][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.17.34:047][586]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.30-05.17.34:065][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.17.34:065][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-05.17.34:065][586]PIE: New page: PIE session: Level1 (31 Jul 2018 1:17:34 am)
+[2018.07.30-05.17.34:065][586]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.07.30-05.17.34:076][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010694s)
+[2018.07.30-05.17.34:076][586]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-05.17.34:077][586]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2018.07.30-05.17.34:077][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.011396s)
+[2018.07.30-05.17.34:117][586]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-05.17.34:127][586]LogInit: FAudioDevice initialized.
+[2018.07.30-05.17.34:157][586]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.30-05.17.34:159][586]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.07.30-15.17.34
+[2018.07.30-05.17.34:160][586]LogWorld: Bringing up level for play took: 0.001227
+[2018.07.30-05.17.34:161][586]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.17.34:162][586]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.07.30-05.17.34:163][586]LogBlueprintUserMessages: [Level1_C_7] Level 1
+[2018.07.30-05.17.34:163][586]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.112
+[2018.07.30-05.17.34:163][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.17.36:046][809]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.17.36:389][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.17.36:423][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.17.45:585][662]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.30-05.18.25:230][492]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.30-05.18.25:315][492]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3a3a90800, Size=1392
+[2018.07.30-05.18.25:315][492]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b31f336b00, Size=1392, ThirdPersonCharacter_C_162 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_200:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.30-05.18.25:327][492]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b39fae3200, Size=1392, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.30-05.22.09:439][197]BlueprintLog: New page: Compile EnemyCharacter
+[2018.07.30-05.22.09:512][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3b345b000, Size=512
+[2018.07.30-05.22.09:512][197]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c96cc400, Size=512, EnemyCharacter_C_163 Function /Engine/Transient.REINST_EnemyCharacter_C_209:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.22.09:518][197]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ca3b1000, Size=496, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.22.09:776][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b31f336b00, Size=1392
+[2018.07.30-05.22.47:766][200]BlueprintLog: New page: Compile EnemyCharacter
+[2018.07.30-05.22.47:803][200]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ca3b1000, Size=496
+[2018.07.30-05.22.47:803][200]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b32949fa00, Size=496, EnemyCharacter_C_177 Function /Engine/Transient.REINST_EnemyCharacter_C_218:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.22.47:809][200]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c39a6c00, Size=512, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.22.48:058][200]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c96cc400, Size=512
+[2018.07.30-05.23.04:833][605]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.30-05.23.04:852][605]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.23.04:852][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-05.23.04:852][605]PIE: New page: PIE session: Level1 (31 Jul 2018 1:23:04 am)
+[2018.07.30-05.23.04:852][605]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.07.30-05.23.04:863][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011312s)
+[2018.07.30-05.23.04:864][605]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-05.23.04:864][605]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2018.07.30-05.23.04:864][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.012168s)
+[2018.07.30-05.23.04:886][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b32949fa00, Size=496
+[2018.07.30-05.23.04:906][605]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-05.23.04:918][605]LogInit: FAudioDevice initialized.
+[2018.07.30-05.23.04:950][605]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.30-05.23.04:953][605]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.07.30-15.23.04
+[2018.07.30-05.23.04:953][605]LogWorld: Bringing up level for play took: 0.001371
+[2018.07.30-05.23.04:955][605]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.23.04:956][605]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.07.30-05.23.04:956][605]LogBlueprintUserMessages: [Level1_C_7] Level 1
+[2018.07.30-05.23.04:957][605]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.694
+[2018.07.30-05.23.04:957][605]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.23.06:834][827]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.23.08:833][ 67]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.23.10:476][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.23.10:512][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.23.14:322][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.23.18:686][180]LogRenderer: Reallocating scene render targets to support 1904x1000 Format 10 NumSamples 1 (Frame:1).
+[2018.07.30-05.25.01:255][325]BlueprintLog: New page: Compile EnemyCharacter
+[2018.07.30-05.25.01:336][325]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c39a6c00, Size=512
+[2018.07.30-05.25.01:336][325]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d7564800, Size=512, EnemyCharacter_C_191 Function /Engine/Transient.REINST_EnemyCharacter_C_227:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.25.01:342][325]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d7565800, Size=496, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.27.22:944][891]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d7564800, Size=512
+[2018.07.30-05.27.22:974][891]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da14a9b0, Size=104
+[2018.07.30-05.27.22:974][891]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b38dddd1a0, Size=104, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_231:ExecuteUbergraph_Level1
+[2018.07.30-05.27.22:977][891]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3840197c0, Size=104, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.27.23:163][891]LogSavePackage: Save=199.89ms
+[2018.07.30-05.27.23:164][891]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Level1_Auto18E072A5B4D8046ACB3CD26A6DF5583C7.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto1.umap'
+[2018.07.30-05.27.23:166][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto1.umap
+[2018.07.30-05.27.23:168][891]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 0.249
+[2018.07.30-05.27.23:169][891]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2018.07.30-05.27.23:175][891]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.07.30-05.27.23:198][891]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.07.30-05.27.23:198][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.07.30-05.27.23:317][891]LogSavePackage: Save=102.44ms
+[2018.07.30-05.27.23:317][891]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/ThirdPersonCharacter_Auto1D26F47EE4EE25116B99CB8963B2DA417.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.07.30-05.27.23:320][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.07.30-05.27.23:320][891]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/EnemyCharacter] ([1] browsable assets)...
+[2018.07.30-05.27.23:345][891]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter]
+[2018.07.30-05.27.23:345][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/EnemyCharacter]
+[2018.07.30-05.27.23:414][891]LogSavePackage: Save=57.22ms
+[2018.07.30-05.27.23:414][891]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemyCharacter_Auto1783A69FF498FFCF8DE0109A9AEA3505C.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/EnemyCharacter_Auto1.uasset'
+[2018.07.30-05.27.23:417][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/EnemyCharacter_Auto1.uasset
+[2018.07.30-05.27.23:417][891]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/EnemySpawner] ([1] browsable assets)...
+[2018.07.30-05.27.23:417][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/EnemySpawner]
+[2018.07.30-05.27.23:457][891]LogSavePackage: Save=29.02ms
+[2018.07.30-05.27.23:457][891]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemySpawner_Auto1D70B1EAF45F2E7E1C644A6801921F816.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/EnemySpawner_Auto1.uasset'
+[2018.07.30-05.27.23:460][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/EnemySpawner_Auto1.uasset
+[2018.07.30-05.27.23:460][891]LogFileHelpers: Auto-saving content packages took 0.286
+[2018.07.30-05.27.48:728][666]BlueprintLog: New page: Compile EnemyCharacter
+[2018.07.30-05.27.48:763][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d7565800, Size=496
+[2018.07.30-05.27.48:763][666]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3e2a3d800, Size=496, EnemyCharacter_C_205 Function /Engine/Transient.REINST_EnemyCharacter_C_240:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.27.48:769][666]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3de496000, Size=496, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.27.49:010][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b38dddd1a0, Size=104
+[2018.07.30-05.28.18:472][ 60]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.30-05.28.20:752][327]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.30-05.28.23:242][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.28.27:605][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.28.27:690][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.30-05.28.27:722][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.28.27:722][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-05.28.27:722][ 31]PIE: New page: PIE session: Level1 (31 Jul 2018 1:28:27 am)
+[2018.07.30-05.28.27:722][ 31]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.07.30-05.28.27:734][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011687s)
+[2018.07.30-05.28.27:734][ 31]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-05.28.27:735][ 31]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2018.07.30-05.28.27:735][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.012639s)
+[2018.07.30-05.28.27:762][ 31]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3e2a3d800, Size=496
+[2018.07.30-05.28.27:790][ 31]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-05.28.27:801][ 31]LogInit: FAudioDevice initialized.
+[2018.07.30-05.28.27:830][ 31]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.30-05.28.27:833][ 31]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.07.30-15.28.27
+[2018.07.30-05.28.27:834][ 31]LogWorld: Bringing up level for play took: 0.002406
+[2018.07.30-05.28.27:835][ 31]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.28.27:837][ 31]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.07.30-05.28.27:837][ 31]LogBlueprintUserMessages: [Level1_C_8] Level 1
+[2018.07.30-05.28.27:838][ 31]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.419
+[2018.07.30-05.28.27:838][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.28.29:686][249]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.28.30:437][339]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.28.31:354][449]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_488
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0199
+[2018.07.30-05.28.31:354][449]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-05.28.31:354][449]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_488
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0211
+[2018.07.30-05.28.31:354][449]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-05.28.31:554][473]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.28.31:571][475]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.28.31:688][489]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.28.33:691][729]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.28.36:604][ 78]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0199
+[2018.07.30-05.28.36:604][ 78]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-05.28.36:604][ 78]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0211
+[2018.07.30-05.28.36:604][ 78]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-05.28.36:804][102]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.28.37:047][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.28.38:363][289]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.28.39:396][413]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0199
+[2018.07.30-05.28.39:396][413]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-05.28.39:396][413]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0211
+[2018.07.30-05.28.39:396][413]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-05.28.39:797][461]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0199
+[2018.07.30-05.28.39:797][461]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-05.28.39:797][461]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0211
+[2018.07.30-05.28.39:797][461]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-05.28.39:996][485]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.28.50:623][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.28.50:663][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.28.52:590][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.33.53:157][330]LogSlate: Window 'Message Log' being destroyed
+[2018.07.30-05.33.53:162][330]LogSlate: Window 'Message Log' being destroyed
+[2018.07.30-05.34.15:015][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da15d770, Size=4, Default__SKEL_DreamMeter_C Function /Game/ThirdPersonBP/UI/DreamMeter.SKEL_DreamMeter_C:ExecuteUbergraph_DreamMeter
+[2018.07.30-05.34.18:631][271]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_99' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:632][271]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_101' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:634][271]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_103' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:653][272]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_105' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:656][272]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_107' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:671][273]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_109' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:673][273]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_111' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:687][274]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_113' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:690][274]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_115' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:707][275]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_117' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:722][276]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_119' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:740][277]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_121' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:764][278]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_123' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:782][279]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_125' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:797][280]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_127' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:813][281]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_129' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:829][282]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_131' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:845][283]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_133' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:859][284]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_135' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:860][284]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_137' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:863][284]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_139' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:878][285]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_141' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:893][286]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_143' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:896][286]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_145' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:911][287]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_147' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:927][288]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:942][289]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_151' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:957][290]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_153' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:974][291]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_155' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.18:989][292]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_157' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:006][293]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_159' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:031][294]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_161' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:049][295]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_163' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:065][296]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_165' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:081][297]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_167' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:096][298]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_169' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:099][298]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_171' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:114][299]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_173' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:116][299]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_175' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:135][300]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_177' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:139][300]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_179' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:169][301]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_181' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:198][302]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_183' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:224][303]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_185' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.34.19:243][304]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da15d770, Size=4
+[2018.07.30-05.34.19:243][304]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da15d770, Size=4, Default__SKEL_DreamMeter_C Function /Engine/Transient.REINST_SKEL_DreamMeter_C_15:ExecuteUbergraph_DreamMeter
+[2018.07.30-05.34.19:245][304]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da15fd28, Size=4, Default__SKEL_DreamMeter_C Function /Game/ThirdPersonBP/UI/DreamMeter.SKEL_DreamMeter_C:ExecuteUbergraph_DreamMeter
+[2018.07.30-05.35.01:105][879]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.30-05.35.13:660][638]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_99' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:663][638]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_189' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:680][639]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_191' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:694][640]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_193' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:697][640]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_195' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:712][641]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_197' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:728][642]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_199' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:744][643]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_201' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:760][644]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_203' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:776][645]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_205' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:792][646]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_207' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:808][647]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_209' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:823][648]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_211' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:839][649]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_213' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:853][650]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_215' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:856][650]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_217' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:872][651]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_219' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:887][652]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_221' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:890][652]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_223' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:906][653]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_225' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:920][654]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_227' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:923][654]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:938][655]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_231' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:941][655]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_233' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:956][656]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_235' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:971][657]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_237' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:974][657]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_239' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.13:989][658]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_241' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:003][659]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_243' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:006][659]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_245' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:021][660]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_247' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:038][661]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_249' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:052][662]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_251' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:055][662]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_253' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:070][663]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_255' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:071][663]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_257' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:073][663]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_259' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:087][664]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_261' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:090][664]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_263' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:106][665]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_265' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:107][665]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_267' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:110][665]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:125][666]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:141][667]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:156][668]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_275' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:172][669]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_277' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:187][670]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_279' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:204][671]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_281' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:220][672]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_283' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:236][673]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_285' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:251][674]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_287' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:267][675]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_289' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:282][676]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_291' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:298][677]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_293' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:314][678]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_295' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.30-05.35.14:330][679]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da15fd28, Size=4
+[2018.07.30-05.35.14:330][679]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3df97b3c8, Size=4, Default__SKEL_DreamMeter_C Function /Engine/Transient.REINST_SKEL_DreamMeter_C_16:ExecuteUbergraph_DreamMeter
+[2018.07.30-05.35.14:331][679]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3df97bab0, Size=4, Default__SKEL_DreamMeter_C Function /Game/ThirdPersonBP/UI/DreamMeter.SKEL_DreamMeter_C:ExecuteUbergraph_DreamMeter
+[2018.07.30-05.35.17:439][845]BlueprintLog: New page: Compile DreamMeter
+[2018.07.30-05.35.17:445][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3df97bab0, Size=4
+[2018.07.30-05.35.17:445][845]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3da15cc10, Size=4, Default__SKEL_DreamMeter_C Function /Engine/Transient.REINST_SKEL_DreamMeter_C_17:ExecuteUbergraph_DreamMeter
+[2018.07.30-05.35.17:451][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b318fd6080, Size=84
+[2018.07.30-05.35.17:451][845]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d0301180, Size=84, Default__DreamMeter_C Function /Engine/Transient.REINST_DreamMeter_C_18:ExecuteUbergraph_DreamMeter
+[2018.07.30-05.35.17:453][845]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d03006a0, Size=84, Default__DreamMeter_C Function /Game/ThirdPersonBP/UI/DreamMeter.DreamMeter_C:ExecuteUbergraph_DreamMeter
+[2018.07.30-05.35.17:477][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3df97b3c8, Size=4
+[2018.07.30-05.35.17:478][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da15d770, Size=4
+[2018.07.30-05.35.17:478][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3da15cc10, Size=4
+[2018.07.30-05.37.36:912][546]BlueprintLog: New page: Compile EnemyCharacter
+[2018.07.30-05.37.36:995][546]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3de496000, Size=496
+[2018.07.30-05.37.36:995][546]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3a187fc00, Size=496, EnemyCharacter_C_267 Function /Engine/Transient.REINST_EnemyCharacter_C_256:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.37.37:002][546]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3b3b00600, Size=496, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.37.57:767][446]BlueprintLog: New page: Compile EnemyCharacter
+[2018.07.30-05.37.57:803][446]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3b3b00600, Size=496
+[2018.07.30-05.37.57:803][446]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40d5e6c00, Size=496, EnemyCharacter_C_284 Function /Engine/Transient.REINST_EnemyCharacter_C_265:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.37.57:809][446]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3defb0800, Size=496, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.38.52:977][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.38.53:023][263]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3f81e7970, Size=4, Default__Enemy_waypoint_C Function /Game/ThirdPersonBP/Blueprints/Enemy_waypoint.Enemy_waypoint_C:ExecuteUbergraph_Enemy_waypoint
+[2018.07.30-05.38.53:025][263]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3f81e7970, Size=4
+[2018.07.30-05.38.53:025][263]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3f81e7970, Size=4, Default__Enemy_waypoint_C Function /Engine/Transient.REINST_Enemy_waypoint_C_267:ExecuteUbergraph_Enemy_waypoint
+[2018.07.30-05.38.53:026][263]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3f81e7890, Size=4, Default__Enemy_waypoint_C Function /Game/ThirdPersonBP/Blueprints/Enemy_waypoint.Enemy_waypoint_C:ExecuteUbergraph_Enemy_waypoint
+[2018.07.30-05.38.56:044][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.39.17:707][287]BlueprintLog: New page: Compile EnemyCharacter
+[2018.07.30-05.39.17:742][287]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3defb0800, Size=496
+[2018.07.30-05.39.17:742][287]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3cedc3600, Size=496, EnemyCharacter_C_301 Function /Engine/Transient.REINST_EnemyCharacter_C_276:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.39.17:748][287]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d243c600, Size=496, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.39.18:077][287]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40d5e6c00, Size=496
+[2018.07.30-05.39.18:077][287]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3f81e7970, Size=4
+[2018.07.30-05.39.19:212][358]LogSavePackage: Save=51.31ms
+[2018.07.30-05.39.19:212][358]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemyCharacter38A8353B4AEE6AAF8CE09F9ABA3C0177.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyCharacter.uasset'
+[2018.07.30-05.39.19:218][358]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyCharacter.uasset
+[2018.07.30-05.39.23:244][716]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.30-05.39.23:270][716]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.39.23:270][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-05.39.23:270][716]PIE: New page: PIE session: Level1 (31 Jul 2018 1:39:23 am)
+[2018.07.30-05.39.23:270][716]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.07.30-05.39.23:281][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010844s)
+[2018.07.30-05.39.23:282][716]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-05.39.23:282][716]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2018.07.30-05.39.23:282][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.011648s)
+[2018.07.30-05.39.23:325][716]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-05.39.23:335][716]LogInit: FAudioDevice initialized.
+[2018.07.30-05.39.23:364][716]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.30-05.39.23:367][716]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.07.30-15.39.23
+[2018.07.30-05.39.23:367][716]LogWorld: Bringing up level for play took: 0.002004
+[2018.07.30-05.39.23:369][716]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.39.23:370][716]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.07.30-05.39.23:370][716]LogBlueprintUserMessages: [Level1_C_8] Level 1
+[2018.07.30-05.39.23:371][716]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.863
+[2018.07.30-05.39.23:371][716]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.39.23:882][767]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.39.25:242][930]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.39.27:242][170]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.39.31:835][721]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.39.51:781][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.39.51:820][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.39.59:012][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.30-05.40.00:545][914]LogSavePackage: Save=56.89ms
+[2018.07.30-05.40.00:545][914]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemyCharacterE1BA96B84D940FD5C187B9B4B9503C06.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyCharacter.uasset'
+[2018.07.30-05.40.00:548][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyCharacter.uasset
+[2018.07.30-05.40.00:993][954]BlueprintLog: New page: Compile EnemyCharacter
+[2018.07.30-05.40.01:030][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d243c600, Size=496
+[2018.07.30-05.40.01:030][954]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b440e65600, Size=496, EnemyCharacter_C_315 Function /Engine/Transient.REINST_EnemyCharacter_C_285:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.40.01:036][954]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b440a27600, Size=496, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-05.42.06:120][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b440e65600, Size=496
+[2018.07.30-05.42.06:147][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3840197c0, Size=104
+[2018.07.30-05.42.06:147][655]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3e548d210, Size=104, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_289:ExecuteUbergraph_Level1
+[2018.07.30-05.42.06:149][655]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3a996b820, Size=104, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.42.06:335][655]LogSavePackage: Save=197.84ms
+[2018.07.30-05.42.06:335][655]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Level1_Auto21E193FE4494D526A497398B3D354D2C8.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto2.umap'
+[2018.07.30-05.42.06:337][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto2.umap
+[2018.07.30-05.42.06:339][655]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 0.244
+[2018.07.30-05.42.06:339][655]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.244
+[2018.07.30-05.42.06:342][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.07.30-05.42.06:366][655]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.07.30-05.42.06:366][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.07.30-05.42.06:483][655]LogSavePackage: Save=104.27ms
+[2018.07.30-05.42.06:483][655]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/ThirdPersonCharacter_Auto2EAA32F634502E524E3EE05BA707421F7.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2018.07.30-05.42.06:487][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2018.07.30-05.42.06:487][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/EnemyAI] ([1] browsable assets)...
+[2018.07.30-05.42.06:487][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/EnemyAI]
+[2018.07.30-05.42.06:509][655]LogSavePackage: Save=8.79ms
+[2018.07.30-05.42.06:509][655]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemyAI_Auto2F3A4ED294FB3F886C28AB2B992A24CD9.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/EnemyAI_Auto2.uasset'
+[2018.07.30-05.42.06:511][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/EnemyAI_Auto2.uasset
+[2018.07.30-05.42.06:512][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/EnemySpawner] ([1] browsable assets)...
+[2018.07.30-05.42.06:512][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/EnemySpawner]
+[2018.07.30-05.42.06:557][655]LogSavePackage: Save=32.48ms
+[2018.07.30-05.42.06:557][655]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemySpawner_Auto2A7F71B124721B862B814DC91EDCDE31F.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/EnemySpawner_Auto2.uasset'
+[2018.07.30-05.42.06:560][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/EnemySpawner_Auto2.uasset
+[2018.07.30-05.42.06:560][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI/DreamMeter] ([1] browsable assets)...
+[2018.07.30-05.42.06:560][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI/DreamMeter]
+[2018.07.30-05.42.06:596][655]LogSavePackage: Save=23.64ms
+[2018.07.30-05.42.06:596][655]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/DreamMeter_Auto2392F2F20495976BAAE3619BD5F35747B.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/UI/DreamMeter_Auto2.uasset'
+[2018.07.30-05.42.06:598][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/UI/DreamMeter_Auto2.uasset
+[2018.07.30-05.42.06:598][655]LogFileHelpers: Auto-saving content packages took 0.257
+[2018.07.30-05.44.18:506][165]BlueprintLog: New page: Compile EnemyAI
+[2018.07.30-05.44.18:511][165]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b30d5c6080, Size=104
+[2018.07.30-05.44.18:511][165]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40dea39e0, Size=104, Default__EnemyAI_C Function /Engine/Transient.REINST_EnemyAI_C_293:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.44.18:513][165]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b43a6cace0, Size=88, Default__EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.44.18:678][165]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3e548d210, Size=104
+[2018.07.30-05.44.19:812][266]LogSavePackage: Save=8.00ms
+[2018.07.30-05.44.19:813][266]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemyAI5B7D193749C3514F363FAFB58F03A0B0.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset'
+[2018.07.30-05.44.19:819][266]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset
+[2018.07.30-05.44.22:533][554]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.30-05.44.22:552][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.44.22:553][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-05.44.22:553][554]PIE: New page: PIE session: Level1 (31 Jul 2018 1:44:22 am)
+[2018.07.30-05.44.22:553][554]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.07.30-05.44.22:565][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012093s)
+[2018.07.30-05.44.22:565][554]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-05.44.22:566][554]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2018.07.30-05.44.22:566][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.012870s)
+[2018.07.30-05.44.22:589][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40dea39e0, Size=104
+[2018.07.30-05.44.22:609][554]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-05.44.22:618][554]LogInit: FAudioDevice initialized.
+[2018.07.30-05.44.22:654][554]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.30-05.44.22:657][554]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.07.30-15.44.22
+[2018.07.30-05.44.22:657][554]LogWorld: Bringing up level for play took: 0.002449
+[2018.07.30-05.44.22:659][554]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.44.22:660][554]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.07.30-05.44.22:660][554]LogBlueprintUserMessages: [Level1_C_9] Level 1
+[2018.07.30-05.44.22:661][554]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.432
+[2018.07.30-05.44.22:661][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.44.24:526][770]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.44.25:036][831]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0199
+[2018.07.30-05.44.25:036][831]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-05.44.25:036][831]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0211
+[2018.07.30-05.44.25:036][831]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-05.44.25:236][855]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.44.25:720][913]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.44.26:529][ 10]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.44.28:532][250]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-05.44.29:932][418]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_488
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0199
+[2018.07.30-05.44.29:932][418]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-05.44.29:932][418]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_488
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0211
+[2018.07.30-05.44.29:932][418]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-05.44.30:132][442]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-05.44.38:143][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.44.38:187][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-05.44.40:591][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.30-05.44.56:133][ 97]BlueprintLog: New page: Compile EnemyAI
+[2018.07.30-05.44.56:138][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b43a6cace0, Size=88
+[2018.07.30-05.44.56:138][ 97]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b45b671540, Size=88, Default__EnemyAI_C Function /Engine/Transient.REINST_EnemyAI_C_297:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.44.56:139][ 97]LogBlueprint: Error: [Compiler EnemyAI] The type of  Object  is undetermined.  Connect something to  Cast To Enemy_waypoint  to imply a specific type.
+[2018.07.30-05.44.56:139][ 97]LogBlueprint: Error: [Compiler EnemyAI] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.07.30-05.44.56:140][ 97]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b43a424790, Size=104, Default__EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.44.56:307][ 97]LogBlueprint: Warning: [Compiler EnemyAI] [3559.81] Compile of EnemyAI failed. 2 Fatal Issue(s) 0 Warning(s) [in 174 ms] (/Game/ThirdPersonBP/Blueprints/EnemyAI.EnemyAI)
+[2018.07.30-05.45.03:812][809]LogEditorTransaction: Undo Create Pin Link
+[2018.07.30-05.45.03:813][809]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d43b1958, Size=4, Default__SKEL_EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.SKEL_EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.45.04:027][825]LogEditorTransaction: Undo Create Pin Link
+[2018.07.30-05.45.04:028][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d43b1958, Size=4
+[2018.07.30-05.45.04:028][825]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d43b1958, Size=4, Default__SKEL_EnemyAI_C Function /Engine/Transient.REINST_SKEL_EnemyAI_C_301:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.45.04:029][825]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d43b2080, Size=4, Default__SKEL_EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.SKEL_EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.45.04:297][844]LogEditorTransaction: Undo Move Node
+[2018.07.30-05.45.04:297][844]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d43b2080, Size=4
+[2018.07.30-05.45.04:297][844]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d43b2080, Size=4, Default__SKEL_EnemyAI_C Function /Engine/Transient.REINST_SKEL_EnemyAI_C_303:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.45.04:298][844]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d43b3588, Size=4, Default__SKEL_EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.SKEL_EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.45.17:812][ 99]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.30-05.46.14:941][653]LogEditorTransaction: Undo Split Struct Pin
+[2018.07.30-05.46.14:942][653]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d43b3588, Size=4
+[2018.07.30-05.46.14:942][653]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b431b1d2a8, Size=4, Default__SKEL_EnemyAI_C Function /Engine/Transient.REINST_SKEL_EnemyAI_C_305:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.46.14:943][653]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b431b1fe40, Size=4, Default__SKEL_EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.SKEL_EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.46.30:943][233]BlueprintLog: New page: Compile EnemyAI
+[2018.07.30-05.46.30:945][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b431b1fe40, Size=4
+[2018.07.30-05.46.30:945][233]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d43b2ea8, Size=4, Default__SKEL_EnemyAI_C Function /Engine/Transient.REINST_SKEL_EnemyAI_C_307:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.46.30:947][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b43a424790, Size=104
+[2018.07.30-05.46.30:947][233]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b44343f510, Size=104, EnemyAI_C_1 Function /Engine/Transient.REINST_EnemyAI_C_309:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.46.30:949][233]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b45b4a1750, Size=104, Default__EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.07.30-05.46.31:112][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d43b2ea8, Size=4
+[2018.07.30-05.46.31:112][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b45b671540, Size=88
+[2018.07.30-05.46.31:112][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d43b1958, Size=4
+[2018.07.30-05.46.31:112][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b431b1d2a8, Size=4
+[2018.07.30-05.46.31:112][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d43b2080, Size=4
+[2018.07.30-05.46.31:502][262]LogSavePackage: Save=7.81ms
+[2018.07.30-05.46.31:502][262]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemyAIB52F672B4B0FBCC997400E89627E0872.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset'
+[2018.07.30-05.46.31:506][262]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset
+[2018.07.30-05.59.16:249][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.30-05.59.18:207][ 97]Cmd: SELECT NONE
+[2018.07.30-05.59.26:701][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-05.59.28:209][234]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3b03b46b0, Size=104, Default__Level2_C Function /Game/ThirdPersonBP/Maps/Level2.Level2_C:ExecuteUbergraph_Level2
+[2018.07.30-05.59.28:212][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3b03b46b0, Size=104
+[2018.07.30-05.59.28:212][234]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3b03b46b0, Size=104, Default__Level2_C Function /Engine/Transient.REINST_Level2_C_311:ExecuteUbergraph_Level2
+[2018.07.30-05.59.28:215][234]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3d0455280, Size=104, Default__Level2_C Function /Game/ThirdPersonBP/Maps/Level2.Level2_C:ExecuteUbergraph_Level2
+[2018.07.30-05.59.28:247][234]LogAIModule: Creating AISystem for world Level2
+[2018.07.30-05.59.28:280][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b44343f510, Size=104
+[2018.07.30-05.59.28:280][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3b03b46b0, Size=104
+[2018.07.30-05.59.29:305][234]LogSlate: Window 'Save Content' being destroyed
+[2018.07.30-05.59.29:362][234]LogSavePackage: Save=38.49ms
+[2018.07.30-05.59.29:362][234]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemySpawner22554D614C86D1F5249BB6B8E46974BA.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemySpawner.uasset'
+[2018.07.30-05.59.29:367][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemySpawner.uasset
+[2018.07.30-05.59.29:480][234]LogSavePackage: Save=102.46ms
+[2018.07.30-05.59.29:480][234]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/ThirdPersonCharacter23FE16954F5AFB8D06711FB04B2F2E46.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.30-05.59.29:485][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.30-05.59.29:603][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3a996b820, Size=104
+[2018.07.30-05.59.29:603][234]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b443debb30, Size=104, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_315:ExecuteUbergraph_Level1
+[2018.07.30-05.59.29:606][234]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b425ef59f0, Size=104, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-05.59.29:829][234]LogSavePackage: Save=235.12ms
+[2018.07.30-05.59.29:829][234]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Level1A0B67B634767B5EE9C86ED9277731CF7.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.07.30-05.59.29:834][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.07.30-05.59.29:858][234]LogFileHelpers: Saving map 'Level1' took 0.373
+[2018.07.30-05.59.29:859][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/DreamMeter" FILE="../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/DreamMeter.uasset" SILENT=true
+[2018.07.30-05.59.29:889][234]LogSavePackage: Save=18.37ms
+[2018.07.30-05.59.29:889][234]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/DreamMeter386C2F324AA484583A2E88AD99DC3090.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/DreamMeter.uasset'
+[2018.07.30-05.59.29:893][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/DreamMeter.uasset
+[2018.07.30-05.59.29:895][234]Cmd: MAP LOAD FILE="../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.30-05.59.29:895][234]LightingResults: New page: Lighting Build
+[2018.07.30-05.59.29:896][234]LoadErrors: New page: Loading map: Level2.umap
+[2018.07.30-05.59.29:944][234]MapCheck: New page: Map Check
+[2018.07.30-05.59.29:944][234]LightingResults: New page: Lighting Build
+[2018.07.30-05.59.29:972][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d0301180, Size=84
+[2018.07.30-05.59.29:973][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3cedc3600, Size=496
+[2018.07.30-05.59.29:973][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3a187fc00, Size=496
+[2018.07.30-05.59.29:973][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b425ef59f0, Size=104
+[2018.07.30-05.59.29:973][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b443debb30, Size=104
+[2018.07.30-05.59.29:979][234]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.30-05.59.30:030][234]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.30-05.59.30:096][234]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.446ms to complete.
+[2018.07.30-05.59.30:096][234]LogFileHelpers: Loading map 'Level2' took 0.202
+[2018.07.30-06.33.25:240][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-06.39.02:252][481]BlueprintLog: New page: Compile EnemyCharacter
+[2018.07.30-06.39.02:308][481]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b440a27600, Size=496
+[2018.07.30-06.39.02:308][481]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b32853ea00, Size=496, EnemyCharacter_C_329 Function /Engine/Transient.REINST_EnemyCharacter_C_324:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-06.39.02:314][481]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c3faac00, Size=496, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.07.30-06.39.03:179][514]LogSavePackage: Save=51.94ms
+[2018.07.30-06.39.03:179][514]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemyCharacterC20427A8475735C2A16759807DC9B3C8.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyCharacter.uasset'
+[2018.07.30-06.39.03:184][514]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyCharacter.uasset
+[2018.07.30-06.39.33:186][427]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b32853ea00, Size=496
+[2018.07.30-06.39.33:214][427]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d0455280, Size=104
+[2018.07.30-06.39.33:214][427]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3f44461d0, Size=104, Default__Level2_C Function /Engine/Transient.REINST_Level2_C_328:ExecuteUbergraph_Level2
+[2018.07.30-06.39.33:217][427]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3fb13f430, Size=104, Default__Level2_C Function /Game/ThirdPersonBP/Maps/Level2.Level2_C:ExecuteUbergraph_Level2
+[2018.07.30-06.39.33:419][427]LogSavePackage: Save=217.48ms
+[2018.07.30-06.39.33:419][427]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Level2_Auto3CA8BA05E4C4426D5922BAFB18944D2BD.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level2_Auto3.umap'
+[2018.07.30-06.39.33:425][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level2_Auto3.umap
+[2018.07.30-06.39.33:427][427]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level2' took 0.264
+[2018.07.30-06.39.33:428][427]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.264
+[2018.07.30-06.44.06:308][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-06.44.11:434][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.30-06.45.05:792][621]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b43a382470, Size=104, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-06.45.05:795][621]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b43a382470, Size=104
+[2018.07.30-06.45.05:795][621]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b43a382470, Size=104, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_330:ExecuteUbergraph_Level1
+[2018.07.30-06.45.05:798][621]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b386af8b80, Size=104, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-06.45.05:829][621]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-06.45.05:862][621]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3f44461d0, Size=104
+[2018.07.30-06.45.05:862][621]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b43a382470, Size=104
+[2018.07.30-06.45.08:395][621]LogSlate: Window 'Save Content' being destroyed
+[2018.07.30-06.45.08:426][621]LogSavePackage: Save=9.26ms
+[2018.07.30-06.45.08:426][621]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/EnemyAIAF7F9EAF413F1B24EF1FD2BCB6D1675B.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset'
+[2018.07.30-06.45.08:432][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset
+[2018.07.30-06.45.08:559][621]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3fb13f430, Size=104
+[2018.07.30-06.45.08:559][621]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b306b32160, Size=104, Default__Level2_C Function /Engine/Transient.REINST_Level2_C_334:ExecuteUbergraph_Level2
+[2018.07.30-06.45.08:562][621]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b407e030b0, Size=104, Default__Level2_C Function /Game/ThirdPersonBP/Maps/Level2.Level2_C:ExecuteUbergraph_Level2
+[2018.07.30-06.45.08:792][621]LogSavePackage: Save=242.95ms
+[2018.07.30-06.45.08:792][621]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Level239A4EAEB44B2977CF46B4E869ABC7554.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level2.umap'
+[2018.07.30-06.45.08:799][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level2.umap
+[2018.07.30-06.45.08:827][621]LogFileHelpers: Saving map 'Level2' took 0.394
+[2018.07.30-06.45.08:828][621]Cmd: MAP LOAD FILE="../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.30-06.45.08:828][621]LightingResults: New page: Lighting Build
+[2018.07.30-06.45.08:829][621]LoadErrors: New page: Loading map: Level1.umap
+[2018.07.30-06.45.08:830][621]MapCheck: New page: Map Check
+[2018.07.30-06.45.08:830][621]LightingResults: New page: Lighting Build
+[2018.07.30-06.45.08:853][621]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b407e030b0, Size=104
+[2018.07.30-06.45.08:853][621]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b306b32160, Size=104
+[2018.07.30-06.45.08:866][621]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.30-06.45.08:920][621]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.30-06.45.08:992][621]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.148ms to complete.
+[2018.07.30-06.45.08:992][621]LogFileHelpers: Loading map 'Level1' took 0.165
+[2018.07.30-06.45.13:540][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-06.45.13:590][153]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.30-06.45.13:638][153]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-06.45.13:638][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-06.45.13:638][153]PIE: New page: PIE session: Level1 (31 Jul 2018 2:45:13 am)
+[2018.07.30-06.45.13:638][153]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.07.30-06.45.13:650][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012213s)
+[2018.07.30-06.45.13:651][153]LogAIModule: Creating AISystem for world Level1
+[2018.07.30-06.45.13:651][153]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2018.07.30-06.45.13:651][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.012968s)
+[2018.07.30-06.45.13:706][153]LogInit: XAudio2 using 'U28E850 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-06.45.13:716][153]LogInit: FAudioDevice initialized.
+[2018.07.30-06.45.13:747][153]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.30-06.45.13:750][153]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.07.30-16.45.13
+[2018.07.30-06.45.13:751][153]LogWorld: Bringing up level for play took: 0.002266
+[2018.07.30-06.45.13:752][153]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-06.45.13:754][153]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.07.30-06.45.13:754][153]LogBlueprintUserMessages: [Level1_C_10] Level 1
+[2018.07.30-06.45.13:754][153]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.428
+[2018.07.30-06.45.13:754][153]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-06.45.15:589][361]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-06.45.17:593][601]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.07.30-06.45.19:703][854]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.21:231][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.21:623][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.22:739][218]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.23:065][257]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.23:398][297]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.23:935][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.26:728][696]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.27:087][739]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.27:497][788]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_488
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0199
+[2018.07.30-06.45.27:497][788]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-06.45.27:497][788]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_488
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0211
+[2018.07.30-06.45.27:497][788]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-06.45.27:688][811]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.28:063][856]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.28:472][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.31:072][217]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.32:698][412]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.35:597][760]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.37:482][986]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.37:873][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.38:447][102]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0199
+[2018.07.30-06.45.38:447][102]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-06.45.38:447][102]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0211
+[2018.07.30-06.45.38:447][102]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-06.45.38:647][126]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0199
+[2018.07.30-06.45.38:648][126]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.07.30-06.45.38:648][126]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0211
+[2018.07.30-06.45.38:648][126]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.07.30-06.45.38:847][150]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.38:906][157]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.47:040][126]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.47:765][213]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.48:240][270]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.45.48:683][323]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.07.30-06.46.02:086][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-06.46.02:126][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.07.30-07.01.38:618][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.30-07.01.42:589][266]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b386af8b80, Size=104
+[2018.07.30-07.01.42:589][266]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b424e3b120, Size=104, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_338:ExecuteUbergraph_Level1
+[2018.07.30-07.01.42:592][266]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3e548dd70, Size=104, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.07.30-07.01.42:779][266]LogSavePackage: Save=199.16ms
+[2018.07.30-07.01.42:779][266]LogSavePackage: Moving '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Level1441318654C94FD45ADAE9BA871215C82.tmp' to '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.07.30-07.01.42:783][266]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.07.30-07.01.45:440][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b424e3b120, Size=104
+[2018.07.30-07.01.46:426][635]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.30-07.01.46:514][635]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.30-07.01.46:767][635]LogSlate: Window 'EnemyAI' being destroyed
+[2018.07.30-07.01.46:775][635]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.30-07.01.46:834][635]LogSlate: Window 'Studio2Level - Unreal Editor' being destroyed
+[2018.07.30-07.01.46:835][635]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.30-07.01.47:073][636]Cmd: QUIT_EDITOR
+[2018.07.30-07.01.47:413][636]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.30-07.01.47:413][636]LogExit: Preparing to exit.
+[2018.07.30-07.01.48:164][636]LogDirectoryWatcher: A directory notification for 'C:/Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/' was aborted.
+[2018.07.30-07.01.48:199][636]LogExit: Editor shut down
+[2018.07.30-07.01.48:203][636]LogExit: Transaction tracking system shut down
+[2018.07.30-07.01.48:204][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b368cb1080, Size=72
+[2018.07.30-07.01.48:205][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3220f0e80, Size=328
+[2018.07.30-07.01.48:205][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b31c6d3900, Size=1384
+[2018.07.30-07.01.48:205][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b360328800, Size=200
+[2018.07.30-07.01.48:207][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b30eb09d20, Size=4
+[2018.07.30-07.01.48:207][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b30eb09d18, Size=4
+[2018.07.30-07.01.48:208][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b320220e00, Size=72
+[2018.07.30-07.01.48:208][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d462b980, Size=120
+[2018.07.30-07.01.48:208][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b328b9b820, Size=48
+[2018.07.30-07.01.48:208][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b39fae3200, Size=1392
+[2018.07.30-07.01.48:208][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c3faac00, Size=496
+[2018.07.30-07.01.48:208][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b45b4a1750, Size=104
+[2018.07.30-07.01.48:208][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3d03006a0, Size=84
+[2018.07.30-07.01.48:208][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3f81e7890, Size=4
+[2018.07.30-07.01.48:208][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3a67bcf00, Size=32
+[2018.07.30-07.01.48:209][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3e548dd70, Size=104
+[2018.07.30-07.01.48:210][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ad0fabb0, Size=40
+[2018.07.30-07.01.48:362][636]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.30-07.01.48:362][636]LogDirectoryWatcher: A directory notification for '../../../../../../Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/' was aborted.
+[2018.07.30-07.01.48:362][636]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.30-07.01.48:362][636]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.30-07.01.48:362][636]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.30-07.01.48:362][636]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.30-07.01.48:363][636]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.30-07.01.48:363][636]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.30-07.01.48:446][636]LogExit: Object subsystem successfully closed.
+[2018.07.30-07.01.48:468][636]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.30-07.01.48:472][636]LogD3D11RHI: Shutdown
+[2018.07.30-07.01.48:472][636]LogD3D11RHI: CleanupD3DDevice
+[2018.07.30-07.01.48:475][636]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.30-07.01.48:503][636]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2018.07.30-07.01.48:503][636]LogModuleManager: Shutting down and abandoning module StatsViewer (578)
+[2018.07.30-07.01.48:503][636]LogModuleManager: Shutting down and abandoning module SequencerWidgets (576)
+[2018.07.30-07.01.48:503][636]LogModuleManager: Shutting down and abandoning module BlueprintGraph (574)
+[2018.07.30-07.01.48:503][636]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (572)
+[2018.07.30-07.01.48:503][636]LogModuleManager: Shutting down and abandoning module SceneOutliner (570)
+[2018.07.30-07.01.48:503][636]LogModuleManager: Shutting down and abandoning module AddContentDialog (568)
+[2018.07.30-07.01.48:503][636]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.30-07.01.48:505][636]LogModuleManager: Shutting down and abandoning module WidgetCarousel (567)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module EditorWidgets (564)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module CollectionManager (562)
+[2018.07.30-07.01.48:506][636]LogDirectoryWatcher: A directory notification for 'C:/Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/Collections/' was aborted.
+[2018.07.30-07.01.48:506][636]LogDirectoryWatcher: A directory notification for 'C:/Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Content/Developers/ldorman/Collections/' was aborted.
+[2018.07.30-07.01.48:506][636]LogDirectoryWatcher: A directory notification for 'C:/Users/ldorman/Documents/test/cranberryjam/Studio2Level 4.19/Saved/Collections/' was aborted.
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.07.30-07.01.48:506][636]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.07.30-07.01.48:507][636]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.07.30-07.01.49:345][636]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.07.30-07.01.49:346][636]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.07.30-07.01.49:346][636]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.07.30-07.01.49:346][636]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.07.30-07.01.49:346][636]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.07.30-07.01.49:346][636]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.07.30-07.01.49:346][636]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.07.30-07.01.49:346][636]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.07.30-07.01.49:346][636]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.07.30-07.01.49:411][636]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.07.30-07.01.49:411][636]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.07.30-07.01.49:411][636]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.07.30-07.01.49:411][636]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.07.30-07.01.49:411][636]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.07.30-07.01.49:411][636]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.07.30-07.01.49:411][636]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.07.30-07.01.49:411][636]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.07.30-07.01.49:411][636]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.07.30-07.01.49:411][636]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.07.30-07.01.49:417][636]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.07.30-07.01.49:417][636]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.07.30-07.01.49:418][636]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.07.30-07.01.49:419][636]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.07.30-07.01.49:419][636]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.07.30-07.01.49:419][636]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.07.30-07.01.49:419][636]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.07.30-07.01.49:479][636]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.07.30-07.01.49:480][636]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.07.30-07.01.49:481][636]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.07.30-07.01.49:481][636]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.07.30-07.01.49:481][636]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.07.30-07.01.49:485][636]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.07.30-07.01.49:586][636]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.07.30-07.01.49:686][636]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.07.30-07.01.49:686][636]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.07.30-07.01.49:686][636]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.07.30-07.01.49:686][636]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.07.30-07.01.49:686][636]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.07.30-07.01.49:686][636]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.07.30-07.01.49:686][636]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.07.30-07.01.49:686][636]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.07.30-07.01.49:687][636]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.07.30-07.01.49:687][636]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.07.30-07.01.49:687][636]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.07.30-07.01.49:688][636]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.07.30-07.01.49:688][636]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.07.30-07.01.49:688][636]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.07.30-07.01.49:688][636]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.07.30-07.01.50:139][636]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.07.30-07.01.50:139][636]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.07.30-07.01.50:139][636]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.07.30-07.01.50:141][636]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.07.30-07.01.50:147][636]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.07.30-07.01.50:148][636]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.07.30-07.01.50:148][636]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.07.30-07.01.50:148][636]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.07.30-07.01.50:148][636]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.07.30-07.01.50:149][636]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.07.30-07.01.50:150][636]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.07.30-07.01.50:215][636]LogDerivedDataCache: Shutdown
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.07.30-07.01.50:216][636]LogXGEController: Cleaning working directory: C:/Users/ldorman/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.07.30-07.01.50:216][636]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.30-07.01.50:217][636]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.30-07.01.50:218][636]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.30-07.01.50:218][636]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.07.30-07.01.50:218][636]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B847B5C69-4E28-19A3-46E8-A49438016A1F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=b4aacea741c40221cca384a9ab475465%7C4acc15f2121041aa882002ed7d344b7c%7C24b1456a-2c37-4cd7-8719-8122bdaada8e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.30-07.01.50:218][636]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B847B5C69-4E28-19A3-46E8-A49438016A1F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=b4aacea741c40221cca384a9ab475465%7C4acc15f2121041aa882002ed7d344b7c%7C24b1456a-2c37-4cd7-8719-8122bdaada8e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.30-07.01.50:241][636]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.30-07.01.50:241][636]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.30-07.01.50:242][636]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.30-07.01.50:242][636]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.30-07.01.50:242][636]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.30-07.01.50:242][636]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.30-07.01.50:242][636]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.30-07.01.50:242][636]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.30-07.01.50:243][636]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.30-07.01.50:249][636]LogExit: Exiting.
+[2018.07.30-07.01.50:261][636]Log file closed, 07/30/18 17:01:50
