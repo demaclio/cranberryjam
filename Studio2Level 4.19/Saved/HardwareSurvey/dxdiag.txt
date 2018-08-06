@@ -27,7 +27,7 @@ Display Devices
       Display Memory: Unknown
     Dedicated Memory: n/a
        Shared Memory: n/a
-        Current Mode: 3840 x 2160 (32 bit) (60Hz)
+        Current Mode: 3840 x 2160 (32 bit) (30Hz)
          HDR Support: Not Supported
     Display Topology: Internal
  Display Color Space: Unknown
@@ -64,7 +64,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
            Device ID: 0x13C0
            SubSys ID: 0x36DA1458
          Revision ID: 0x00A1
-  Driver Strong Name: oem22.inf:0f066de3ad09d9de:Section096:23.21.13.9135:pci\ven_10de&dev_13c0
+  Driver Strong Name: oem21.inf:0f066de3ad09d9de:Section096:23.21.13.9135:pci\ven_10de&dev_13c0
       Rank Of Driver: 00D12001
          Video Accel: Unknown
          DXVA2 Modes: Unknown
@@ -85,6 +85,31 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
 -------------
 Sound Devices
 -------------
+            Description: Realtek Digital Output(Optical) (Realtek High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_10438698&REV_1003
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.00.0001.7910 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 16/08/2016 12:00:00 AM, 5276168 bytes
+            Other Files: 
+        Driver Provider: Realtek Semiconductor Corp.
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
             Description: U28E850 (NVIDIA High Definition Audio)
  Default Sound Playback: No
  Default Voice Playback: No
@@ -111,31 +136,6 @@ Static/Strm HW Mix Bufs: 0, 0
 Sensaura(tm) ZoomFX(tm): No
 
             Description: Realtek Digital Output (Realtek High Definition Audio)
- Default Sound Playback: No
- Default Voice Playback: No
-            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_10438698&REV_1003
-        Manufacturer ID: 1
-             Product ID: 100
-                   Type: WDM
-            Driver Name: RTKVHD64.sys
-         Driver Version: 6.00.0001.7910 (English)
-      Driver Attributes: Final Retail
-            WHQL Logo'd: n/a
-          Date and Size: 16/08/2016 12:00:00 AM, 5276168 bytes
-            Other Files: 
-        Driver Provider: Realtek Semiconductor Corp.
-         HW Accel Level: Basic
-              Cap Flags: 0x0
-    Min/Max Sample Rate: 0, 0
-Static/Strm HW Mix Bufs: 0, 0
- Static/Strm HW 3D Bufs: 0, 0
-              HW Memory: 0
-       Voice Management: No
- EAX(tm) 2.0 Listen/Src: No, No
-   I3DL2(tm) Listen/Src: No, No
-Sensaura(tm) ZoomFX(tm): No
-
-            Description: Realtek Digital Output(Optical) (Realtek High Definition Audio)
  Default Sound Playback: No
  Default Voice Playback: No
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_10438698&REV_1003
@@ -421,14 +421,14 @@ WDM Streaming Communication Transforms:
 Tee/Sink-to-Sink Converter,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 
 Audio Renderers:
-U28E850 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Realtek Digital Output(Optical) (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.17134.0001
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.17134.0001
+DirectSound: Realtek Digital Output(Optical) (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 DirectSound: U28E850 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
-DirectSound: Realtek Digital Output(Optical) (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+U28E850 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
-Realtek Digital Output(Optical) (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 
 
 ----------------------------
@@ -836,90 +836,33 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 1529804036091448010, type 5
-Event Name: MoAppCrash
+Fault bucket 125730739576, type 5
+Event Name: PerfWatsonVS12Data
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Microsoft.Windows.Photos_2018.18051.18420.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 2018.18051.18420.0
-P4: 5b566c8c
-P5: combase.dll
-P6: 10.0.17134.112
-P7: fad18dc5
-P8: 80070057
-P9: 0000000000010de0
+P1: PerfWatsonTcdb
+P2: 0
+P3: 0
+P4: 0
+P5: 0
+P6: 
+P7: 
+P8: 
+P9: 
 P10: 
 
 
 +++ WER1 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: ab
-P2: 9
-P3: 60
-P4: 0
-P5: 2
-P6: 10_0_17134
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
-
-
-+++ WER2 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: ab
-P2: 9
-P3: 60
-P4: 0
-P5: 2
-P6: 10_0_17134
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
-
-
-+++ WER3 +++:
-Fault bucket 2185070261953548952, type 4
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: RuntimeBroker.exe
-P2: 10.0.17134.1
-P3: 96e0391b
-P4: StackHash_c03d
-P5: 10.0.17134.165
-P6: f4df6dc2
-P7: c0000374
-P8: PCH_A8_FROM_ntdll+0x000000000009AA04
-P9: 
-P10: 
-
-
-+++ WER4 +++:
-Fault bucket 2169173118960095431, type 5
+Fault bucket 1235506943604900287, type 5
 Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: maya.exe
-P2: 18.2.0.6503
+P1: firefox.exe
+P2: 59.0.2.6656
 P3: 10.0.17134.2.0.0
 P4: 
 P5: 
@@ -930,7 +873,7 @@ P9:
 P10: 
 
 
-+++ WER5 +++:
++++ WER2 +++:
 Fault bucket 1869537068523734795, type 5
 Event Name: WindowsUpdateFailure3
 Response: Not available
@@ -949,26 +892,7 @@ P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
 P10: 0
 
 
-+++ WER6 +++:
-Fault bucket 1750432696827573293, type 5
-Event Name: WindowsUpdateFailure3
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 10.0.17134.137
-P2: 80246013
-P3: B4A941A3-6770-4876-9BDB-38BCF0DBD7F0
-P4: Install
-P5: 2
-P6: 0
-P7: 80246013
-P8: Update;ScanForUpdates
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
-
-
-+++ WER7 +++:
++++ WER3 +++:
 Fault bucket 2092592622353407906, type 5
 Event Name: StoreAgentInstallFailure1
 Response: Not available
@@ -987,7 +911,7 @@ P9:
 P10: 
 
 
-+++ WER8 +++:
++++ WER4 +++:
 Fault bucket , type 0
 Event Name: WindowsUpdateFailure3
 Response: Not available
@@ -997,6 +921,82 @@ Problem signature:
 P1: 10.0.17134.137
 P2: 80246013
 P3: D5DEC869-EF2D-448C-B43D-511F540995A8
+P4: Install
+P5: 2
+P6: 0
+P7: 80246013
+P8: Update;ScanForUpdates
+P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
+P10: 0
+
+
++++ WER5 +++:
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: 10.0.17134.137
+P2: 80246013
+P3: D5DEC869-EF2D-448C-B43D-511F540995A8
+P4: Install
+P5: 2
+P6: 0
+P7: 80246013
+P8: Update;ScanForUpdates
+P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
+P10: 0
+
+
++++ WER6 +++:
+Fault bucket , type 0
+Event Name: StoreAgentInstallFailure1
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Update;ScanForUpdates
+P2: 80246013
+P3: 17134
+P4: 165
+P5: Windows.Desktop
+P6: 8
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER7 +++:
+Fault bucket 1750432696827573293, type 5
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: 10.0.17134.137
+P2: 80246013
+P3: B4A941A3-6770-4876-9BDB-38BCF0DBD7F0
+P4: Install
+P5: 2
+P6: 0
+P7: 80246013
+P8: Update;ScanForUpdates
+P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
+P10: 0
+
+
++++ WER8 +++:
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: 10.0.17134.137
+P2: 80246013
+P3: B4A941A3-6770-4876-9BDB-38BCF0DBD7F0
 P4: Install
 P5: 2
 P6: 0
