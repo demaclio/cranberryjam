@@ -1,0 +1,1497 @@
+﻿Log file open, 08/10/18 15:28:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Studio2Level
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-856519550) SRandInit(-856519550).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185717
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.342s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Luke-PC (10.1.1.180:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.10-05.28.05:353][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.10-05.28.05:354][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.10-05.28.05:442][  0]LogInit: Computer: LUKE-PC
+[2018.08.10-05.28.05:442][  0]LogInit: User: Luke
+[2018.08.10-05.28.05:442][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.10-05.28.05:442][  0]LogInit: High frequency timer resolution =3.117187 MHz
+[2018.08.10-05.28.05:442][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.08.10-05.28.05:442][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.10-05.28.05:442][  0]LogMemory: Process Physical Memory: 275.61 MB used, 275.61 MB peak
+[2018.08.10-05.28.05:442][  0]LogMemory: Process Virtual Memory: 266.27 MB used, 266.27 MB peak
+[2018.08.10-05.28.05:443][  0]LogMemory: Physical Memory: 7502.12 MB used,  8832.54 MB free, 16334.66 MB total
+[2018.08.10-05.28.05:443][  0]LogMemory: Virtual Memory: 4780.15 MB used,  8832.54 MB free, 134217728.00 MB total
+[2018.08.10-05.28.05:459][  0]LogInit: Using OS detected language (en-US).
+[2018.08.10-05.28.05:459][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.10-05.28.05:462][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.10-05.28.05:901][  0]LogStreaming: Display: Took  0.441s to EndInitTextLocalization.
+[2018.08.10-05.28.05:901][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.10-05.28.05:923][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.10-05.28.05:923][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.10-05.28.09:850][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.10-05.28.09:942][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.08.10-05.28.09:942][  0]LogD3D11RHI:       2988/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.10-05.28.09:944][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.10-05.28.09:944][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.10-05.28.09:944][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.10-05.28.09:952][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.10-05.28.09:952][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.10-05.28.09:952][  0]LogWindows: EnumDisplayDevices:
+[2018.08.10-05.28.09:952][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.08.10-05.28.09:952][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.08.10-05.28.09:952][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.08.10-05.28.09:953][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.08.10-05.28.09:953][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.10-05.28.09:953][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.08.10-05.28.09:953][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.10-05.28.09:953][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.10-05.28.09:953][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2018.08.10-05.28.09:990][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.10-05.28.09:990][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.10-05.28.09:990][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.10-05.28.10:008][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.10-05.28.10:009][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Intermediate/Shaders/WorkingDirectory/14744/).
+[2018.08.10-05.28.10:010][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luke/AppData/Local/Temp/UnrealShaderWorkingDir/74A45C274AB2FEF197FC958C44442C7D/'.
+[2018.08.10-05.28.10:680][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.10-05.28.10:694][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.10-05.28.10:707][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.10-05.28.10:720][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.10-05.28.10:794][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.10-05.28.10:807][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.10-05.28.10:824][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.10-05.28.10:839][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.10-05.28.10:845][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.10-05.28.10:858][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.10-05.28.10:869][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.10-05.28.10:882][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.10-05.28.10:894][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.10-05.28.10:906][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.10-05.28.10:919][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.10-05.28.10:943][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.10-05.28.10:943][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.10-05.28.10:997][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.10-05.28.10:998][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.10-05.28.11:084][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.10-05.28.11:096][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.10-05.28.11:109][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.10-05.28.11:122][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.10-05.28.11:135][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.10-05.28.11:168][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.10-05.28.11:168][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.10-05.28.11:332][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.10-05.28.11:333][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.10-05.28.11:333][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.10-05.28.15:278][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.10-05.28.15:369][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Luke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.10-05.28.15:369][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.10-05.28.15:369][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.10-05.28.15:369][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.10-05.28.15:369][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.10-05.28.15:369][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.10-05.28.15:385][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.10-05.28.15:397][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.10-05.28.15:397][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.10-05.28.15:397][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.10-05.28.15:408][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.10-05.28.15:409][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.10-05.28.15:409][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.10-05.28.15:409][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.10-05.28.15:549][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.08.10-05.28.15:855][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.10-05.28.16:472][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.10-05.28.16:475][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.10-05.28.16:475][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.10-05.28.16:475][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.10-05.28.16:475][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.10-05.28.16:475][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.10-05.28.16:508][  0]LogNetVersion: Studio2Level , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3027956618)
+[2018.08.10-05.28.17:154][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.219953 seconds
+[2018.08.10-05.28.17:161][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.10-05.28.17:161][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.08.10-05.28.17:161][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.10-05.29.53:484][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.10-05.29.53:513][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.10-05.29.54:354][  0]SourceControl: Source control is disabled
+[2018.08.10-05.29.54:354][  0]SourceControl: Source control is disabled
+[2018.08.10-05.29.54:372][  0]SourceControl: Source control is disabled
+[2018.08.10-05.29.54:391][  0]SourceControl: Source control is disabled
+[2018.08.10-05.29.55:009][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.10-05.29.55:169][  0]LogOcInput: OculusInput pre-init called
+[2018.08.10-05.29.55:566][  0]LogEngine: Initializing Engine...
+[2018.08.10-05.29.55:567][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.10-05.29.55:590][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.10-05.29.55:590][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.10-05.29.55:894][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.10-05.29.55:904][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.10-05.29.55:920][  0]LogInit: FAudioDevice initialized.
+[2018.08.10-05.29.56:035][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/Luke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.10-05.29.56:051][  0]LogInit: Texture streaming: Enabled
+[2018.08.10-05.29.56:069][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.10-05.29.56:084][  0]LogInit: Transaction tracking system initialized
+[2018.08.10-05.29.56:110][  0]BlueprintLog: New page: Editor Load
+[2018.08.10-05.29.56:307][  0]LocalizationService: Localization service is disabled
+[2018.08.10-05.29.56:591][  0]LogConsoleResponse: Display: 
+[2018.08.10-05.29.56:733][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ as it will conflict with another watching ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/.
+[2018.08.10-05.29.56:745][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.10-05.29.56:745][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.10-05.29.56:745][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.10-05.29.56:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.10-05.29.56:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.10-05.29.56:905][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/' took 0.01s
+[2018.08.10-05.29.58:057][  0]SourceControl: Source control is disabled
+[2018.08.10-05.29.58:057][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.10-05.29.58:057][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.10-05.29.58:057][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.10-05.29.58:104][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.972ms to complete.
+[2018.08.10-05.29.58:104][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.046
+[2018.08.10-05.29.58:363][  0]LogCollectionManager: Loaded 0 collections in 0.002203 seconds
+[2018.08.10-05.29.58:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Collections/' took 0.01s
+[2018.08.10-05.29.58:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/Developers/Luke/Collections/' took 0.01s
+[2018.08.10-05.29.58:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/Collections/' took 0.01s
+[2018.08.10-05.29.58:403][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.10-05.29.58:412][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2452 classes and 558 folders.
+[2018.08.10-05.29.58:419][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.10-05.29.59:759][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.10-05.29.59:764][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.10-05.29.59:928][  0]LogSlate: Took 0.105149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.10-05.29.59:946][  0]LogSlate: Took 0.016568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.10-05.29.59:973][  0]LogSlate: Took 0.021795 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.10-05.30.00:080][  0]LogRenderer: Reallocating scene render targets to support 1228x688 Format 10 NumSamples 1 (Frame:1).
+[2018.08.10-05.30.00:290][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.10-05.30.00:290][  0]LogLoad: (Engine Initialization) Total time: 117.68 seconds
+[2018.08.10-05.30.00:290][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.10-05.30.00:299][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.10-05.30.00:330][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.10-05.30.00:391][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.10-05.30.00:873][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/' took 0.56s
+[2018.08.10-05.30.00:884][  1]LogAssetRegistry: Asset discovery search completed in 105.3574 seconds
+[2018.08.10-05.30.00:886][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.10-05.30.00:886][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.08.10-05.30.29:955][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-05.31.25:207][661]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.10-05.31.26:003][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017eca787f00, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.10-05.31.26:183][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017eca787f00, Size=64
+[2018.08.10-05.31.26:183][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017eca787700, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.10-05.31.26:364][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef5dd23e0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.10-05.31.26:421][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef78f01f0, Size=4, Default__Enemy_waypoint_C Function /Game/ThirdPersonBP/Blueprints/Enemy_waypoint.Enemy_waypoint_C:ExecuteUbergraph_Enemy_waypoint
+[2018.08.10-05.31.26:469][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef78f01f0, Size=4
+[2018.08.10-05.31.26:469][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef78f01f0, Size=4, Default__Enemy_waypoint_C Function /Engine/Transient.REINST_Enemy_waypoint_C_4:ExecuteUbergraph_Enemy_waypoint
+[2018.08.10-05.31.26:470][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef78f13f8, Size=4, Default__Enemy_waypoint_C Function /Game/ThirdPersonBP/Blueprints/Enemy_waypoint.Enemy_waypoint_C:ExecuteUbergraph_Enemy_waypoint
+[2018.08.10-05.31.26:503][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef2fe45d0, Size=104, Default__EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.08.10-05.31.26:551][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef2fe45d0, Size=104
+[2018.08.10-05.31.26:551][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef2fe45d0, Size=104, Default__EnemyAI_C Function /Engine/Transient.REINST_EnemyAI_C_6:ExecuteUbergraph_EnemyAI
+[2018.08.10-05.31.26:563][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef2035520, Size=104, Default__EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.08.10-05.31.26:639][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef24c0580, Size=120, Default__EnemySpawner_C Function /Game/ThirdPersonBP/Blueprints/EnemySpawner.EnemySpawner_C:ExecuteUbergraph_EnemySpawner
+[2018.08.10-05.31.26:641][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef7a0ec00, Size=512, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.08.10-05.31.26:650][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef7a09600, Size=200, Default__DamageText_C Function /Game/ThirdPersonBP/UI/DamageText.DamageText_C:ExecuteUbergraph_DamageText
+[2018.08.10-05.31.26:655][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ecd294c40, Size=84, Default__DreamMeter_C Function /Game/ThirdPersonBP/UI/DreamMeter.DreamMeter_C:ExecuteUbergraph_DreamMeter
+[2018.08.10-05.31.26:926][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef5d8cb00, Size=32, Default__EnemyHealthBar_C Function /Game/ThirdPersonBP/UI/EnemyHealthBar.EnemyHealthBar_C:ExecuteUbergraph_EnemyHealthBar
+[2018.08.10-05.31.26:986][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef3ce8100, Size=1392, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.10-05.31.27:223][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef7a09600, Size=200
+[2018.08.10-05.31.27:223][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef384e860, Size=200, Default__DamageText_C Function /Engine/Transient.REINST_DamageText_C_8:ExecuteUbergraph_DamageText
+[2018.08.10-05.31.27:224][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef24c0580, Size=120
+[2018.08.10-05.31.27:224][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef38a2880, Size=120, Default__EnemySpawner_C Function /Engine/Transient.REINST_EnemySpawner_C_9:ExecuteUbergraph_EnemySpawner
+[2018.08.10-05.31.27:224][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ecd294c40, Size=84
+[2018.08.10-05.31.27:224][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef5c26e60, Size=84, Default__DreamMeter_C Function /Engine/Transient.REINST_DreamMeter_C_0:ExecuteUbergraph_DreamMeter
+[2018.08.10-05.31.27:224][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef7a0ec00, Size=512
+[2018.08.10-05.31.27:224][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef3c5e000, Size=512, Default__EnemyCharacter_C Function /Engine/Transient.REINST_EnemyCharacter_C_10:ExecuteUbergraph_EnemyCharacter
+[2018.08.10-05.31.27:225][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef5d8cb00, Size=32
+[2018.08.10-05.31.27:225][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef38058e0, Size=32, Default__EnemyHealthBar_C Function /Engine/Transient.REINST_EnemyHealthBar_C_1:ExecuteUbergraph_EnemyHealthBar
+[2018.08.10-05.31.27:238][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef3ce8100, Size=1392
+[2018.08.10-05.31.27:238][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef37ad600, Size=1392, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_11:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.10-05.31.27:314][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef361be40, Size=200, Default__DamageText_C Function /Game/ThirdPersonBP/UI/DamageText.DamageText_C:ExecuteUbergraph_DamageText
+[2018.08.10-05.31.27:315][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef360b880, Size=120, Default__EnemySpawner_C Function /Game/ThirdPersonBP/Blueprints/EnemySpawner.EnemySpawner_C:ExecuteUbergraph_EnemySpawner
+[2018.08.10-05.31.27:335][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef36c4dc0, Size=84, Default__DreamMeter_C Function /Game/ThirdPersonBP/UI/DreamMeter.DreamMeter_C:ExecuteUbergraph_DreamMeter
+[2018.08.10-05.31.27:337][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef3631a00, Size=512, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.08.10-05.31.27:338][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef35b3980, Size=32, Default__EnemyHealthBar_C Function /Game/ThirdPersonBP/UI/EnemyHealthBar.EnemyHealthBar_C:ExecuteUbergraph_EnemyHealthBar
+[2018.08.10-05.31.27:342][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef3594100, Size=1392, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.10-05.31.27:434][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef3543550, Size=48, Default__LoseMenu_C Function /Game/ThirdPersonBP/UI/LoseMenu.LoseMenu_C:ExecuteUbergraph_LoseMenu
+[2018.08.10-05.31.27:453][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef3543550, Size=48
+[2018.08.10-05.31.27:453][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef3543550, Size=48, Default__LoseMenu_C Function /Engine/Transient.REINST_LoseMenu_C_3:ExecuteUbergraph_LoseMenu
+[2018.08.10-05.31.27:454][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef35431f0, Size=48, Default__LoseMenu_C Function /Game/ThirdPersonBP/UI/LoseMenu.LoseMenu_C:ExecuteUbergraph_LoseMenu
+[2018.08.10-05.31.27:458][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef35b7700, Size=88, Default__ObjectiveWon_C Function /Game/ThirdPersonBP/UI/ObjectiveWon.ObjectiveWon_C:ExecuteUbergraph_ObjectiveWon
+[2018.08.10-05.31.27:462][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef35b7700, Size=88
+[2018.08.10-05.31.27:462][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef35b7700, Size=88, Default__ObjectiveWon_C Function /Engine/Transient.REINST_ObjectiveWon_C_4:ExecuteUbergraph_ObjectiveWon
+[2018.08.10-05.31.27:465][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef35b5f00, Size=88, Default__ObjectiveWon_C Function /Game/ThirdPersonBP/UI/ObjectiveWon.ObjectiveWon_C:ExecuteUbergraph_ObjectiveWon
+[2018.08.10-05.31.27:509][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ecdabe5f0, Size=24, Default__PauseMenu_C Function /Game/ThirdPersonBP/UI/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu
+[2018.08.10-05.31.27:511][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ecdabe5f0, Size=24
+[2018.08.10-05.31.27:511][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ecdabe5f0, Size=24, Default__PauseMenu_C Function /Engine/Transient.REINST_PauseMenu_C_5:ExecuteUbergraph_PauseMenu
+[2018.08.10-05.31.27:513][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ecdabd840, Size=24, Default__PauseMenu_C Function /Game/ThirdPersonBP/UI/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu
+[2018.08.10-05.31.27:549][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef3c427a0, Size=160, Default__Level3_C Function /Game/ThirdPersonBP/Maps/Level3.Level3_C:ExecuteUbergraph_Level3
+[2018.08.10-05.31.27:553][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef3c427a0, Size=160
+[2018.08.10-05.31.27:553][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef3c7fec0, Size=160, Default__Level3_C Function /Engine/Transient.REINST_Level3_C_22:ExecuteUbergraph_Level3
+[2018.08.10-05.31.27:556][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef3c7e700, Size=160, Default__Level3_C Function /Game/ThirdPersonBP/Maps/Level3.Level3_C:ExecuteUbergraph_Level3
+[2018.08.10-05.31.30:029][661]LogTexture: Display: Building textures: button (BGRA8, 1576X555)
+[2018.08.10-05.31.32:411][661]LogSkeletalMesh: Skeletal Mesh found in DDC [59.159107ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.08.10-05.31.32:539][661]LogAIModule: Creating AISystem for world Level3
+[2018.08.10-05.31.32:960][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017eca787700, Size=64
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef78f01f0, Size=4
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef2fe45d0, Size=104
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef38a2880, Size=120
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef3c5e000, Size=512
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef384e860, Size=200
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef5c26e60, Size=84
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef38058e0, Size=32
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef37ad600, Size=1392
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef3543550, Size=48
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef35b7700, Size=88
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ecdabe5f0, Size=24
+[2018.08.10-05.31.32:991][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef3c7fec0, Size=160
+[2018.08.10-05.31.33:015][661]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.10-05.31.33:015][661]LightingResults: New page: Lighting Build
+[2018.08.10-05.31.33:179][661]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.08.10-05.31.33:180][661]LoadErrors: New page: Loading map: Level3.umap
+[2018.08.10-05.31.33:238][661]MapCheck: New page: Map Check
+[2018.08.10-05.31.33:238][661]LightingResults: New page: Lighting Build
+[2018.08.10-05.31.33:857][661]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.10-05.31.34:020][661]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.10-05.31.34:077][661]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.967ms to complete.
+[2018.08.10-05.31.34:083][661]LogFileHelpers: Loading map 'Level3' took 1.089
+[2018.08.10-05.31.41:441][404]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.08.10-05.31.46:032][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-05.31.48:151][103]Cmd: TRANSACTION UNDO
+[2018.08.10-05.31.48:151][103]LogEditorTransaction: Undo Edit Static Lighting Level Scale
+[2018.08.10-05.31.53:622][671]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.08.10-05.31.55:776][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-05.31.57:761][138]Cmd: TRANSACTION UNDO
+[2018.08.10-05.31.57:761][138]LogEditorTransaction: Undo Edit Environment Intensity
+[2018.08.10-05.31.58:937][265]Cmd: TRANSACTION UNDO
+[2018.08.10-05.31.58:937][265]LogEditorTransaction: Undo Edit Diffuse Boost
+[2018.08.10-05.32.02:393][662]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.08.10-05.32.04:242][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-05.32.21:070][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-05.32.21:512][769]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef3c7e700, Size=160
+[2018.08.10-05.32.21:512][769]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ec3f50cc0, Size=160, Default__Level3_C Function /Engine/Transient.REINST_Level3_C_26:ExecuteUbergraph_Level3
+[2018.08.10-05.32.21:516][769]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef3c7f740, Size=160, Default__Level3_C Function /Game/ThirdPersonBP/Maps/Level3.Level3_C:ExecuteUbergraph_Level3
+[2018.08.10-05.32.22:075][769]LogSavePackage: Save=603.13ms
+[2018.08.10-05.32.22:075][769]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Level306837B574673E3F135BF5E9780FEA79D.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level3.umap'
+[2018.08.10-05.32.22:128][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level3.umap
+[2018.08.10-05.32.23:078][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-05.32.23:718][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef77fe3e0, Size=160, Default__Level2_C Function /Game/ThirdPersonBP/Maps/Level2.Level2_C:ExecuteUbergraph_Level2
+[2018.08.10-05.32.23:721][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef77fe3e0, Size=160
+[2018.08.10-05.32.23:721][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ee21b23e0, Size=160, Default__Level2_C Function /Engine/Transient.REINST_Level2_C_28:ExecuteUbergraph_Level2
+[2018.08.10-05.32.23:725][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ee21b05e0, Size=160, Default__Level2_C Function /Game/ThirdPersonBP/Maps/Level2.Level2_C:ExecuteUbergraph_Level2
+[2018.08.10-05.32.24:406][887]LogAIModule: Creating AISystem for world Level2
+[2018.08.10-05.32.24:424][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ee21b23e0, Size=160
+[2018.08.10-05.32.24:424][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ec3f50cc0, Size=160
+[2018.08.10-05.32.24:426][887]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.10-05.32.24:426][887]LightingResults: New page: Lighting Build
+[2018.08.10-05.32.24:427][887]LoadErrors: New page: Loading map: Level2.umap
+[2018.08.10-05.32.24:477][887]MapCheck: New page: Map Check
+[2018.08.10-05.32.24:477][887]LightingResults: New page: Lighting Build
+[2018.08.10-05.32.24:503][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef3c7f740, Size=160
+[2018.08.10-05.32.24:566][887]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.10-05.32.24:706][887]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.10-05.32.24:760][887]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.809ms to complete.
+[2018.08.10-05.32.24:761][887]LogFileHelpers: Loading map 'Level2' took 0.336
+[2018.08.10-05.32.29:210][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-05.32.29:414][407]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef1fbaac0, Size=160, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.08.10-05.32.29:421][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef1fbaac0, Size=160
+[2018.08.10-05.32.29:421][407]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef7f98360, Size=160, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_30:ExecuteUbergraph_Level1
+[2018.08.10-05.32.29:424][407]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef77fd800, Size=160, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.08.10-05.32.30:095][407]LogAIModule: Creating AISystem for world Level1
+[2018.08.10-05.32.30:309][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef7f98360, Size=160
+[2018.08.10-05.32.30:311][407]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.10-05.32.30:311][407]LightingResults: New page: Lighting Build
+[2018.08.10-05.32.30:312][407]LoadErrors: New page: Loading map: Level1.umap
+[2018.08.10-05.32.30:313][407]MapCheck: New page: Map Check
+[2018.08.10-05.32.30:313][407]LightingResults: New page: Lighting Build
+[2018.08.10-05.32.30:324][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ee21b05e0, Size=160
+[2018.08.10-05.32.30:605][407]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.10-05.32.30:659][407]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.10-05.32.30:712][407]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.812ms to complete.
+[2018.08.10-05.32.30:714][407]LogFileHelpers: Loading map 'Level1' took 0.403
+[2018.08.10-05.32.43:018][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-05.32.43:081][690]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ef19d5080, Size=160, Default__Level3_C Function /Game/ThirdPersonBP/Maps/Level3.Level3_C:ExecuteUbergraph_Level3
+[2018.08.10-05.32.43:085][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef19d5080, Size=160
+[2018.08.10-05.32.43:085][690]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017e85d31f80, Size=160, Default__Level3_C Function /Engine/Transient.REINST_Level3_C_32:ExecuteUbergraph_Level3
+[2018.08.10-05.32.43:089][690]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017e85d32fc0, Size=160, Default__Level3_C Function /Game/ThirdPersonBP/Maps/Level3.Level3_C:ExecuteUbergraph_Level3
+[2018.08.10-05.32.43:124][690]LogAIModule: Creating AISystem for world Level3
+[2018.08.10-05.32.43:142][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017e85d31f80, Size=160
+[2018.08.10-05.32.43:143][690]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.10-05.32.43:143][690]LightingResults: New page: Lighting Build
+[2018.08.10-05.32.43:144][690]LoadErrors: New page: Loading map: Level3.umap
+[2018.08.10-05.32.43:145][690]MapCheck: New page: Map Check
+[2018.08.10-05.32.43:145][690]LightingResults: New page: Lighting Build
+[2018.08.10-05.32.43:158][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ef77fd800, Size=160
+[2018.08.10-05.32.43:262][690]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.10-05.32.43:314][690]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.10-05.32.43:368][690]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.069ms to complete.
+[2018.08.10-05.32.43:371][690]LogFileHelpers: Loading map 'Level3' took 0.229
+[2018.08.10-06.21.11:066][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.22.01:975][283]LogAssetTools: Warning: Failed to import 'C:\Users\Luke\Desktop\3D assets\wäschebox.max'. Unknown extension 'max'.
+[2018.08.10-06.25.42:052][716]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Luke\Desktop\3D assets\clothes_basket.fbx)
+[2018.08.10-06.25.44:440][716]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.10-06.25.44:440][716]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.08.10-06.25.44:440][716]LogFbx: ItemName: Geometry, ItemCount : 9
+[2018.08.10-06.25.44:441][716]LogFbx: ItemName: Model, ItemCount : 10
+[2018.08.10-06.25.44:441][716]LogFbx: ItemName: Material, ItemCount : 1
+[2018.08.10-06.25.44:477][716]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\clothes_basket.fbx
+[2018.08.10-06.25.45:354][716]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-06.25.52:201][716]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.10-06.25.52:372][716]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\clothes_basket.fbx
+[2018.08.10-06.25.53:133][716]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-06.25.53:172][716]LogFbx: Warning: Triangulating static mesh cover.001
+[2018.08.10-06.25.55:414][716]LogStaticMesh: Building static mesh clothes_basket_cover_001...
+[2018.08.10-06.25.56:052][716]LogStaticMesh: Built static mesh [0.64s] /Game/ThirdPersonBP/Models/clothes_basket_cover_001.clothes_basket_cover_001
+[2018.08.10-06.25.56:327][716]LogStaticMesh: Warning: clothes_basket_cover_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.10-06.25.56:327][716]LogStaticMesh: Warning: clothes_basket_cover_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.10-06.25.56:636][716]LogFbx: Warning: Triangulating static mesh cover border.001
+[2018.08.10-06.26.02:518][716]LogStaticMesh: Building static mesh clothes_basket_cover_border_001...
+[2018.08.10-06.26.04:498][716]LogStaticMesh: Built static mesh [1.98s] /Game/ThirdPersonBP/Models/clothes_basket_cover_border_001.clothes_basket_cover_border_001
+[2018.08.10-06.26.05:825][716]LogFbx: Warning: Triangulating static mesh center.001
+[2018.08.10-06.26.18:826][716]LogStaticMesh: Building static mesh clothes_basket_center_001...
+[2018.08.10-06.26.21:744][716]LogStaticMesh: Built static mesh [2.92s] /Game/ThirdPersonBP/Models/clothes_basket_center_001.clothes_basket_center_001
+[2018.08.10-06.26.23:312][716]LogStaticMesh: Warning: clothes_basket_center_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.10-06.26.23:312][716]LogStaticMesh: Warning: clothes_basket_center_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.10-06.26.25:963][716]LogFbx: Warning: Triangulating static mesh ground border.001
+[2018.08.10-06.26.31:918][716]LogStaticMesh: Building static mesh clothes_basket_ground_border_001...
+[2018.08.10-06.26.33:839][716]LogStaticMesh: Built static mesh [1.92s] /Game/ThirdPersonBP/Models/clothes_basket_ground_border_001.clothes_basket_ground_border_001
+[2018.08.10-06.26.35:121][716]LogFbx: Warning: Triangulating static mesh top border.001
+[2018.08.10-06.26.41:075][716]LogStaticMesh: Building static mesh clothes_basket_top_border_001...
+[2018.08.10-06.26.43:152][716]LogStaticMesh: Built static mesh [2.08s] /Game/ThirdPersonBP/Models/clothes_basket_top_border_001.clothes_basket_top_border_001
+[2018.08.10-06.26.44:449][716]LogFbx: Warning: Triangulating static mesh grounf.001
+[2018.08.10-06.26.46:660][716]LogStaticMesh: Building static mesh clothes_basket_grounf_001...
+[2018.08.10-06.26.47:180][716]LogStaticMesh: Built static mesh [0.52s] /Game/ThirdPersonBP/Models/clothes_basket_grounf_001.clothes_basket_grounf_001
+[2018.08.10-06.26.47:381][716]LogStaticMesh: Warning: clothes_basket_grounf_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.10-06.26.47:381][716]LogStaticMesh: Warning: clothes_basket_grounf_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.10-06.26.47:622][716]LogFbx: Warning: Triangulating static mesh hinge.001
+[2018.08.10-06.27.23:131][716]LogStaticMesh: Building static mesh clothes_basket_hinge_001...
+[2018.08.10-06.28.27:245][716]LogStaticMesh: Built static mesh [64.11s] /Game/ThirdPersonBP/Models/clothes_basket_hinge_001.clothes_basket_hinge_001
+[2018.08.10-06.28.29:617][716]LogStaticMesh: Warning: clothes_basket_hinge_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.10-06.28.29:617][716]LogStaticMesh: Warning: clothes_basket_hinge_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.10-06.28.32:040][716]LogMaterial: Missing cached shader map for material Material_002, compiling. 
+[2018.08.10-06.28.32:223][716]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.10-06.28.32:223][716]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.10-06.28.32:223][716]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.10-06.28.32:223][716]LogFbx: Warning: Triangulating static mesh Plane
+[2018.08.10-06.28.32:265][716]LogStaticMesh: Building static mesh clothes_basket_Plane...
+[2018.08.10-06.28.32:265][716]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Models/clothes_basket_Plane.clothes_basket_Plane
+[2018.08.10-06.28.32:266][716]LogStaticMesh: Warning: clothes_basket_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.10-06.28.32:266][716]LogStaticMesh: Warning: clothes_basket_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: clothes_basket_cover_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: clothes_basket_cover_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.10-06.28.32:338][716]FBXImport: Error: No triangles were found on mesh  'Mesh.005' 
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: clothes_basket_center_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: clothes_basket_center_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: clothes_basket_grounf_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: clothes_basket_grounf_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: clothes_basket_hinge_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: clothes_basket_hinge_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: clothes_basket_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.10-06.28.32:338][716]FBXImport: Warning: clothes_basket_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.10-06.28.38:659][929]LogSlate: Window 'Message Log' being destroyed
+[2018.08.10-06.28.38:660][929]LogSlate: Window 'Message Log' being destroyed
+[2018.08.10-06.28.38:958][930]LogRenderer: Reallocating scene render targets to support 1228x780 Format 10 NumSamples 1 (Frame:1).
+[2018.08.10-06.28.45:236][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.28.45:329][586]LogSlate: Window 'clothes_basket_cover_001*' being destroyed
+[2018.08.10-06.28.45:334][586]LogSlate: Window 'clothes_basket_cover_001*' being destroyed
+[2018.08.10-06.29.00:543][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.29.00:627][218]LogSlate: Window 'clothes_basket_center_001*' being destroyed
+[2018.08.10-06.29.00:631][218]LogSlate: Window 'clothes_basket_center_001*' being destroyed
+[2018.08.10-06.29.16:857][ 13]LogSlate: Window 'clothes_basket_center_001*' being destroyed
+[2018.08.10-06.29.16:861][ 13]LogSlate: Window 'clothes_basket_center_001*' being destroyed
+[2018.08.10-06.29.21:070][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.29.21:344][496]LogActorFactory: Actor Factory created clothes_basket_center_001
+[2018.08.10-06.29.22:958][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.29.26:720][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.29.26:871][ 94]LogActorFactory: Actor Factory created clothes_basket_center_001
+[2018.08.10-06.29.27:764][187]LogActorFactory: Actor Factory created clothes_basket_center_001
+[2018.08.10-06.29.28:754][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.29.49:399][623]LogActorFactory: Actor Factory created clothes_basket_center_001
+[2018.08.10-06.29.51:218][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.29.56:800][488]Cmd: EDCALLBACK SURFPROPS
+[2018.08.10-06.29.59:682][786]Cmd: DELETE
+[2018.08.10-06.29.59:682][786]Cmd: ACTOR DELETE
+[2018.08.10-06.29.59:759][786]LogEditorActor: Deleted Actor: Brush
+[2018.08.10-06.29.59:804][786]LogEditorActor: Deleted 1 Actors (0.122 secs)
+[2018.08.10-06.30.01:417][974]Cmd: TRANSACTION UNDO
+[2018.08.10-06.30.01:417][974]LogEditorTransaction: Undo Delete Actors
+[2018.08.10-06.30.03:541][974]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel.BoxBrush24_17.BrushComponent0) Component already registered.
+[2018.08.10-06.30.03:675][974]LogEditorViewport: Clicking Background
+[2018.08.10-06.30.03:686][974]Cmd: TRANSACTION UNDO
+[2018.08.10-06.30.03:686][974]LogEditorTransaction: Undo Clicking Background
+[2018.08.10-06.30.05:047][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.30.05:172][131]LogActorFactory: Actor Factory created clothes_basket_center_001
+[2018.08.10-06.30.06:260][220]LogActorFactory: Actor Factory created clothes_basket_center_001
+[2018.08.10-06.30.08:974][508]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.10-06.30.11:810][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (clothes_basket_center_001)
+[2018.08.10-06.30.26:971][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.30.29:420][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (clothes_basket_center_001)
+[2018.08.10-06.30.35:523][450]Cmd: TRANSACTION UNDO
+[2018.08.10-06.30.35:524][450]LogEditorTransaction: Undo Rotate Actors
+[2018.08.10-06.30.35:691][467]Cmd: TRANSACTION UNDO
+[2018.08.10-06.30.35:691][467]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.10-06.30.36:128][511]Cmd: TRANSACTION UNDO
+[2018.08.10-06.30.36:129][511]LogEditorTransaction: Undo Rotate Actors
+[2018.08.10-06.30.36:432][545]Cmd: TRANSACTION UNDO
+[2018.08.10-06.30.36:432][545]LogEditorTransaction: Undo Rotate Actors
+[2018.08.10-06.30.36:600][563]Cmd: TRANSACTION UNDO
+[2018.08.10-06.30.36:600][563]LogEditorTransaction: Undo Rotate Actors
+[2018.08.10-06.31.12:233][603]Cmd: TRANSACTION UNDO
+[2018.08.10-06.31.12:233][603]LogEditorTransaction: Undo Rotate Actors
+[2018.08.10-06.32.27:460][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.32.54:000][165]Cmd: TRANSACTION UNDO
+[2018.08.10-06.32.54:000][165]LogEditorTransaction: Undo Move Actors
+[2018.08.10-06.32.54:018][165]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2018.08.10-06.32.54:877][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (clothes_basket_center_001)
+[2018.08.10-06.33.15:621][438]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.15:621][438]LogEditorTransaction: Undo Move Actors
+[2018.08.10-06.33.15:800][448]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.15:800][448]LogEditorTransaction: Undo Move Actors
+[2018.08.10-06.33.15:966][457]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.15:966][457]LogEditorTransaction: Undo Move Actors
+[2018.08.10-06.33.16:095][464]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.16:095][464]LogEditorTransaction: Undo Rotate Actors
+[2018.08.10-06.33.16:237][476]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.16:237][476]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.10-06.33.16:379][482]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.16:379][482]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.10-06.33.16:518][489]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.16:518][489]LogEditorTransaction: Undo Move Actors
+[2018.08.10-06.33.16:870][527]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.16:870][527]LogEditorTransaction: Undo Move Actors
+[2018.08.10-06.33.17:177][559]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.17:177][559]LogEditorTransaction: Undo Rotate Actors
+[2018.08.10-06.33.41:500][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.33.45:005][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.33.48:312][945]Cmd: EDCALLBACK SURFPROPS
+[2018.08.10-06.33.49:773][110]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.49:773][110]LogEditorTransaction: Undo Select Surface
+[2018.08.10-06.33.50:175][132]Cmd: TRANSACTION UNDO
+[2018.08.10-06.33.50:175][132]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.10-06.33.56:651][803]Cmd: DELETE
+[2018.08.10-06.33.56:651][803]Cmd: ACTOR DELETE
+[2018.08.10-06.33.56:657][803]LogEditorActor: Deleted Actor: Brush
+[2018.08.10-06.33.56:699][803]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.08.10-06.33.57:487][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (clothes_basket_center_001)
+[2018.08.10-06.34.06:723][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.34.06:902][954]LogActorFactory: Actor Factory created clothes_basket_cover_001
+[2018.08.10-06.34.08:201][ 10]LogActorFactory: Actor Factory created clothes_basket_cover_001
+[2018.08.10-06.34.20:784][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (clothes_basket_cover_001)
+[2018.08.10-06.34.21:376][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (clothes_basket_center_001)
+[2018.08.10-06.34.24:624][833]Cmd: TRANSACTION UNDO
+[2018.08.10-06.34.24:624][833]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.10-06.34.24:806][840]Cmd: TRANSACTION UNDO
+[2018.08.10-06.34.24:806][840]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.10-06.34.25:653][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (clothes_basket_cover_001)
+[2018.08.10-06.34.26:378][985]Cmd: DELETE
+[2018.08.10-06.34.26:378][985]Cmd: ACTOR DELETE
+[2018.08.10-06.34.26:383][985]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.10-06.34.26:396][985]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.08.10-06.34.44:593][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.34.50:726][602]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.10-06.34.57:421][881]Cmd: TRANSACTION UNDO
+[2018.08.10-06.34.57:421][881]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.10-06.35.00:353][218]Cmd: TRANSACTION UNDO
+[2018.08.10-06.35.00:353][218]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.10-06.35.07:057][990]Cmd: EDCALLBACK SURFPROPS
+[2018.08.10-06.35.55:224][330]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017e85d32fc0, Size=160
+[2018.08.10-06.35.55:224][330]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017eca5c8180, Size=160, Default__Level3_C Function /Engine/Transient.REINST_Level3_C_36:ExecuteUbergraph_Level3
+[2018.08.10-06.35.55:230][330]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017e85d30680, Size=160, Default__Level3_C Function /Game/ThirdPersonBP/Maps/Level3.Level3_C:ExecuteUbergraph_Level3
+[2018.08.10-06.35.55:512][330]LogSavePackage: Save=306.13ms
+[2018.08.10-06.35.55:512][330]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Level3_Auto1F4CB55844647762E885B05AF580E517B.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level3_Auto1.umap'
+[2018.08.10-06.35.55:515][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level3_Auto1.umap
+[2018.08.10-06.35.55:518][330]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level3' took 0.667
+[2018.08.10-06.35.55:556][330]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.667
+[2018.08.10-06.36.30:985][437]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\ClothesBasket\Basket.obj)
+[2018.08.10-06.36.31:031][437]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\ClothesBasket\Basket.obj
+[2018.08.10-06.36.31:330][437]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-06.36.31:352][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.36.33:867][437]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.10-06.36.33:912][437]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\ClothesBasket\Basket.obj
+[2018.08.10-06.36.34:130][437]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-06.36.34:136][437]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2018.08.10-06.36.34:151][437]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.10-06.36.34:151][437]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.10-06.36.34:151][437]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.10-06.36.34:153][437]LogMaterial: Missing cached shader map for material Box, compiling. 
+[2018.08.10-06.36.34:167][437]LogMaterial: Missing cached shader map for material Knopf, compiling. 
+[2018.08.10-06.36.34:181][437]LogMaterial: Missing cached shader map for material cloth7, compiling. 
+[2018.08.10-06.36.34:196][437]LogLinker: Can't find file '/Game/ThirdPersonBP/Models/Map__4_Noise'
+[2018.08.10-06.36.34:196][437]LogLinker: Can't find file '/Game/ThirdPersonBP/Models/Map__4_Noise'
+[2018.08.10-06.36.34:197][437]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\gmatt\Downloads\K0bCOXE84SbI1fRM\textures\Map__4_Noise.jpg
+[2018.08.10-06.36.34:200][437]LogMaterial: Missing cached shader map for material cloth2, compiling. 
+[2018.08.10-06.36.34:214][437]LogLinker: Can't find file '/Game/ThirdPersonBP/Models/Map__1_Checker'
+[2018.08.10-06.36.34:214][437]LogLinker: Can't find file '/Game/ThirdPersonBP/Models/Map__1_Checker'
+[2018.08.10-06.36.34:214][437]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\gmatt\Downloads\K0bCOXE84SbI1fRM\textures\Map__1_Checker.jpg
+[2018.08.10-06.36.34:217][437]LogMaterial: Missing cached shader map for material Undercloth, compiling. 
+[2018.08.10-06.36.34:234][437]LogMaterial: Missing cached shader map for material cloth1, compiling. 
+[2018.08.10-06.36.34:249][437]LogMaterial: Missing cached shader map for material cloth5, compiling. 
+[2018.08.10-06.36.34:264][437]LogMaterial: Missing cached shader map for material cloth6, compiling. 
+[2018.08.10-06.36.34:275][437]LogLinker: Can't find file '/Game/ThirdPersonBP/Models/Map__3_Noise'
+[2018.08.10-06.36.34:275][437]LogLinker: Can't find file '/Game/ThirdPersonBP/Models/Map__3_Noise'
+[2018.08.10-06.36.34:276][437]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\gmatt\Downloads\K0bCOXE84SbI1fRM\textures\Map__3_Noise.jpg
+[2018.08.10-06.36.34:279][437]LogMaterial: Missing cached shader map for material cloth3, compiling. 
+[2018.08.10-06.36.34:288][437]LogFbx: Warning: Triangulating static mesh default
+[2018.08.10-06.36.35:070][437]LogStaticMesh: Building static mesh Basket...
+[2018.08.10-06.36.35:625][437]LogStaticMesh: Built static mesh [0.56s] /Game/ThirdPersonBP/Models/Basket.Basket
+[2018.08.10-06.36.35:692][437]LogStaticMesh: Warning: Basket has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.10-06.36.35:692][437]LogStaticMesh: Warning: Basket has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.10-06.36.35:787][437]FBXImport: Warning: Basket has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.10-06.36.35:787][437]FBXImport: Warning: Basket has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.10-06.36.36:185][437]LogShaderCompilers: Display: Shaders left to compile 198
+[2018.08.10-06.36.36:509][439]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.08.10-06.36.37:499][440]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.08.10-06.36.38:209][516]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.08.10-06.36.39:401][558]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.08.10-06.36.39:690][563]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.08.10-06.36.40:770][570]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.08.10-06.36.41:215][578]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.08.10-06.36.41:899][579]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.08.10-06.36.42:901][586]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.08.10-06.36.43:369][589]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.08.10-06.36.43:412][594]LogSlate: Window 'Message Log' being destroyed
+[2018.08.10-06.36.43:416][594]LogSlate: Window 'Message Log' being destroyed
+[2018.08.10-06.36.44:300][594]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.08.10-06.36.44:745][596]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.08.10-06.36.45:863][598]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.08.10-06.36.45:911][598]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.08.10-06.36.48:482][600]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.10-06.36.48:482][600]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.08.10-06.36.48:482][600]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.10-06.36.49:262][604]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.10-06.36.49:688][609]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.10-06.37.09:679][839]LogActorFactory: Actor Factory created Basket
+[2018.08.10-06.37.10:423][913]LogActorFactory: Actor Factory created Basket
+[2018.08.10-06.37.22:333][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basket)
+[2018.08.10-06.37.24:175][459]Cmd: DELETE
+[2018.08.10-06.37.24:175][459]Cmd: ACTOR DELETE
+[2018.08.10-06.37.24:180][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.10-06.37.24:193][459]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017eca5c8180, Size=160
+[2018.08.10-06.37.24:194][459]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.08.10-06.37.25:429][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.37.32:236][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.37.32:299][247]LogSlate: Window 'Basket*' being destroyed
+[2018.08.10-06.37.32:302][247]LogSlate: Window 'Basket*' being destroyed
+[2018.08.10-06.37.43:066][480]LogActorFactory: Actor Factory created Basket
+[2018.08.10-06.37.43:363][502]LogActorFactory: Actor Factory created Basket
+[2018.08.10-06.38.52:602][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.39.09:234][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.39.13:895][591]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\Textures\Floor\3_parquet medium color-texture-seamless.jpg)
+[2018.08.10-06.39.14:052][591]LogTexture: Display: Building textures: 3_parquet_medium_color-texture-seamless (AutoDXT, 1300X1040)
+[2018.08.10-06.39.18:571][754]LogMaterial: Missing cached shader map for material 3_parquet_medium_color-texture-seamless_Mat, compiling. 
+[2018.08.10-06.39.18:628][754]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.10-06.39.18:628][754]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.10-06.39.18:628][754]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.10-06.39.26:055][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.39.29:925][861]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2018.08.10-06.39.30:957][980]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2018.08.10-06.39.33:138][225]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2018.08.10-06.39.33:771][297]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2018.08.10-06.39.40:235][995]Cmd: SELECT NONE
+[2018.08.10-06.39.42:683][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.39.47:266][788]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2018.08.10-06.39.48:950][955]Cmd: SELECT NONE
+[2018.08.10-06.39.51:666][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.39.53:915][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.39.54:024][526]Cmd: POLY TEXSCALE  UU=0.062500 VV=0.062500
+[2018.08.10-06.39.55:099][647]Cmd: SELECT NONE
+[2018.08.10-06.40.08:636][451]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\Textures\Wall\23_Santa Fe plaster painted wall texture-seamless.jpg)
+[2018.08.10-06.40.08:691][451]LogTexture: Display: Building textures: 23_Santa_Fe_plaster_painted_wall_texture-seamless (AutoDXT, 1024X1024)
+[2018.08.10-06.40.10:243][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.40.12:714][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.40.13:107][690]LogMaterial: Missing cached shader map for material 23_Santa_Fe_plaster_painted_wall_texture-seamless_Mat, compiling. 
+[2018.08.10-06.40.13:126][690]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.10-06.40.13:126][690]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.10-06.40.13:126][690]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.10-06.40.21:057][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.40.23:435][684]Cmd: SELECT NONE
+[2018.08.10-06.40.27:942][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.40.30:148][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.40.30:255][462]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2018.08.10-06.40.30:902][535]Cmd: SELECT NONE
+[2018.08.10-06.40.33:325][821]Cmd: TRANSACTION UNDO
+[2018.08.10-06.40.33:325][821]LogEditorTransaction: Undo Select None
+[2018.08.10-06.40.37:190][256]Cmd: TRANSACTION UNDO
+[2018.08.10-06.40.37:190][256]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.10-06.40.37:383][271]Cmd: TRANSACTION UNDO
+[2018.08.10-06.40.37:383][271]LogEditorTransaction: Undo Set Texscale
+[2018.08.10-06.40.37:851][316]Cmd: TRANSACTION UNDO
+[2018.08.10-06.40.37:851][316]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.10-06.40.38:303][367]Cmd: TRANSACTION UNDO
+[2018.08.10-06.40.38:303][367]LogEditorTransaction: Undo Select None
+[2018.08.10-06.40.40:354][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.40.42:907][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.40.43:014][903]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2018.08.10-06.40.44:342][ 54]Cmd: SELECT NONE
+[2018.08.10-06.40.51:080][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.40.53:578][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.40.56:088][378]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2018.08.10-06.41.02:760][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.41.04:436][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.41.04:569][312]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2018.08.10-06.41.05:023][361]Cmd: SELECT NONE
+[2018.08.10-06.41.06:728][561]Cmd: TRANSACTION UNDO
+[2018.08.10-06.41.06:728][561]LogEditorTransaction: Undo Select None
+[2018.08.10-06.41.07:073][578]Cmd: TRANSACTION UNDO
+[2018.08.10-06.41.07:073][578]LogEditorTransaction: Undo Set Texscale
+[2018.08.10-06.41.09:286][802]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.41.11:118][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.41.11:210][ 26]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2018.08.10-06.41.12:800][210]Cmd: SELECT NONE
+[2018.08.10-06.43.38:561][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.43.41:817][957]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.10-06.43.41:896][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level3.Level3_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel.Level3'
+[2018.08.10-06.43.41:934][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.10-06.43.42:029][957]PIE: New page: PIE session: Level3 (Aug 11, 2018, 2:43:41 AM)
+[2018.08.10-06.43.42:052][957]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3
+[2018.08.10-06.43.42:096][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043416s)
+[2018.08.10-06.43.42:096][957]LogAIModule: Creating AISystem for world Level3
+[2018.08.10-06.43.42:097][957]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2018.08.10-06.43.42:097][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level3.Level3 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3 (0.044549s)
+[2018.08.10-06.43.42:184][957]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.10-06.43.42:198][957]LogInit: FAudioDevice initialized.
+[2018.08.10-06.43.42:411][957]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017f19ee5df0, Size=40, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.10-06.43.42:413][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017f19ee5df0, Size=40
+[2018.08.10-06.43.42:413][957]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017f19ee5df0, Size=40, Default__ThirdPersonGameMode_C Function /Engine/Transient.REINST_ThirdPersonGameMode_C_38:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.10-06.43.42:415][957]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017f19ee5b20, Size=40, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.10-06.43.42:419][957]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.10-06.43.42:605][957]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2018.08.10-16.43.42
+[2018.08.10-06.43.42:685][957]LogWorld: Bringing up level for play took: 0.080981
+[2018.08.10-06.43.42:850][957]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.08.10-06.43.42:917][957]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.08.10-06.43.43:076][957]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (EnemySpawner_632)
+[2018.08.10-06.43.43:076][957]LogBlueprintUserMessages: [Level3_C_1] Level 3
+[2018.08.10-06.43.43:161][957]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3 0.351
+[2018.08.10-06.43.43:162][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level3.Level3_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel.Level3'
+[2018.08.10-06.43.44:180][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.44:936][114]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.45:020][124]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.08.10-06.43.46:889][347]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.47:023][363]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.08.10-06.43.48:488][537]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.48:959][593]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.49:024][601]LogBlueprintUserMessages: [EnemySpawner_632] Wave 1 Spawn
+[2018.08.10-06.43.49:730][685]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.50:130][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.50:566][785]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.51:756][927]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.52:241][985]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.52:627][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.53:044][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.53:480][132]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.55:355][334]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.56:285][445]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.57:042][535]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.43.57:506][590]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.44.04:549][425]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.44.04:983][477]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.44.05:740][564]LogScript: Warning: Attempted to access EnemyCharacter_C_0 via property None, but EnemyCharacter_C_0 is pending kill
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0150
+[2018.08.10-06.44.05:744][564]PIE: Error: Blueprint Runtime Error: Attempted to access EnemyCharacter_C_0 via property None, but EnemyCharacter_C_0 is pending kill from function: 'ExecuteUbergraph_EnemyCharacter' from node: Play Sound at Location in graph: EventGraph in object: EnemyCharacter with description: Attempted to access EnemyCharacter_C_0 via property None, but EnemyCharacter_C_0 is pending kill
+[2018.08.10-06.44.05:744][564]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0217
+[2018.08.10-06.44.05:745][564]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.08.10-06.44.05:745][564]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:028F
+[2018.08.10-06.44.05:745][564]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.08.10-06.44.06:124][609]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.44.06:475][651]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.44.08:368][873]LogScript: Warning: Attempted to access EnemyCharacter_C_1 via property None, but EnemyCharacter_C_1 is pending kill
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0150
+[2018.08.10-06.44.08:368][873]PIE: Error: Blueprint Runtime Error: Attempted to access EnemyCharacter_C_1 via property None, but EnemyCharacter_C_1 is pending kill from function: 'ExecuteUbergraph_EnemyCharacter' from node: Play Sound at Location in graph: EventGraph in object: EnemyCharacter with description: Attempted to access EnemyCharacter_C_1 via property None, but EnemyCharacter_C_1 is pending kill
+[2018.08.10-06.44.08:368][873]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0217
+[2018.08.10-06.44.08:368][873]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.08.10-06.44.08:368][873]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:028F
+[2018.08.10-06.44.08:368][873]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.08.10-06.44.10:406][113]LogScript: Warning: Attempted to access EnemyCharacter_C_2 via property None, but EnemyCharacter_C_2 is pending kill
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0150
+[2018.08.10-06.44.10:406][113]PIE: Error: Blueprint Runtime Error: Attempted to access EnemyCharacter_C_2 via property None, but EnemyCharacter_C_2 is pending kill from function: 'ExecuteUbergraph_EnemyCharacter' from node: Play Sound at Location in graph: EventGraph in object: EnemyCharacter with description: Attempted to access EnemyCharacter_C_2 via property None, but EnemyCharacter_C_2 is pending kill
+[2018.08.10-06.44.10:406][113]LogScript: Warning: Accessed None trying to read property DreamWidget
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0217
+[2018.08.10-06.44.10:406][113]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DreamWidget from function: 'ExecuteUbergraph_EnemyCharacter' from node: Enemy Repelled in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property DreamWidget
+[2018.08.10-06.44.10:406][113]LogScript: Warning: Accessed None trying to read property EnemySpawner
+	EnemyCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level3.Level3:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:028F
+[2018.08.10-06.44.10:406][113]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property EnemySpawner from function: 'ExecuteUbergraph_EnemyCharacter' from node: Spawn Monsters in graph: EventGraph in object: EnemyCharacter with description: Accessed None trying to read property EnemySpawner
+[2018.08.10-06.44.11:857][285]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fail
+[2018.08.10-06.44.21:300][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-06.44.22:536][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level3.Level3_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel.Level3'
+[2018.08.10-06.44.22:671][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level3.Level3_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level3.Level3:PersistentLevel.Level3'
+[2018.08.10-06.44.22:688][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017f19ee5df0, Size=40
+[2018.08.10-06.44.46:599][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-06.44.46:651][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017e85d30680, Size=160
+[2018.08.10-06.44.46:651][518]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ec3f52480, Size=160, Default__Level3_C Function /Engine/Transient.REINST_Level3_C_42:ExecuteUbergraph_Level3
+[2018.08.10-06.44.46:655][518]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017ecdad25c0, Size=160, Default__Level3_C Function /Game/ThirdPersonBP/Maps/Level3.Level3_C:ExecuteUbergraph_Level3
+[2018.08.10-06.44.46:915][518]LogSavePackage: Save=279.36ms
+[2018.08.10-06.44.46:915][518]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Level335B29FCB4F6C696F5B1DCE8EF8CFD232.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level3.umap'
+[2018.08.10-06.44.46:920][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Level3.umap
+[2018.08.10-06.54.47:195][980]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ec3f52480, Size=160
+[2018.08.10-06.54.47:196][980]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level3' took 0.015
+[2018.08.10-06.54.47:198][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/cloth1] ([1] browsable assets)...
+[2018.08.10-06.54.47:226][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/cloth1.cloth1]
+[2018.08.10-06.54.47:226][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/cloth1]
+[2018.08.10-06.54.47:247][980]LogSavePackage: Save=16.21ms
+[2018.08.10-06.54.47:247][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth1_Auto289B4B08241892D32A8D2A6ADD438DBA8.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth1_Auto2.uasset'
+[2018.08.10-06.54.47:249][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth1_Auto2.uasset
+[2018.08.10-06.54.47:250][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/Basket] ([1] browsable assets)...
+[2018.08.10-06.54.47:268][980]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Models/Basket.Basket]
+[2018.08.10-06.54.47:268][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/Basket]
+[2018.08.10-06.54.47:379][980]LogSavePackage: Save=107.79ms
+[2018.08.10-06.54.47:379][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Basket_Auto24E9B50F94ABD32D1F9ED1DB6B8716537.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/Basket_Auto2.uasset'
+[2018.08.10-06.54.47:381][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/Basket_Auto2.uasset
+[2018.08.10-06.54.47:381][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/Material] ([1] browsable assets)...
+[2018.08.10-06.54.47:399][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/Material.Material]
+[2018.08.10-06.54.47:399][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/Material]
+[2018.08.10-06.54.47:423][980]LogSavePackage: Save=20.44ms
+[2018.08.10-06.54.47:423][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Material_Auto250CB8E7042D7C716AF6C1DA70E611D2A.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/Material_Auto2.uasset'
+[2018.08.10-06.54.47:447][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/Material_Auto2.uasset
+[2018.08.10-06.54.47:448][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/Box] ([1] browsable assets)...
+[2018.08.10-06.54.47:466][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/Box.Box]
+[2018.08.10-06.54.47:466][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/Box]
+[2018.08.10-06.54.47:484][980]LogSavePackage: Save=14.74ms
+[2018.08.10-06.54.47:484][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Box_Auto281248FA64CA6417090043A8E6AB33FD4.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/Box_Auto2.uasset'
+[2018.08.10-06.54.47:487][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/Box_Auto2.uasset
+[2018.08.10-06.54.47:489][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/Knopf] ([1] browsable assets)...
+[2018.08.10-06.54.47:506][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/Knopf.Knopf]
+[2018.08.10-06.54.47:506][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/Knopf]
+[2018.08.10-06.54.47:525][980]LogSavePackage: Save=15.02ms
+[2018.08.10-06.54.47:525][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Knopf_Auto2A7DF81404D91F8313E05A79A7FF11DE6.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/Knopf_Auto2.uasset'
+[2018.08.10-06.54.47:528][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/Knopf_Auto2.uasset
+[2018.08.10-06.54.47:529][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/cloth7] ([1] browsable assets)...
+[2018.08.10-06.54.47:546][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/cloth7.cloth7]
+[2018.08.10-06.54.47:546][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/cloth7]
+[2018.08.10-06.54.47:566][980]LogSavePackage: Save=16.05ms
+[2018.08.10-06.54.47:566][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth7_Auto290871FA84F6446FBE9354BA75FE0158D.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth7_Auto2.uasset'
+[2018.08.10-06.54.47:568][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth7_Auto2.uasset
+[2018.08.10-06.54.47:569][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/cloth2] ([1] browsable assets)...
+[2018.08.10-06.54.47:587][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/cloth2.cloth2]
+[2018.08.10-06.54.47:587][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/cloth2]
+[2018.08.10-06.54.47:606][980]LogSavePackage: Save=15.82ms
+[2018.08.10-06.54.47:606][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth2_Auto231DE8DCF472AC0BF2A9AA6B7D96BBE10.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth2_Auto2.uasset'
+[2018.08.10-06.54.47:609][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth2_Auto2.uasset
+[2018.08.10-06.54.47:610][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/3_parquet_medium_color-texture-seamless] ([1] browsable assets)...
+[2018.08.10-06.54.47:617][980]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/3_parquet_medium_color-texture-seamless.3_parquet_medium_color-texture-seamless]
+[2018.08.10-06.54.47:617][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/3_parquet_medium_color-texture-seamless]
+[2018.08.10-06.54.47:636][980]LogSavePackage: Save=17.16ms
+[2018.08.10-06.54.47:636][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/3_parquet_medium_color-texture-sFDA859EE43D426223B0A37A1F4335D21.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/Textures/3_parquet_medium_color-texture-seamless_Auto2.uasset'
+[2018.08.10-06.54.47:638][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/Textures/3_parquet_medium_color-texture-seamless_Auto2.uasset
+[2018.08.10-06.54.47:639][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/Undercloth] ([1] browsable assets)...
+[2018.08.10-06.54.47:656][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/Undercloth.Undercloth]
+[2018.08.10-06.54.47:656][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/Undercloth]
+[2018.08.10-06.54.47:862][980]LogSavePackage: Save=40.40ms
+[2018.08.10-06.54.47:862][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Undercloth_Auto21D547F1B402C5E46B66EC19DC7F11512.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/Undercloth_Auto2.uasset'
+[2018.08.10-06.54.47:864][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/Undercloth_Auto2.uasset
+[2018.08.10-06.54.47:864][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/3_parquet_medium_color-texture-seamless_Mat] ([1] browsable assets)...
+[2018.08.10-06.54.47:882][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/3_parquet_medium_color-texture-seamless_Mat.3_parquet_medium_color-texture-seamless_Mat]
+[2018.08.10-06.54.47:882][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/3_parquet_medium_color-texture-seamless_Mat]
+[2018.08.10-06.54.47:906][980]LogSavePackage: Save=20.33ms
+[2018.08.10-06.54.47:906][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/3_parquet_medium_color-texture-sFE5F34D34E29983EEA2AE4830A90C57B.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/Textures/3_parquet_medium_color-texture-seamless_Mat_Auto2.uasset'
+[2018.08.10-06.54.47:909][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/Textures/3_parquet_medium_color-texture-seamless_Mat_Auto2.uasset
+[2018.08.10-06.54.47:910][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/cloth5] ([1] browsable assets)...
+[2018.08.10-06.54.47:927][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/cloth5.cloth5]
+[2018.08.10-06.54.47:927][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/cloth5]
+[2018.08.10-06.54.47:947][980]LogSavePackage: Save=16.02ms
+[2018.08.10-06.54.47:947][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth5_Auto2A9426CDE45E4AB017E12E7A1A2353FBB.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth5_Auto2.uasset'
+[2018.08.10-06.54.47:950][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth5_Auto2.uasset
+[2018.08.10-06.54.47:951][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/cloth6] ([1] browsable assets)...
+[2018.08.10-06.54.47:970][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/cloth6.cloth6]
+[2018.08.10-06.54.47:970][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/cloth6]
+[2018.08.10-06.54.47:990][980]LogSavePackage: Save=17.10ms
+[2018.08.10-06.54.47:990][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth6_Auto26A3D49C049E528C29281CFAA4F7AB221.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth6_Auto2.uasset'
+[2018.08.10-06.54.47:992][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth6_Auto2.uasset
+[2018.08.10-06.54.47:993][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/cloth3] ([1] browsable assets)...
+[2018.08.10-06.54.48:011][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/cloth3.cloth3]
+[2018.08.10-06.54.48:011][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/cloth3]
+[2018.08.10-06.54.48:031][980]LogSavePackage: Save=17.57ms
+[2018.08.10-06.54.48:031][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth3_Auto254939D8F4D161240CEB787835F68D167.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth3_Auto2.uasset'
+[2018.08.10-06.54.48:033][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/cloth3_Auto2.uasset
+[2018.08.10-06.54.48:034][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/23_Santa_Fe_plaster_painted_wall_texture-seamless] ([1] browsable assets)...
+[2018.08.10-06.54.48:041][980]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/23_Santa_Fe_plaster_painted_wall_texture-seamless.23_Santa_Fe_plaster_painted_wall_texture-seamless]
+[2018.08.10-06.54.48:041][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/23_Santa_Fe_plaster_painted_wall_texture-seamless]
+[2018.08.10-06.54.48:062][980]LogSavePackage: Save=17.81ms
+[2018.08.10-06.54.48:062][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/23_Santa_Fe_plaster_painted_wallE39E5AE646E18C902D475FBF43852C00.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/Textures/23_Santa_Fe_plaster_painted_wall_texture-seamless_Auto2.uasset'
+[2018.08.10-06.54.48:065][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/Textures/23_Santa_Fe_plaster_painted_wall_texture-seamless_Auto2.uasset
+[2018.08.10-06.54.48:065][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/23_Santa_Fe_plaster_painted_wall_texture-seamless_Mat] ([1] browsable assets)...
+[2018.08.10-06.54.48:082][980]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/23_Santa_Fe_plaster_painted_wall_texture-seamless_Mat.23_Santa_Fe_plaster_painted_wall_texture-seamless_Mat]
+[2018.08.10-06.54.48:082][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/23_Santa_Fe_plaster_painted_wall_texture-seamless_Mat]
+[2018.08.10-06.54.48:102][980]LogSavePackage: Save=17.23ms
+[2018.08.10-06.54.48:102][980]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/23_Santa_Fe_plaster_painted_wallADA3F79A48126A8831E753AC114C4E13.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/Textures/23_Santa_Fe_plaster_painted_wall_texture-seamless_Mat_Auto2.uasset'
+[2018.08.10-06.54.48:104][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/Textures/23_Santa_Fe_plaster_painted_wall_texture-seamless_Mat_Auto2.uasset
+[2018.08.10-06.54.48:104][980]LogFileHelpers: Auto-saving content packages took 0.907
+[2018.08.10-08.35.04:711][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-08.35.06:336][638]Cmd: SELECT NONE
+[2018.08.10-08.56.46:275][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-08.56.51:732][797]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\ToyPlane\toyPlane.obj)
+[2018.08.10-08.56.51:762][797]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\ToyPlane\toyPlane.obj
+[2018.08.10-08.56.52:410][797]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-08.56.53:616][797]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.10-08.56.53:667][797]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\ToyPlane\toyPlane.obj
+[2018.08.10-08.56.54:223][797]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-08.56.54:236][797]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.08.10-08.56.54:254][797]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.10-08.56.54:254][797]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.10-08.56.54:254][797]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.10-08.56.54:256][797]LogMaterial: Missing cached shader map for material wheels, compiling. 
+[2018.08.10-08.56.54:272][797]LogMaterial: Missing cached shader map for material supports, compiling. 
+[2018.08.10-08.56.54:289][797]LogMaterial: Missing cached shader map for material chromemetal, compiling. 
+[2018.08.10-08.56.54:304][797]LogMaterial: Missing cached shader map for material body, compiling. 
+[2018.08.10-08.56.54:319][797]LogMaterial: Missing cached shader map for material blades, compiling. 
+[2018.08.10-08.56.54:342][797]LogMaterial: Missing cached shader map for material wings, compiling. 
+[2018.08.10-08.56.54:357][797]LogMaterial: Missing cached shader map for material seats, compiling. 
+[2018.08.10-08.56.54:367][797]LogFbx: Warning: Triangulating static mesh default
+[2018.08.10-08.56.57:263][797]LogShaderCompilers: Display: Shaders left to compile 154
+[2018.08.10-08.56.57:263][797]LogShaderCompilers: Display: Shaders left to compile 144
+[2018.08.10-08.56.57:269][797]LogStaticMesh: Building static mesh toyPlane...
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 134
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 124
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.10-08.57.54:705][797]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.10-08.57.54:705][797]LogStaticMesh: Built static mesh [57.44s] /Game/ThirdPersonBP/Models/toyPlane.toyPlane
+[2018.08.10-08.57.55:157][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level3' took 0.014
+[2018.08.10-08.57.55:158][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/toyPlane] ([1] browsable assets)...
+[2018.08.10-08.57.55:179][798]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Models/toyPlane.toyPlane]
+[2018.08.10-08.57.55:179][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/toyPlane]
+[2018.08.10-08.57.55:241][798]LogSavePackage: Save=58.92ms
+[2018.08.10-08.57.55:241][798]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/toyPlane_Auto37EF28B784A7513F5D3DD4F9525E97A7B.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/toyPlane_Auto3.uasset'
+[2018.08.10-08.57.55:243][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/toyPlane_Auto3.uasset
+[2018.08.10-08.57.55:244][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/ground] ([1] browsable assets)...
+[2018.08.10-08.57.55:264][798]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/ground.ground]
+[2018.08.10-08.57.55:264][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/ground]
+[2018.08.10-08.57.55:291][798]LogSavePackage: Save=24.55ms
+[2018.08.10-08.57.55:291][798]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/ground_Auto35743B8D64C2B8DC5FB1DCDABB071448A.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/ground_Auto3.uasset'
+[2018.08.10-08.57.55:293][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/ground_Auto3.uasset
+[2018.08.10-08.57.55:294][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/wheels] ([1] browsable assets)...
+[2018.08.10-08.57.55:311][798]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/wheels.wheels]
+[2018.08.10-08.57.55:311][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/wheels]
+[2018.08.10-08.57.55:337][798]LogSavePackage: Save=22.89ms
+[2018.08.10-08.57.55:337][798]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/wheels_Auto3A7C7DA07466516BC896DA0BD9398E14E.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/wheels_Auto3.uasset'
+[2018.08.10-08.57.55:339][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/wheels_Auto3.uasset
+[2018.08.10-08.57.55:340][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/supports] ([1] browsable assets)...
+[2018.08.10-08.57.55:356][798]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/supports.supports]
+[2018.08.10-08.57.55:356][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/supports]
+[2018.08.10-08.57.55:383][798]LogSavePackage: Save=22.69ms
+[2018.08.10-08.57.55:383][798]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/supports_Auto383901E074E60103C41CC57BEB6C828B4.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/supports_Auto3.uasset'
+[2018.08.10-08.57.55:385][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/supports_Auto3.uasset
+[2018.08.10-08.57.55:386][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/chromemetal] ([1] browsable assets)...
+[2018.08.10-08.57.55:403][798]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/chromemetal.chromemetal]
+[2018.08.10-08.57.55:403][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/chromemetal]
+[2018.08.10-08.57.55:430][798]LogSavePackage: Save=23.97ms
+[2018.08.10-08.57.55:430][798]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/chromemetal_Auto3A8BF792D4B786137548644971BC00CD0.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/chromemetal_Auto3.uasset'
+[2018.08.10-08.57.55:432][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/chromemetal_Auto3.uasset
+[2018.08.10-08.57.55:432][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/body] ([1] browsable assets)...
+[2018.08.10-08.57.55:450][798]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/body.body]
+[2018.08.10-08.57.55:450][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/body]
+[2018.08.10-08.57.55:475][798]LogSavePackage: Save=22.20ms
+[2018.08.10-08.57.55:475][798]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/body_Auto3C84337584A10D527415F19A855731224.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/body_Auto3.uasset'
+[2018.08.10-08.57.55:477][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/body_Auto3.uasset
+[2018.08.10-08.57.55:478][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/blades] ([1] browsable assets)...
+[2018.08.10-08.57.55:496][798]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/blades.blades]
+[2018.08.10-08.57.55:496][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/blades]
+[2018.08.10-08.57.55:520][798]LogSavePackage: Save=22.05ms
+[2018.08.10-08.57.55:520][798]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/blades_Auto3E981B28640B8138384905AA991068FA1.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/blades_Auto3.uasset'
+[2018.08.10-08.57.55:522][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/blades_Auto3.uasset
+[2018.08.10-08.57.55:523][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/wings] ([1] browsable assets)...
+[2018.08.10-08.57.55:540][798]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/wings.wings]
+[2018.08.10-08.57.55:540][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/wings]
+[2018.08.10-08.57.55:566][798]LogSavePackage: Save=22.87ms
+[2018.08.10-08.57.55:567][798]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/wings_Auto34601918E45A6EC4D7FD319B7473E70AD.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/wings_Auto3.uasset'
+[2018.08.10-08.57.55:570][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/wings_Auto3.uasset
+[2018.08.10-08.57.55:571][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/seats] ([1] browsable assets)...
+[2018.08.10-08.57.55:587][798]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Models/seats.seats]
+[2018.08.10-08.57.55:587][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/seats]
+[2018.08.10-08.57.55:614][798]LogSavePackage: Save=22.59ms
+[2018.08.10-08.57.55:614][798]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/seats_Auto3293873C94E18DA0894259F87610A75AC.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/seats_Auto3.uasset'
+[2018.08.10-08.57.55:616][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Models/seats_Auto3.uasset
+[2018.08.10-08.57.55:616][798]LogFileHelpers: Auto-saving content packages took 0.458
+[2018.08.10-08.58.08:575][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-08.58.19:891][416]LogSavePackage: Save=20.34ms
+[2018.08.10-08.58.19:891][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Basket3D5CFF064113C49CEF53CC9019FCA26F.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Basket.uasset'
+[2018.08.10-08.58.19:896][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Basket.uasset
+[2018.08.10-08.58.19:899][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Models/Basket" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket.uasset" SILENT=true
+[2018.08.10-08.58.19:908][416]LogSavePackage: Save=6.06ms
+[2018.08.10-08.58.19:908][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Basket3F7BF8BE412E913A10A78F9D62A25EE4.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket.uasset'
+[2018.08.10-08.58.19:919][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket.uasset
+[2018.08.10-08.58.19:959][416]LogSavePackage: Save=24.16ms
+[2018.08.10-08.58.19:959][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/bladesA3C114A9421DCEEFBFFBF3BCE303EB33.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/blades.uasset'
+[2018.08.10-08.58.19:964][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/blades.uasset
+[2018.08.10-08.58.20:000][416]LogSavePackage: Save=20.59ms
+[2018.08.10-08.58.20:000][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/body028243F24D25AD7D9141B6A689D0DEC7.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/body.uasset'
+[2018.08.10-08.58.20:004][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/body.uasset
+[2018.08.10-08.58.20:018][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Models/Basket/Box" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Box.uasset" SILENT=true
+[2018.08.10-08.58.20:055][416]LogSavePackage: Save=15.65ms
+[2018.08.10-08.58.20:055][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/BoxA21BA12B47228A052B4C1A9097726241.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Box.uasset'
+[2018.08.10-08.58.20:060][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Box.uasset
+[2018.08.10-08.58.20:101][416]LogSavePackage: Save=22.57ms
+[2018.08.10-08.58.20:101][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/chromemetal8AB79C0E48C35C3CA5F404BBB826D4AD.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/chromemetal.uasset'
+[2018.08.10-08.58.20:105][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/chromemetal.uasset
+[2018.08.10-08.58.20:138][416]LogSavePackage: Save=15.64ms
+[2018.08.10-08.58.20:138][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth1E7D1AE3C443883A154BA08891424E124.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth1.uasset'
+[2018.08.10-08.58.20:142][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth1.uasset
+[2018.08.10-08.58.20:174][416]LogSavePackage: Save=15.80ms
+[2018.08.10-08.58.20:174][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth2432AC2774A0F6E241FC68DBF7978E496.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth2.uasset'
+[2018.08.10-08.58.20:179][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth2.uasset
+[2018.08.10-08.58.20:210][416]LogSavePackage: Save=15.92ms
+[2018.08.10-08.58.20:210][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth30372EDB048F9A63B6BDA8284D8A593A1.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth3.uasset'
+[2018.08.10-08.58.20:215][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth3.uasset
+[2018.08.10-08.58.20:247][416]LogSavePackage: Save=16.01ms
+[2018.08.10-08.58.20:247][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth59E419EFF476BBE31281607898F3F845B.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth5.uasset'
+[2018.08.10-08.58.20:251][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth5.uasset
+[2018.08.10-08.58.20:285][416]LogSavePackage: Save=18.27ms
+[2018.08.10-08.58.20:285][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth6AB6411974381EFC5DB3EBDB4719A4899.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth6.uasset'
+[2018.08.10-08.58.20:289][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth6.uasset
+[2018.08.10-08.58.20:322][416]LogSavePackage: Save=17.18ms
+[2018.08.10-08.58.20:322][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/cloth7A7A9BC1545BF1208DFDFCABB380EC9ED.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth7.uasset'
+[2018.08.10-08.58.20:326][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/cloth7.uasset
+[2018.08.10-08.58.20:364][416]LogSavePackage: Save=21.39ms
+[2018.08.10-08.58.20:364][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/groundA26E88CB4B4222019512C2BD8BFBF13B.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/ground.uasset'
+[2018.08.10-08.58.20:369][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/ground.uasset
+[2018.08.10-08.58.20:401][416]LogSavePackage: Save=15.34ms
+[2018.08.10-08.58.20:401][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Knopf4921BA984955F687741017ABB576FC96.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Knopf.uasset'
+[2018.08.10-08.58.20:406][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Knopf.uasset
+[2018.08.10-08.58.20:443][416]LogSavePackage: Save=20.91ms
+[2018.08.10-08.58.20:443][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Material266530C44F7355ACCB32DCA84E97F54E.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Material.uasset'
+[2018.08.10-08.58.20:449][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Material.uasset
+[2018.08.10-08.58.20:485][416]LogSavePackage: Save=20.73ms
+[2018.08.10-08.58.20:485][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/seatsC60DAE114ED8B5CE0827D0870ED321D6.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/seats.uasset'
+[2018.08.10-08.58.20:491][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/seats.uasset
+[2018.08.10-08.58.20:528][416]LogSavePackage: Save=21.59ms
+[2018.08.10-08.58.20:528][416]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/supportsE5381BBD464A65AE9CA6E98BE5AEFEC6.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/supports.uasset'
+[2018.08.10-08.58.20:532][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/supports.uasset
+[2018.08.10-09.00.19:852][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-09.00.20:044][834]LogActorFactory: Actor Factory created toyPlane
+[2018.08.10-09.00.21:198][919]LogActorFactory: Actor Factory created toyPlane
+[2018.08.10-09.00.34:596][390]Cmd: DELETE
+[2018.08.10-09.00.34:596][390]Cmd: ACTOR DELETE
+[2018.08.10-09.00.34:603][390]LogEditorActor: Deleted Actor: Brush
+[2018.08.10-09.00.34:603][390]LogEditorActor: Deleted Actor: Brush
+[2018.08.10-09.00.34:603][390]LogEditorActor: Deleted Actor: Brush
+[2018.08.10-09.00.34:603][390]LogEditorActor: Deleted Actor: Brush
+[2018.08.10-09.00.34:603][390]LogEditorActor: Deleted Actor: Brush
+[2018.08.10-09.00.34:603][390]LogEditorActor: Deleted Actor: Brush
+[2018.08.10-09.00.34:644][390]LogEditorActor: Deleted 6 Actors (0.048 secs)
+[2018.08.10-09.00.35:557][498]Cmd: TRANSACTION UNDO
+[2018.08.10-09.00.35:557][498]LogEditorTransaction: Undo Delete Actors
+[2018.08.10-09.00.37:523][712]Cmd: SELECT NONE
+[2018.08.10-09.00.46:483][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (toyPlane)
+[2018.08.10-09.00.47:386][833]Cmd: DELETE
+[2018.08.10-09.00.47:386][833]Cmd: ACTOR DELETE
+[2018.08.10-09.00.47:393][833]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.10-09.00.47:404][833]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.08.10-09.01.00:345][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-09.01.11:763][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-09.01.12:404][587]LogRenderer: Reallocating scene render targets to support 1236x780 Format 10 NumSamples 1 (Frame:106137).
+[2018.08.10-09.01.12:448][588]LogRenderer: Reallocating scene render targets to support 1256x780 Format 10 NumSamples 1 (Frame:106139).
+[2018.08.10-09.01.12:486][589]LogRenderer: Reallocating scene render targets to support 1260x780 Format 10 NumSamples 1 (Frame:106141).
+[2018.08.10-09.01.18:546][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-09.01.29:412][343]LogSavePackage: Save=19.51ms
+[2018.08.10-09.01.29:412][343]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/toyPlaneD8F5FC3545B32300BF72C0BDD3B35B30.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/ToyPlane/toyPlane.uasset'
+[2018.08.10-09.01.29:417][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/ToyPlane/toyPlane.uasset
+[2018.08.10-09.01.29:451][343]LogSavePackage: Save=16.38ms
+[2018.08.10-09.01.29:451][343]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Undercloth5523ADEB41AB48C5B46567942921BDD2.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/ToyPlane/Undercloth.uasset'
+[2018.08.10-09.01.29:456][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/ToyPlane/Undercloth.uasset
+[2018.08.10-09.01.29:491][343]LogSavePackage: Save=18.00ms
+[2018.08.10-09.01.29:491][343]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/wheelsDE07CA5440B82BDB45F73EB0C4E49F9F.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/ToyPlane/wheels.uasset'
+[2018.08.10-09.01.29:496][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/ToyPlane/wheels.uasset
+[2018.08.10-09.01.29:526][343]LogSavePackage: Save=14.86ms
+[2018.08.10-09.01.29:526][343]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/wingsE022B1E5404E4038A53DA580FA0C1F56.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/ToyPlane/wings.uasset'
+[2018.08.10-09.01.29:531][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/ToyPlane/wings.uasset
+[2018.08.10-09.01.29:798][343]LogSavePackage: Save=9.06ms
+[2018.08.10-09.01.29:798][343]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/BasketEB328CBC4B780BD431053DBE6BC1E9DC.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Basket.uasset'
+[2018.08.10-09.01.29:802][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Basket/Basket.uasset
+[2018.08.10-09.02.34:864][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.10-09.02.34:870][399]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Desktop lamp\Lamp.obj)
+[2018.08.10-09.02.34:881][399]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Desktop lamp\Lamp.obj
+[2018.08.10-09.02.34:936][399]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-09.02.36:342][399]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.10-09.02.36:400][399]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Desktop lamp\Lamp.obj
+[2018.08.10-09.02.36:461][399]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-09.02.36:467][399]LogMaterial: Missing cached shader map for material DomeMat, compiling. 
+[2018.08.10-09.02.36:490][399]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.10-09.02.36:490][399]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.10-09.02.36:490][399]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.10-09.02.36:490][399]LogFbx: Warning: Triangulating static mesh Dome
+[2018.08.10-09.02.36:534][399]LogStaticMesh: Building static mesh Lamp_Dome...
+[2018.08.10-09.02.36:544][399]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Models/Lamp_Dome.Lamp_Dome
+[2018.08.10-09.02.36:565][399]LogMaterial: Missing cached shader map for material HolderMat, compiling. 
+[2018.08.10-09.02.36:578][399]LogFbx: Warning: Triangulating static mesh Holder
+[2018.08.10-09.02.36:588][399]LogStaticMesh: Building static mesh Lamp_Holder...
+[2018.08.10-09.02.36:594][399]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Models/Lamp_Holder.Lamp_Holder
+[2018.08.10-09.02.36:618][399]LogMaterial: Missing cached shader map for material Plane01Mat, compiling. 
+[2018.08.10-09.02.36:651][399]LogFbx: Warning: Triangulating static mesh Plane01
+[2018.08.10-09.02.36:655][399]LogStaticMesh: Building static mesh Lamp_Plane01...
+[2018.08.10-09.02.36:656][399]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Models/Lamp_Plane01.Lamp_Plane01
+[2018.08.10-09.02.36:669][399]LogMaterial: Missing cached shader map for material Plane02Mat, compiling. 
+[2018.08.10-09.02.36:679][399]LogFbx: Warning: Triangulating static mesh Plane02
+[2018.08.10-09.02.36:682][399]LogStaticMesh: Building static mesh Lamp_Plane02...
+[2018.08.10-09.02.36:683][399]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Models/Lamp_Plane02.Lamp_Plane02
+[2018.08.10-09.02.36:712][399]LogMaterial: Missing cached shader map for material PlateMat, compiling. 
+[2018.08.10-09.02.36:722][399]LogFbx: Warning: Triangulating static mesh Plate
+[2018.08.10-09.02.36:725][399]LogStaticMesh: Building static mesh Lamp_Plate...
+[2018.08.10-09.02.36:728][399]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Models/Lamp_Plate.Lamp_Plate
+[2018.08.10-09.02.36:754][399]LogMaterial: Missing cached shader map for material StandMat, compiling. 
+[2018.08.10-09.02.36:765][399]LogFbx: Warning: Triangulating static mesh Stand
+[2018.08.10-09.02.36:975][399]LogStaticMesh: Building static mesh Lamp_Stand...
+[2018.08.10-09.02.37:043][399]LogStaticMesh: Built static mesh [0.07s] /Game/ThirdPersonBP/Models/Lamp_Stand.Lamp_Stand
+[2018.08.10-09.02.37:399][400]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.08.10-09.02.38:786][401]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.08.10-09.02.39:040][401]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.08.10-09.02.39:810][404]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.08.10-09.02.40:515][405]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.08.10-09.02.41:434][406]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.10-09.02.42:340][409]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.10-09.02.42:431][410]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.10-09.02.43:825][411]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.10-09.02.44:426][412]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.10-09.02.44:472][413]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.10-09.02.48:058][415]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.10-09.02.55:600][707]LogAssetTools: Warning: Failed to import 'C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Desktop lamp\Lamp.3DS'. Unknown extension '3DS'.
+[2018.08.10-09.03.19:687][967]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Lamp\LAMP.obj)
+[2018.08.10-09.03.19:709][967]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Lamp\LAMP.obj
+[2018.08.10-09.03.20:201][967]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-09.03.21:796][967]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.10-09.03.21:842][967]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Lamp\LAMP.obj
+[2018.08.10-09.03.22:306][967]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-09.03.22:313][967]LogMaterial: Missing cached shader map for material wire_086086086, compiling. 
+[2018.08.10-09.03.22:320][967]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.10-09.03.22:320][967]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.10-09.03.22:320][967]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.10-09.03.22:321][967]LogFbx: Warning: Triangulating static mesh Cylinder013
+[2018.08.10-09.03.22:349][967]LogStaticMesh: Building static mesh LAMP_Cylinder013...
+[2018.08.10-09.03.22:351][967]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Models/LAMP_Cylinder013.LAMP_Cylinder013
+[2018.08.10-09.03.22:375][967]LogMaterial: Missing cached shader map for material wire_229166215, compiling. 
+[2018.08.10-09.03.22:384][967]LogFbx: Warning: Triangulating static mesh Cylinder014
+[2018.08.10-09.03.22:472][967]LogStaticMesh: Building static mesh LAMP_Cylinder014...
+[2018.08.10-09.03.22:589][967]LogStaticMesh: Built static mesh [0.12s] /Game/ThirdPersonBP/Models/LAMP_Cylinder014.LAMP_Cylinder014
+[2018.08.10-09.03.22:621][967]LogMaterial: Missing cached shader map for material wire_228153184, compiling. 
+[2018.08.10-09.03.22:629][967]LogFbx: Warning: Triangulating static mesh Cylinder015
+[2018.08.10-09.03.22:790][967]LogStaticMesh: Building static mesh LAMP_Cylinder015...
+[2018.08.10-09.03.22:984][967]LogStaticMesh: Built static mesh [0.19s] /Game/ThirdPersonBP/Models/LAMP_Cylinder015.LAMP_Cylinder015
+[2018.08.10-09.03.23:033][967]LogFbx: Warning: Triangulating static mesh Cylinder016
+[2018.08.10-09.03.23:114][967]LogStaticMesh: Building static mesh LAMP_Cylinder016...
+[2018.08.10-09.03.23:379][967]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.10-09.03.23:379][967]LogStaticMesh: Built static mesh [0.26s] /Game/ThirdPersonBP/Models/LAMP_Cylinder016.LAMP_Cylinder016
+[2018.08.10-09.03.23:387][967]LogFbx: Warning: Triangulating static mesh Cylinder017
+[2018.08.10-09.03.23:478][967]LogStaticMesh: Building static mesh LAMP_Cylinder017...
+[2018.08.10-09.03.23:582][967]LogStaticMesh: Built static mesh [0.10s] /Game/ThirdPersonBP/Models/LAMP_Cylinder017.LAMP_Cylinder017
+[2018.08.10-09.03.23:594][967]LogFbx: Warning: Triangulating static mesh Cylinder018
+[2018.08.10-09.03.23:671][967]LogStaticMesh: Building static mesh LAMP_Cylinder018...
+[2018.08.10-09.03.23:959][967]LogStaticMesh: Built static mesh [0.29s] /Game/ThirdPersonBP/Models/LAMP_Cylinder018.LAMP_Cylinder018
+[2018.08.10-09.03.23:967][967]LogFbx: Warning: Triangulating static mesh Cylinder019
+[2018.08.10-09.03.24:053][967]LogStaticMesh: Building static mesh LAMP_Cylinder019...
+[2018.08.10-09.03.24:311][967]LogStaticMesh: Built static mesh [0.26s] /Game/ThirdPersonBP/Models/LAMP_Cylinder019.LAMP_Cylinder019
+[2018.08.10-09.03.24:326][967]LogMaterial: Missing cached shader map for material wire_225198087, compiling. 
+[2018.08.10-09.03.24:336][967]LogFbx: Warning: Triangulating static mesh Line012
+[2018.08.10-09.03.25:358][967]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.08.10-09.03.25:359][967]LogStaticMesh: Building static mesh LAMP_Line012...
+[2018.08.10-09.03.27:079][967]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.10-09.03.27:079][967]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.10-09.03.27:079][967]LogStaticMesh: Built static mesh [1.72s] /Game/ThirdPersonBP/Models/LAMP_Line012.LAMP_Line012
+[2018.08.10-09.03.27:150][967]LogMaterial: Missing cached shader map for material wire_088177027, compiling. 
+[2018.08.10-09.03.27:159][967]LogFbx: Warning: Triangulating static mesh Line015
+[2018.08.10-09.03.27:505][967]LogStaticMesh: Building static mesh LAMP_Line015...
+[2018.08.10-09.03.28:175][967]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.10-09.03.28:175][967]LogStaticMesh: Built static mesh [0.67s] /Game/ThirdPersonBP/Models/LAMP_Line015.LAMP_Line015
+[2018.08.10-09.03.28:199][967]LogMaterial: Missing cached shader map for material wire_027177088, compiling. 
+[2018.08.10-09.03.28:208][967]LogFbx: Warning: Triangulating static mesh Line018
+[2018.08.10-09.03.28:332][967]LogStaticMesh: Building static mesh LAMP_Line018...
+[2018.08.10-09.03.28:563][967]LogStaticMesh: Built static mesh [0.23s] /Game/ThirdPersonBP/Models/LAMP_Line018.LAMP_Line018
+[2018.08.10-09.03.28:585][967]LogMaterial: Missing cached shader map for material wire_228184153, compiling. 
+[2018.08.10-09.03.28:595][967]LogFbx: Warning: Triangulating static mesh Line019
+[2018.08.10-09.03.28:619][967]LogStaticMesh: Building static mesh LAMP_Line019...
+[2018.08.10-09.03.28:626][967]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Models/LAMP_Line019.LAMP_Line019
+[2018.08.10-09.03.28:639][967]LogMaterial: Missing cached shader map for material wire_088144225, compiling. 
+[2018.08.10-09.03.28:665][967]LogFbx: Warning: Triangulating static mesh Sphere004
+[2018.08.10-09.03.28:911][967]LogStaticMesh: Building static mesh LAMP_Sphere004...
+[2018.08.10-09.03.28:979][967]LogStaticMesh: Built static mesh [0.07s] /Game/ThirdPersonBP/Models/LAMP_Sphere004.LAMP_Sphere004
+[2018.08.10-09.03.29:025][967]LogFbx: Warning: Triangulating static mesh Sphere005
+[2018.08.10-09.03.29:254][967]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.08.10-09.03.29:258][967]LogStaticMesh: Building static mesh LAMP_Sphere005...
+[2018.08.10-09.03.29:325][967]LogStaticMesh: Built static mesh [0.07s] /Game/ThirdPersonBP/Models/LAMP_Sphere005.LAMP_Sphere005
+[2018.08.10-09.03.29:378][967]LogMaterial: Missing cached shader map for material wire_143225087, compiling. 
+[2018.08.10-09.03.29:398][967]LogFbx: Warning: Triangulating static mesh Sphere006
+[2018.08.10-09.03.29:427][967]LogStaticMesh: Building static mesh LAMP_Sphere006...
+[2018.08.10-09.03.29:441][967]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Models/LAMP_Sphere006.LAMP_Sphere006
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.29:464][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.03.30:432][970]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.08.10-09.03.30:542][971]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.08.10-09.03.31:845][971]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.08.10-09.03.32:447][973]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.08.10-09.03.32:448][973]LogSlate: Window 'Message Log' being destroyed
+[2018.08.10-09.03.32:453][973]LogSlate: Window 'Message Log' being destroyed
+[2018.08.10-09.03.32:691][973]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.08.10-09.03.34:085][975]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.08.10-09.03.34:278][976]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.08.10-09.03.35:202][978]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.10-09.03.35:763][980]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.10-09.03.37:384][980]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.10-09.03.37:676][980]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.10-09.03.39:280][980]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.10-09.03.40:955][980]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.10-09.03.51:573][445]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Lamp\LAMP.obj)
+[2018.08.10-09.03.51:594][445]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Lamp\LAMP.obj
+[2018.08.10-09.03.52:103][445]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-09.03.55:386][445]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.10-09.03.55:432][445]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Lamp\LAMP.obj
+[2018.08.10-09.03.55:909][445]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-09.03.55:912][445]LogMaterial: Missing cached shader map for material wire_086086086, compiling. 
+[2018.08.10-09.03.55:920][445]LogFbx: Warning: Triangulating static mesh Cylinder013
+[2018.08.10-09.03.55:924][445]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.10-09.03.55:924][445]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.10-09.03.55:924][445]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.10-09.03.55:925][445]LogStaticMesh: Building static mesh LAMP_Cylinder013...
+[2018.08.10-09.03.55:927][445]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Models/LAMP_Cylinder013.LAMP_Cylinder013
+[2018.08.10-09.03.55:934][445]LogMaterial: Missing cached shader map for material wire_229166215, compiling. 
+[2018.08.10-09.03.55:944][445]LogFbx: Warning: Triangulating static mesh Cylinder014
+[2018.08.10-09.03.56:028][445]LogStaticMesh: Building static mesh LAMP_Cylinder014...
+[2018.08.10-09.03.56:178][445]LogStaticMesh: Built static mesh [0.15s] /Game/ThirdPersonBP/Models/LAMP_Cylinder014.LAMP_Cylinder014
+[2018.08.10-09.03.56:188][445]LogMaterial: Missing cached shader map for material wire_228153184, compiling. 
+[2018.08.10-09.03.56:198][445]LogFbx: Warning: Triangulating static mesh Cylinder015
+[2018.08.10-09.03.56:358][445]LogStaticMesh: Building static mesh LAMP_Cylinder015...
+[2018.08.10-09.03.56:559][445]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.10-09.03.56:559][445]LogStaticMesh: Built static mesh [0.20s] /Game/ThirdPersonBP/Models/LAMP_Cylinder015.LAMP_Cylinder015
+[2018.08.10-09.03.56:568][445]LogFbx: Warning: Triangulating static mesh Cylinder016
+[2018.08.10-09.03.56:651][445]LogStaticMesh: Building static mesh LAMP_Cylinder016...
+[2018.08.10-09.03.56:909][445]LogStaticMesh: Built static mesh [0.26s] /Game/ThirdPersonBP/Models/LAMP_Cylinder016.LAMP_Cylinder016
+[2018.08.10-09.03.56:915][445]LogFbx: Warning: Triangulating static mesh Cylinder017
+[2018.08.10-09.03.57:006][445]LogStaticMesh: Building static mesh LAMP_Cylinder017...
+[2018.08.10-09.03.57:113][445]LogStaticMesh: Built static mesh [0.11s] /Game/ThirdPersonBP/Models/LAMP_Cylinder017.LAMP_Cylinder017
+[2018.08.10-09.03.57:119][445]LogFbx: Warning: Triangulating static mesh Cylinder018
+[2018.08.10-09.03.57:208][445]LogStaticMesh: Building static mesh LAMP_Cylinder018...
+[2018.08.10-09.03.57:504][445]LogStaticMesh: Built static mesh [0.30s] /Game/ThirdPersonBP/Models/LAMP_Cylinder018.LAMP_Cylinder018
+[2018.08.10-09.03.57:510][445]LogFbx: Warning: Triangulating static mesh Cylinder019
+[2018.08.10-09.03.57:601][445]LogStaticMesh: Building static mesh LAMP_Cylinder019...
+[2018.08.10-09.03.57:865][445]LogStaticMesh: Built static mesh [0.26s] /Game/ThirdPersonBP/Models/LAMP_Cylinder019.LAMP_Cylinder019
+[2018.08.10-09.03.57:874][445]LogMaterial: Missing cached shader map for material wire_225198087, compiling. 
+[2018.08.10-09.03.57:908][445]LogFbx: Warning: Triangulating static mesh Line012
+[2018.08.10-09.03.59:004][445]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.08.10-09.03.59:004][445]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.10-09.03.59:006][445]LogStaticMesh: Building static mesh LAMP_Line012...
+[2018.08.10-09.04.00:496][445]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.10-09.04.00:496][445]LogStaticMesh: Built static mesh [1.49s] /Game/ThirdPersonBP/Models/LAMP_Line012.LAMP_Line012
+[2018.08.10-09.04.00:548][445]LogMaterial: Missing cached shader map for material wire_088177027, compiling. 
+[2018.08.10-09.04.00:557][445]LogFbx: Warning: Triangulating static mesh Line015
+[2018.08.10-09.04.00:876][445]LogStaticMesh: Building static mesh LAMP_Line015...
+[2018.08.10-09.04.01:437][445]LogStaticMesh: Built static mesh [0.56s] /Game/ThirdPersonBP/Models/LAMP_Line015.LAMP_Line015
+[2018.08.10-09.04.01:453][445]LogMaterial: Missing cached shader map for material wire_027177088, compiling. 
+[2018.08.10-09.04.01:462][445]LogFbx: Warning: Triangulating static mesh Line018
+[2018.08.10-09.04.01:556][445]LogStaticMesh: Building static mesh LAMP_Line018...
+[2018.08.10-09.04.01:886][445]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.08.10-09.04.01:886][445]LogStaticMesh: Built static mesh [0.33s] /Game/ThirdPersonBP/Models/LAMP_Line018.LAMP_Line018
+[2018.08.10-09.04.01:897][445]LogMaterial: Missing cached shader map for material wire_228184153, compiling. 
+[2018.08.10-09.04.01:906][445]LogFbx: Warning: Triangulating static mesh Line019
+[2018.08.10-09.04.01:920][445]LogStaticMesh: Building static mesh LAMP_Line019...
+[2018.08.10-09.04.01:927][445]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Models/LAMP_Line019.LAMP_Line019
+[2018.08.10-09.04.01:935][445]LogMaterial: Missing cached shader map for material wire_088144225, compiling. 
+[2018.08.10-09.04.01:944][445]LogFbx: Warning: Triangulating static mesh Sphere004
+[2018.08.10-09.04.02:154][445]LogStaticMesh: Building static mesh LAMP_Sphere004...
+[2018.08.10-09.04.02:211][445]LogStaticMesh: Built static mesh [0.06s] /Game/ThirdPersonBP/Models/LAMP_Sphere004.LAMP_Sphere004
+[2018.08.10-09.04.02:236][445]LogFbx: Warning: Triangulating static mesh Sphere005
+[2018.08.10-09.04.02:444][445]LogStaticMesh: Building static mesh LAMP_Sphere005...
+[2018.08.10-09.04.02:497][445]LogStaticMesh: Built static mesh [0.05s] /Game/ThirdPersonBP/Models/LAMP_Sphere005.LAMP_Sphere005
+[2018.08.10-09.04.02:544][445]LogMaterial: Missing cached shader map for material wire_143225087, compiling. 
+[2018.08.10-09.04.02:554][445]LogFbx: Warning: Triangulating static mesh Sphere006
+[2018.08.10-09.04.02:588][445]LogStaticMesh: Building static mesh LAMP_Sphere006...
+[2018.08.10-09.04.02:598][445]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Models/LAMP_Sphere006.LAMP_Sphere006
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:624][445]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.08.10-09.04.02:979][446]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.08.10-09.04.04:019][446]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.08.10-09.04.04:209][450]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.08.10-09.04.05:447][450]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.08.10-09.04.05:450][451]LogSlate: Window 'Message Log' being destroyed
+[2018.08.10-09.04.05:454][451]LogSlate: Window 'Message Log' being destroyed
+[2018.08.10-09.04.06:245][453]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.08.10-09.04.06:301][455]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.08.10-09.04.08:021][456]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.08.10-09.04.08:021][456]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.08.10-09.04.08:894][462]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.10-09.04.09:482][463]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.10-09.04.10:340][464]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.10-09.04.11:029][464]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.10-09.04.12:727][464]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.10-09.04.12:960][464]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.10-09.05.00:602][448]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Cat toy\Cat.obj)
+[2018.08.10-09.05.00:614][448]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Cat toy\Cat.obj
+[2018.08.10-09.05.00:666][448]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-09.05.02:175][448]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.10-09.05.02:214][448]LogFbx: Loading FBX Scene from C:\Users\Luke\Desktop\3D assets\AmothersWishtextures\3D Models\Cat toy\Cat.obj
+[2018.08.10-09.05.02:264][448]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.10-09.05.02:270][448]LogMaterial: Missing cached shader map for material CatMat, compiling. 
+[2018.08.10-09.05.02:286][448]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.10-09.05.02:286][448]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.10-09.05.02:286][448]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.10-09.05.02:286][448]LogStaticMesh: Building static mesh Cat...
+[2018.08.10-09.05.02:345][448]LogStaticMesh: Built static mesh [0.06s] /Game/ThirdPersonBP/Models/Cat.Cat
+[2018.08.10-09.05.14:326][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-09.05.14:507][635]LogActorFactory: Actor Factory created Cat
+[2018.08.10-09.05.16:598][755]LogActorFactory: Actor Factory created Cat
+[2018.08.10-09.05.29:099][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-09.05.51:875][657]Cmd: DELETE
+[2018.08.10-09.05.51:875][657]Cmd: ACTOR DELETE
+[2018.08.10-09.05.51:880][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.10-09.05.51:892][657]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.08.10-09.05.52:965][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-09.06.03:783][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Models/Cat/Cat" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Cat/Cat.uasset" SILENT=true
+[2018.08.10-09.06.03:803][  2]LogSavePackage: Save=16.32ms
+[2018.08.10-09.06.03:803][  2]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Cat655E004B44C938E5EB44CF955BCBD582.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Cat/Cat.uasset'
+[2018.08.10-09.06.03:807][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Cat/Cat.uasset
+[2018.08.10-09.06.03:821][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Models/Cat/CatMat" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Cat/CatMat.uasset" SILENT=true
+[2018.08.10-09.06.03:840][  2]LogSavePackage: Save=15.92ms
+[2018.08.10-09.06.03:840][  2]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/CatMat9C8B5F1A4F0E2BDD8B718A92982EB7A5.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Cat/CatMat.uasset'
+[2018.08.10-09.06.03:845][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Models/Cat/CatMat.uasset
+[2018.08.10-09.06.21:937][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.10-09.13.28:962][ 49]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017ecdad25c0, Size=160
+[2018.08.10-09.13.28:962][ 49]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017f2b82a480, Size=160, Default__Level3_C Function /Engine/Transient.REINST_Level3_C_46:ExecuteUbergraph_Level3
+[2018.08.10-09.13.28:998][ 49]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017f1148c860, Size=160, Default__Level3_C Function /Game/ThirdPersonBP/Maps/Level3.Level3_C:ExecuteUbergraph_Level3
+[2018.08.10-09.13.30:502][ 49]LogSavePackage: Save=1625.63ms
+[2018.08.10-09.13.30:502][ 49]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Level3_Auto44E32DFF04D7D5AB28BEE74AF73E76657.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level3_Auto4.umap'
+[2018.08.10-09.13.30:516][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level3_Auto4.umap
+[2018.08.10-09.13.30:540][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level3' took 1.783
+[2018.08.10-09.13.30:540][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.783

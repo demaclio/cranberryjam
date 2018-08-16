@@ -1,0 +1,1150 @@
+﻿Log file open, 08/03/18 12:19:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Studio2Level
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1713389555) SRandInit(-1713389555).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177824
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.032s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Luke-PC (10.1.1.180:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.03-02.19.16:330][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.03-02.19.16:330][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.03-02.19.16:343][  0]LogInit: Computer: LUKE-PC
+[2018.08.03-02.19.16:343][  0]LogInit: User: Luke
+[2018.08.03-02.19.16:343][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.03-02.19.16:343][  0]LogInit: High frequency timer resolution =3.117187 MHz
+[2018.08.03-02.19.16:344][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.08.03-02.19.16:344][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.03-02.19.16:344][  0]LogMemory: Process Physical Memory: 275.46 MB used, 275.46 MB peak
+[2018.08.03-02.19.16:344][  0]LogMemory: Process Virtual Memory: 266.18 MB used, 266.18 MB peak
+[2018.08.03-02.19.16:344][  0]LogMemory: Physical Memory: 7617.98 MB used,  8716.68 MB free, 16334.66 MB total
+[2018.08.03-02.19.16:344][  0]LogMemory: Virtual Memory: 4780.15 MB used,  8716.68 MB free, 134217728.00 MB total
+[2018.08.03-02.19.16:361][  0]LogInit: Using OS detected language (en-US).
+[2018.08.03-02.19.16:361][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.03-02.19.16:364][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.03-02.19.16:807][  0]LogStreaming: Display: Took  0.446s to EndInitTextLocalization.
+[2018.08.03-02.19.16:807][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.03-02.19.16:836][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.03-02.19.16:836][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.03-02.19.17:004][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.03-02.19.17:063][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.08.03-02.19.17:063][  0]LogD3D11RHI:       2988/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.03-02.19.17:065][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.03-02.19.17:065][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.03-02.19.17:065][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.03-02.19.17:073][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.03-02.19.17:073][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.03-02.19.17:073][  0]LogWindows: EnumDisplayDevices:
+[2018.08.03-02.19.17:073][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.08.03-02.19.17:074][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.08.03-02.19.17:074][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.08.03-02.19.17:074][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.08.03-02.19.17:074][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.03-02.19.17:074][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.08.03-02.19.17:074][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.03-02.19.17:074][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.03-02.19.17:074][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2018.08.03-02.19.17:104][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.03-02.19.17:104][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.03-02.19.17:104][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.03-02.19.17:121][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.03-02.19.17:122][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Intermediate/Shaders/WorkingDirectory/12000/).
+[2018.08.03-02.19.17:122][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luke/AppData/Local/Temp/UnrealShaderWorkingDir/CA0D675B4EAAA07FCF2CED8471FDF716/'.
+[2018.08.03-02.19.17:355][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.03-02.19.17:369][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.03-02.19.17:383][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.03-02.19.17:396][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.03-02.19.17:409][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.03-02.19.17:422][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.03-02.19.17:436][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.03-02.19.17:450][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.03-02.19.17:456][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.03-02.19.17:468][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.03-02.19.17:479][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.03-02.19.17:491][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.03-02.19.17:503][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.03-02.19.17:515][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.03-02.19.17:528][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.03-02.19.17:553][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.03-02.19.17:553][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.03-02.19.17:566][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-02.19.17:567][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.03-02.19.17:606][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.03-02.19.17:618][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.03-02.19.17:629][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.03-02.19.17:642][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.03-02.19.17:654][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.03-02.19.17:668][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.03-02.19.17:668][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.03-02.19.17:776][  0]LogXGEController: Cleaning working directory: C:/Users/Luke/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.03-02.19.17:776][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.03-02.19.17:776][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.03-02.19.17:776][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.03-02.19.18:473][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.03-02.19.18:539][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Luke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.03-02.19.18:539][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.03-02.19.18:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.03-02.19.18:539][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.03-02.19.18:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.03-02.19.18:539][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.03-02.19.18:556][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.03-02.19.18:568][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.03-02.19.18:568][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.03-02.19.18:568][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.03-02.19.18:579][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.03-02.19.18:580][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.03-02.19.18:580][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.03-02.19.18:580][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.03-02.19.18:697][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.08.03-02.19.19:015][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.03-02.19.19:161][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.03-02.19.19:164][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.03-02.19.19:164][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.03-02.19.19:164][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.03-02.19.19:164][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.03-02.19.19:164][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.03-02.19.19:192][  0]LogNetVersion: Studio2Level , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3027956618)
+[2018.08.03-02.19.19:720][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.129748 seconds
+[2018.08.03-02.19.19:727][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.03-02.19.19:728][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.08.03-02.19.19:728][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.03-02.19.21:347][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.03-02.19.21:376][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.03-02.19.21:714][  0]SourceControl: Source control is disabled
+[2018.08.03-02.19.21:714][  0]SourceControl: Source control is disabled
+[2018.08.03-02.19.21:731][  0]SourceControl: Source control is disabled
+[2018.08.03-02.19.21:749][  0]SourceControl: Source control is disabled
+[2018.08.03-02.19.22:205][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.03-02.19.22:354][  0]LogOcInput: OculusInput pre-init called
+[2018.08.03-02.19.22:458][  0]LogEngine: Initializing Engine...
+[2018.08.03-02.19.22:460][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.03-02.19.22:461][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.03-02.19.22:461][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.03-02.19.22:741][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.03-02.19.22:751][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.19.22:770][  0]LogInit: FAudioDevice initialized.
+[2018.08.03-02.19.23:010][  0]LogDerivedDataCache: Saved boot cache 0.24s 74MB C:/Users/Luke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.03-02.19.23:027][  0]LogInit: Texture streaming: Enabled
+[2018.08.03-02.19.23:045][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.03-02.19.23:058][  0]LogInit: Transaction tracking system initialized
+[2018.08.03-02.19.23:083][  0]BlueprintLog: New page: Editor Load
+[2018.08.03-02.19.23:159][  0]LocalizationService: Localization service is disabled
+[2018.08.03-02.19.23:258][  0]LogConsoleResponse: Display: 
+[2018.08.03-02.19.23:397][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ as it will conflict with another watching ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/.
+[2018.08.03-02.19.23:409][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.03-02.19.23:409][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.03-02.19.23:409][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.03-02.19.23:409][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.03-02.19.23:409][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.03-02.19.23:749][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/' took 0.01s
+[2018.08.03-02.19.23:749][  0]SourceControl: Source control is disabled
+[2018.08.03-02.19.23:749][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.03-02.19.23:749][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.03-02.19.23:749][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.03-02.19.23:792][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.736ms to complete.
+[2018.08.03-02.19.23:792][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.043
+[2018.08.03-02.19.23:923][  0]LogCollectionManager: Loaded 0 collections in 0.001943 seconds
+[2018.08.03-02.19.23:965][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Collections/' took 0.01s
+[2018.08.03-02.19.23:965][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/Developers/Luke/Collections/' took 0.01s
+[2018.08.03-02.19.23:965][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/Collections/' took 0.01s
+[2018.08.03-02.19.23:965][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.03-02.19.23:975][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2452 classes and 558 folders.
+[2018.08.03-02.19.23:982][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.03-02.19.24:024][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.03-02.19.24:029][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.03-02.19.24:085][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.03-02.19.24:087][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.03-02.19.24:093][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.03-02.19.24:189][  0]LogRenderer: Reallocating scene render targets to support 1228x688 Format 10 NumSamples 1 (Frame:1).
+[2018.08.03-02.19.24:327][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.03-02.19.24:327][  0]LogLoad: (Engine Initialization) Total time: 10.25 seconds
+[2018.08.03-02.19.24:327][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.03-02.19.24:336][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.03-02.19.24:367][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.03-02.19.24:472][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.03-02.19.24:491][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/' took 0.14s
+[2018.08.03-02.19.24:503][  1]LogAssetRegistry: Asset discovery search completed in 5.8293 seconds
+[2018.08.03-02.19.24:505][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.03-02.19.24:505][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2018.08.03-02.19.25:361][ 98]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.03-02.19.35:794][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-02.24.57:426][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fa2009f10, Size=16, Default__Controls_C Function /Game/ThirdPersonBP/UI/Controls.Controls_C:ExecuteUbergraph_Controls
+[2018.08.03-02.24.57:427][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f9bdb2290, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.24.57:431][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fa2009be0, Size=16, Default__OptionsMenu_C Function /Game/ThirdPersonBP/UI/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.08.03-02.24.57:433][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/dialog_box_1'
+[2018.08.03-02.24.57:434][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/dialog_box_1' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:434][ 11]LoadErrors: Error: /Game/ThirdPersonBP/UI/MainMenu : Can't find file for asset. /Game/ThirdPersonBP/UI/Images/dialog_box_1
+[2018.08.03-02.24.57:434][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/logo_2'
+[2018.08.03-02.24.57:434][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/logo_2' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:434][ 11]LoadErrors: Error: /Game/ThirdPersonBP/UI/MainMenu : Can't find file for asset. /Game/ThirdPersonBP/UI/Images/logo_2
+[2018.08.03-02.24.57:434][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/options_button'
+[2018.08.03-02.24.57:434][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/options_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:434][ 11]LoadErrors: Error: /Game/ThirdPersonBP/UI/MainMenu : Can't find file for asset. /Game/ThirdPersonBP/UI/Images/options_button
+[2018.08.03-02.24.57:434][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/quit_button'
+[2018.08.03-02.24.57:434][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/quit_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:434][ 11]LoadErrors: Error: /Game/ThirdPersonBP/UI/MainMenu : Can't find file for asset. /Game/ThirdPersonBP/UI/Images/quit_button
+[2018.08.03-02.24.57:435][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/start_button'
+[2018.08.03-02.24.57:435][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/start_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:435][ 11]LoadErrors: Error: /Game/ThirdPersonBP/UI/MainMenu : Can't find file for asset. /Game/ThirdPersonBP/UI/Images/start_button
+[2018.08.03-02.24.57:435][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/Title_screen'
+[2018.08.03-02.24.57:435][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/Title_screen' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:435][ 11]LoadErrors: Error: /Game/ThirdPersonBP/UI/MainMenu : Can't find file for asset. /Game/ThirdPersonBP/UI/Images/Title_screen
+[2018.08.03-02.24.57:435][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/dialog_box_1'
+[2018.08.03-02.24.57:435][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/dialog_box_1' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:435][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/logo_2'
+[2018.08.03-02.24.57:435][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/logo_2' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:435][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/options_button'
+[2018.08.03-02.24.57:436][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/options_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:436][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/quit_button'
+[2018.08.03-02.24.57:436][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/quit_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:436][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/start_button'
+[2018.08.03-02.24.57:436][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/start_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:436][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/Title_screen'
+[2018.08.03-02.24.57:436][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/Title_screen' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:437][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/start_button'
+[2018.08.03-02.24.57:437][ 11]LoadErrors: Failed to load /Game/ThirdPersonBP/UI/Images/start_button.start_button Referenced by Start
+[2018.08.03-02.24.57:437][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/start_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:437][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/start_button'
+[2018.08.03-02.24.57:437][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/start_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:438][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/options_button'
+[2018.08.03-02.24.57:438][ 11]LoadErrors: Failed to load /Game/ThirdPersonBP/UI/Images/options_button.options_button Referenced by Image_1648
+[2018.08.03-02.24.57:438][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/options_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:438][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/quit_button'
+[2018.08.03-02.24.57:438][ 11]LoadErrors: Failed to load /Game/ThirdPersonBP/UI/Images/quit_button.quit_button Referenced by Image_1786
+[2018.08.03-02.24.57:438][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/quit_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:438][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/Title_screen'
+[2018.08.03-02.24.57:438][ 11]LoadErrors: Failed to load /Game/ThirdPersonBP/UI/Images/Title_screen.Title_screen Referenced by Image_162
+[2018.08.03-02.24.57:439][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/Title_screen' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:439][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/logo_2'
+[2018.08.03-02.24.57:439][ 11]LoadErrors: Failed to load /Game/ThirdPersonBP/UI/Images/logo_2.logo_2 Referenced by Image_445
+[2018.08.03-02.24.57:439][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/logo_2' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:439][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/dialog_box_1'
+[2018.08.03-02.24.57:439][ 11]LoadErrors: Failed to load /Game/ThirdPersonBP/UI/Images/dialog_box_1.dialog_box_1 Referenced by Image_667
+[2018.08.03-02.24.57:439][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/dialog_box_1' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:445][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fa2009f10, Size=16
+[2018.08.03-02.24.57:445][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fa2009f10, Size=16, Default__Controls_C Function /Engine/Transient.REINST_Controls_C_0:ExecuteUbergraph_Controls
+[2018.08.03-02.24.57:445][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f9bdb2290, Size=24
+[2018.08.03-02.24.57:445][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fef3a4c40, Size=24, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_1:ExecuteUbergraph_MainMenu
+[2018.08.03-02.24.57:445][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fa2009be0, Size=16
+[2018.08.03-02.24.57:445][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fa2009be0, Size=16, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_2:ExecuteUbergraph_OptionsMenu
+[2018.08.03-02.24.57:449][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f96c4da60, Size=16, Default__Controls_C Function /Game/ThirdPersonBP/UI/Controls.Controls_C:ExecuteUbergraph_Controls
+[2018.08.03-02.24.57:450][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fef3a5090, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.24.57:451][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f96c4dd50, Size=16, Default__OptionsMenu_C Function /Game/ThirdPersonBP/UI/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.08.03-02.24.57:452][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/dialog_box_1'
+[2018.08.03-02.24.57:452][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/dialog_box_1' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:453][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/logo_2'
+[2018.08.03-02.24.57:453][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/logo_2' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:453][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/options_button'
+[2018.08.03-02.24.57:453][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/options_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:453][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/quit_button'
+[2018.08.03-02.24.57:453][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/quit_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:453][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/start_button'
+[2018.08.03-02.24.57:453][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/start_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:453][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/Title_screen'
+[2018.08.03-02.24.57:453][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/Title_screen' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:454][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/dialog_box_1'
+[2018.08.03-02.24.57:454][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/dialog_box_1' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:454][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/logo_2'
+[2018.08.03-02.24.57:454][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/logo_2' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:454][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/options_button'
+[2018.08.03-02.24.57:455][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/options_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:455][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/quit_button'
+[2018.08.03-02.24.57:455][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/quit_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:455][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/start_button'
+[2018.08.03-02.24.57:455][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/start_button' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:455][ 11]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/UI/Images/Title_screen'
+[2018.08.03-02.24.57:455][ 11]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/UI/Images/Title_screen' while loading ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset.
+[2018.08.03-02.24.57:533][ 11]LogSavePackage: Save=15.70ms
+[2018.08.03-02.24.57:534][ 11]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/controls2890026184FF507083C6236A352A9A925.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/controls2.uasset'
+[2018.08.03-02.24.57:540][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/controls2.uasset
+[2018.08.03-02.24.57:603][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fa2009f10, Size=16
+[2018.08.03-02.24.57:603][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fef3a4c40, Size=24
+[2018.08.03-02.24.57:604][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fa2009be0, Size=16
+[2018.08.03-02.24.57:659][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/Controls" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Controls.uasset" SILENT=true
+[2018.08.03-02.24.57:893][ 11]LogSavePackage: Save=15.00ms
+[2018.08.03-02.24.57:893][ 11]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Controls123FA0784EF6A415307299A654BFFC77.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Controls.uasset'
+[2018.08.03-02.24.57:899][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Controls.uasset
+[2018.08.03-02.25.06:218][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\start menu.png)
+[2018.08.03-02.25.06:380][221]LogTexture: Display: Building textures: start_menu (BGRA8, 1843X1969)
+[2018.08.03-02.25.06:794][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\Title_screen.png)
+[2018.08.03-02.25.07:613][221]LogTexture: Display: Building textures: Title_screen (BGRA8, 4965X3511)
+[2018.08.03-02.25.09:369][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\dialog_box_1.png)
+[2018.08.03-02.25.09:511][221]LogTexture: Display: Building textures: dialog_box_1 (BGRA8, 2790X837)
+[2018.08.03-02.25.09:768][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\dialog_box_2.png)
+[2018.08.03-02.25.09:902][221]LogTexture: Display: Building textures: dialog_box_2 (BGRA8, 2890X825)
+[2018.08.03-02.25.10:116][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\diamond 2.png)
+[2018.08.03-02.25.10:189][221]LogTexture: Display: Building textures: diamond_2 (BGRA8, 933X1805)
+[2018.08.03-02.25.10:312][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\diamond.png)
+[2018.08.03-02.25.10:405][221]LogTexture: Display: Building textures: diamond (BGRA8, 934X1806)
+[2018.08.03-02.25.10:519][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\logo.png)
+[2018.08.03-02.25.10:548][221]LogTexture: Display: Building textures: logo (BGRA8, 1162X698)
+[2018.08.03-02.25.10:626][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\logo_2.png)
+[2018.08.03-02.25.10:680][221]LogTexture: Display: Building textures: logo_2 (BGRA8, 1298X716)
+[2018.08.03-02.25.10:791][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\options button.png)
+[2018.08.03-02.25.10:852][221]LogTexture: Display: Building textures: options_button (BGRA8, 2712X954)
+[2018.08.03-02.25.11:074][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\quit button.png)
+[2018.08.03-02.25.11:145][221]LogTexture: Display: Building textures: quit_button (BGRA8, 2917X1026)
+[2018.08.03-02.25.11:409][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\resume button.png)
+[2018.08.03-02.25.11:484][221]LogTexture: Display: Building textures: resume_button (BGRA8, 2932X1031)
+[2018.08.03-02.25.11:757][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luke\Desktop\AMW UI assets\start button.png)
+[2018.08.03-02.25.11:817][221]LogTexture: Display: Building textures: start_button (BGRA8, 2114X744)
+[2018.08.03-02.25.17:846][566]LogSlate: Window 'Save Level As' being destroyed
+[2018.08.03-02.25.17:917][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.03-02.25.17:939][566]LogSavePackage: Save=8.03ms
+[2018.08.03-02.25.17:939][566]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/NewMap779A3D5D4FDA7500313F99BFCF4E9DB6.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/Maps/NewMap.umap'
+[2018.08.03-02.25.17:941][566]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/Maps/NewMap.umap
+[2018.08.03-02.25.17:993][566]LogFileHelpers: Saving map 'NewMap' took 0.139
+[2018.08.03-02.25.30:935][ 38]LogSavePackage: Save=11.69ms
+[2018.08.03-02.25.30:935][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/controls24A40F7B14D0B92150AFAE1BC7FCE2929.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/controls2.uasset'
+[2018.08.03-02.25.30:938][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/controls2.uasset
+[2018.08.03-02.25.31:035][ 38]LogSavePackage: Save=89.02ms
+[2018.08.03-02.25.31:035][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/dialog_box_15E3C473B4B16BE92F2D67BB0EDD09373.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/dialog_box_1.uasset'
+[2018.08.03-02.25.31:042][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/dialog_box_1.uasset
+[2018.08.03-02.25.31:140][ 38]LogSavePackage: Save=88.35ms
+[2018.08.03-02.25.31:140][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/dialog_box_24D31B3874F47D776AD8E0E85F8582097.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/dialog_box_2.uasset'
+[2018.08.03-02.25.31:144][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/dialog_box_2.uasset
+[2018.08.03-02.25.31:150][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/Images/diamond" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/diamond.uasset" SILENT=true
+[2018.08.03-02.25.31:221][ 38]LogSavePackage: Save=69.29ms
+[2018.08.03-02.25.31:221][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/diamondD8CA5F7C4B5644B60027598563FD113F.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/diamond.uasset'
+[2018.08.03-02.25.31:226][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/diamond.uasset
+[2018.08.03-02.25.31:305][ 38]LogSavePackage: Save=71.68ms
+[2018.08.03-02.25.31:305][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/diamond_245896C43427BAAB6F7EAD8B1AD9067DD.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/diamond_2.uasset'
+[2018.08.03-02.25.31:309][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/diamond_2.uasset
+[2018.08.03-02.25.31:316][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/Images/logo" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/logo.uasset" SILENT=true
+[2018.08.03-02.25.31:355][ 38]LogSavePackage: Save=36.82ms
+[2018.08.03-02.25.31:355][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/logo03655B17488183B065743A8598DC561F.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/logo.uasset'
+[2018.08.03-02.25.31:359][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/logo.uasset
+[2018.08.03-02.25.31:366][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/Images/logo_2" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/logo_2.uasset" SILENT=true
+[2018.08.03-02.25.31:410][ 38]LogSavePackage: Save=41.85ms
+[2018.08.03-02.25.31:410][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/logo_2A80A40A74C80FF1ED97670809E3E68AF.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/logo_2.uasset'
+[2018.08.03-02.25.31:414][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/logo_2.uasset
+[2018.08.03-02.25.31:521][ 38]LogSavePackage: Save=98.78ms
+[2018.08.03-02.25.31:521][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/options_button78F69C5D4EFC0AD2517F69853D91C9E9.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/options_button.uasset'
+[2018.08.03-02.25.31:525][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/options_button.uasset
+[2018.08.03-02.25.31:650][ 38]LogSavePackage: Save=116.54ms
+[2018.08.03-02.25.31:650][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/quit_button2CBC274C455778E2FDB14D9BB198CF61.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/quit_button.uasset'
+[2018.08.03-02.25.31:655][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/quit_button.uasset
+[2018.08.03-02.25.31:780][ 38]LogSavePackage: Save=117.78ms
+[2018.08.03-02.25.31:780][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/resume_button7A54823448812E8E1F3F269743F123F3.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/resume_button.uasset'
+[2018.08.03-02.25.31:784][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/resume_button.uasset
+[2018.08.03-02.25.31:856][ 38]LogSavePackage: Save=63.47ms
+[2018.08.03-02.25.31:856][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/start_button292032D8462CB5D7F802A481741F836B.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/start_button.uasset'
+[2018.08.03-02.25.31:861][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/start_button.uasset
+[2018.08.03-02.25.32:018][ 38]LogSavePackage: Save=144.10ms
+[2018.08.03-02.25.32:018][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/start_menu1ED0318E43527243D07F95B57B6C76AA.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/start_menu.uasset'
+[2018.08.03-02.25.32:022][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/start_menu.uasset
+[2018.08.03-02.25.32:735][ 38]LogSavePackage: Save=701.99ms
+[2018.08.03-02.25.32:735][ 38]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Title_screenC8D393E34C2A7DD15AE7928D974F7309.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/Title_screen.uasset'
+[2018.08.03-02.25.32:738][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Images/Title_screen.uasset
+[2018.08.03-02.43.42:526][967]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.08.03-02.43.42:805][967]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ff72d4b80, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.03-02.43.42:805][967]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ff72d4b78, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.03-02.43.43:198][967]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.03-02.44.47:676][463]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.024
+[2018.08.03-02.44.47:678][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI/MainMenu] ([1] browsable assets)...
+[2018.08.03-02.44.47:678][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI/MainMenu]
+[2018.08.03-02.44.47:724][463]LogSavePackage: Save=26.62ms
+[2018.08.03-02.44.47:724][463]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/MainMenu_Auto173B1A001478D5DEB6FE99E9245AD7322.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/UI/MainMenu_Auto1.uasset'
+[2018.08.03-02.44.47:740][463]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Autosaves/Game/ThirdPersonBP/UI/MainMenu_Auto1.uasset
+[2018.08.03-02.44.47:740][463]LogFileHelpers: Auto-saving content packages took 0.063
+[2018.08.03-02.45.15:112][ 74]BlueprintLog: New page: Compile MainMenu
+[2018.08.03-02.45.15:135][ 74]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fef3a5090, Size=24
+[2018.08.03-02.45.15:135][ 74]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019007e17100, Size=24, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_6:ExecuteUbergraph_MainMenu
+[2018.08.03-02.45.15:138][ 74]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019007e16038, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.45.26:745][759]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f9becc538, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.45.26:747][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f9becc538, Size=24
+[2018.08.03-02.45.26:747][759]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f9becc538, Size=24, MainMenu_C_5 Function /Engine/Transient.REINST_MainMenu_C_24:ExecuteUbergraph_MainMenu
+[2018.08.03-02.45.26:749][759]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f9becfc40, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.45.26:758][759]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.45.26:940][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f9becc538, Size=24
+[2018.08.03-02.46.44:887][759]LogSlate: Window 'Save Content' being destroyed
+[2018.08.03-02.46.44:895][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/MainMenu" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset" SILENT=true
+[2018.08.03-02.46.44:936][759]LogSavePackage: Save=28.20ms
+[2018.08.03-02.46.44:936][759]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/MainMenu0EF220F048C188CBA4F1988AAA23289C.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset'
+[2018.08.03-02.46.44:942][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset
+[2018.08.03-02.46.44:944][759]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Menus_UI/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.03-02.46.44:944][759]LightingResults: New page: Lighting Build
+[2018.08.03-02.46.44:947][759]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.08.03-02.46.44:948][759]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.08.03-02.46.44:948][759]MapCheck: New page: Map Check
+[2018.08.03-02.46.44:948][759]LightingResults: New page: Lighting Build
+[2018.08.03-02.46.44:971][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019007e17100, Size=24
+[2018.08.03-02.46.45:039][759]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.03-02.46.45:101][759]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.03-02.46.45:151][759]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.72ms to complete.
+[2018.08.03-02.46.45:151][759]LogFileHelpers: Loading map 'MainMenu' took 0.209
+[2018.08.03-02.46.47:550][899]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.46.47:574][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.46.47:574][899]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.03-02.46.47:580][899]LogPlayLevel: [PlayLevel] Compiling Controls before play...
+[2018.08.03-02.46.47:582][899]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f96c4da60, Size=16
+[2018.08.03-02.46.47:582][899]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190087f7c30, Size=16, Default__Controls_C Function /Engine/Transient.REINST_Controls_C_9:ExecuteUbergraph_Controls
+[2018.08.03-02.46.47:584][899]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190087f7860, Size=16, Default__Controls_C Function /Game/ThirdPersonBP/UI/Controls.Controls_C:ExecuteUbergraph_Controls
+[2018.08.03-02.46.47:725][899]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190087f7c30, Size=16
+[2018.08.03-02.46.47:726][899]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (1 blueprints)
+[2018.08.03-02.46.47:752][899]PIE: New page: PIE session: MainMenu (Aug 3, 2018, 10:46:47 PM)
+[2018.08.03-02.46.47:752][899]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu
+[2018.08.03-02.46.47:754][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001307s)
+[2018.08.03-02.46.47:754][899]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.46.47:754][899]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.08.03-02.46.47:754][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu (0.002050s)
+[2018.08.03-02.46.47:780][899]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.46.47:792][899]LogInit: FAudioDevice initialized.
+[2018.08.03-02.46.47:837][899]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.46.47:838][899]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.08.03-12.46.47
+[2018.08.03-02.46.47:838][899]LogWorld: Bringing up level for play took: 0.000422
+[2018.08.03-02.46.47:842][899]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.08.03-02.46.47:844][899]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu 0.74
+[2018.08.03-02.46.47:844][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.46.50:990][ 83]LogPackageName: SearchForPackageOnDisk took   0.085s, but failed to resolve Cinematic1.umap.
+[2018.08.03-02.46.50:990][ 83]LogLevel: Warning: WARNING: The map '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' does not exist.
+[2018.08.03-02.46.51:073][ 83]LogPackageName: SearchForPackageOnDisk took   0.081s, but failed to resolve Cinematic1.umap.
+[2018.08.03-02.46.51:073][ 83]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.46.51:073][ 83]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.46.51:073][ 83]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.46.51:073][ 83]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.46.51:073][ 83]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.46.51:074][ 83]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.46.51:074][ 83]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.46.51:074][ 83]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.46.51:105][ 83]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.46.54:077][257]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.46.54:103][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.46.54:103][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.46.54:103][257]PIE: New page: PIE session: MainMenu (Aug 3, 2018, 10:46:54 PM)
+[2018.08.03-02.46.54:103][257]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu
+[2018.08.03-02.46.54:104][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000778s)
+[2018.08.03-02.46.54:104][257]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.46.54:104][257]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2018.08.03-02.46.54:104][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu (0.001436s)
+[2018.08.03-02.46.54:130][257]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.46.54:141][257]LogInit: FAudioDevice initialized.
+[2018.08.03-02.46.54:172][257]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.46.54:173][257]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.08.03-12.46.54
+[2018.08.03-02.46.54:173][257]LogWorld: Bringing up level for play took: 0.000369
+[2018.08.03-02.46.54:175][257]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu 1.07
+[2018.08.03-02.46.54:175][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.07:870][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.07:905][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.11:608][286]BlueprintLog: New page: Compile MainMenu
+[2018.08.03-02.47.11:629][286]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019007e16038, Size=24
+[2018.08.03-02.47.11:629][286]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900e2e3fa0, Size=24, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_13:ExecuteUbergraph_MainMenu
+[2018.08.03-02.47.11:632][286]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900e2e34a8, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.47.13:021][364]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.47.13:047][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.13:047][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.47.13:047][364]PIE: New page: PIE session: MainMenu (Aug 3, 2018, 10:47:13 PM)
+[2018.08.03-02.47.13:048][364]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu
+[2018.08.03-02.47.13:048][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000843s)
+[2018.08.03-02.47.13:049][364]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.47.13:049][364]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.08.03-02.47.13:049][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu (0.001642s)
+[2018.08.03-02.47.13:075][364]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.47.13:088][364]LogInit: FAudioDevice initialized.
+[2018.08.03-02.47.13:124][364]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.47.13:125][364]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.08.03-12.47.13
+[2018.08.03-02.47.13:125][364]LogWorld: Bringing up level for play took: 0.000404
+[2018.08.03-02.47.13:127][364]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu 0.022
+[2018.08.03-02.47.13:127][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.16:619][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.16:657][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.26:826][208]BlueprintLog: New page: Compile MainMenu
+[2018.08.03-02.47.26:844][208]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900e2e34a8, Size=24
+[2018.08.03-02.47.26:844][208]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019010f0e3c8, Size=24, MainMenu_C_15 Function /Engine/Transient.REINST_MainMenu_C_17:ExecuteUbergraph_MainMenu
+[2018.08.03-02.47.26:846][208]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019010f0d558, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.47.27:671][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/MainMenu" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset" SILENT=true
+[2018.08.03-02.47.27:710][250]LogSavePackage: Save=26.18ms
+[2018.08.03-02.47.27:711][250]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/MainMenu1292F8F24409F8ED521FCA98144F095A.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset'
+[2018.08.03-02.47.27:715][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset
+[2018.08.03-02.47.28:100][273]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.47.28:126][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.28:126][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.47.28:126][273]PIE: New page: PIE session: MainMenu (Aug 3, 2018, 10:47:28 PM)
+[2018.08.03-02.47.28:126][273]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu
+[2018.08.03-02.47.28:127][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000778s)
+[2018.08.03-02.47.28:128][273]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.47.28:128][273]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2018.08.03-02.47.28:128][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu (0.001446s)
+[2018.08.03-02.47.28:154][273]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.47.28:166][273]LogInit: FAudioDevice initialized.
+[2018.08.03-02.47.28:200][273]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.47.28:201][273]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.08.03-12.47.28
+[2018.08.03-02.47.28:201][273]LogWorld: Bringing up level for play took: 0.000419
+[2018.08.03-02.47.28:204][273]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu -0.901
+[2018.08.03-02.47.28:204][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.30:011][381]LogPackageName: SearchForPackageOnDisk took   0.082s, but failed to resolve Cinematic1.umap.
+[2018.08.03-02.47.30:011][381]LogLevel: Warning: WARNING: The map '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' does not exist.
+[2018.08.03-02.47.30:093][381]LogPackageName: SearchForPackageOnDisk took   0.081s, but failed to resolve Cinematic1.umap.
+[2018.08.03-02.47.30:093][381]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.47.30:093][381]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.47.30:093][381]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.47.30:093][381]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.47.30:093][381]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.47.30:093][381]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.47.30:093][381]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.47.30:094][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.30:125][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.32:276][491]LogEditorViewport: Clicking Background
+[2018.08.03-02.47.36:351][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-02.47.49:676][539]BlueprintLog: New page: Compile MainMenu
+[2018.08.03-02.47.49:693][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019010f0d558, Size=24
+[2018.08.03-02.47.49:693][539]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901385c7c0, Size=24, MainMenu_C_20 Function /Engine/Transient.REINST_MainMenu_C_21:ExecuteUbergraph_MainMenu
+[2018.08.03-02.47.49:695][539]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901385c3e8, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.47.54:874][855]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.47.54:936][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.54:937][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.47.54:937][855]PIE: New page: PIE session: MainMenu (Aug 3, 2018, 10:47:54 PM)
+[2018.08.03-02.47.54:937][855]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu
+[2018.08.03-02.47.54:938][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000718s)
+[2018.08.03-02.47.54:938][855]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.47.54:938][855]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.08.03-02.47.54:938][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu (0.001415s)
+[2018.08.03-02.47.54:964][855]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.47.54:976][855]LogInit: FAudioDevice initialized.
+[2018.08.03-02.47.55:012][855]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.47.55:012][855]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.08.03-12.47.55
+[2018.08.03-02.47.55:013][855]LogWorld: Bringing up level for play took: 0.000425
+[2018.08.03-02.47.55:015][855]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu -0.09
+[2018.08.03-02.47.55:015][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.57:771][ 18]LogPackageName: SearchForPackageOnDisk took   0.081s, but failed to resolve Cinematic1.umap.
+[2018.08.03-02.47.57:771][ 18]LogLevel: Warning: WARNING: The map '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' does not exist.
+[2018.08.03-02.47.57:850][ 18]LogPackageName: SearchForPackageOnDisk took   0.078s, but failed to resolve Cinematic1.umap.
+[2018.08.03-02.47.57:850][ 18]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.47.57:850][ 18]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.47.57:850][ 18]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.47.57:850][ 18]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.47.57:850][ 18]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.47.57:850][ 18]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.47.57:850][ 18]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.47.57:851][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.47.57:884][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.48.06:761][437]BlueprintLog: New page: Compile MainMenu
+[2018.08.03-02.48.06:778][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901385c3e8, Size=24
+[2018.08.03-02.48.06:778][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019006b21240, Size=24, MainMenu_C_25 Function /Engine/Transient.REINST_MainMenu_C_25:ExecuteUbergraph_MainMenu
+[2018.08.03-02.48.06:781][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019006b20fe8, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.48.07:351][460]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.48.07:375][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.48.07:375][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.48.07:376][460]PIE: New page: PIE session: MainMenu (Aug 3, 2018, 10:48:07 PM)
+[2018.08.03-02.48.07:376][460]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu
+[2018.08.03-02.48.07:376][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000774s)
+[2018.08.03-02.48.07:377][460]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.48.07:377][460]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.08.03-02.48.07:377][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu (0.001491s)
+[2018.08.03-02.48.07:403][460]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.48.07:414][460]LogInit: FAudioDevice initialized.
+[2018.08.03-02.48.07:447][460]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.48.07:447][460]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.08.03-12.48.07
+[2018.08.03-02.48.07:448][460]LogWorld: Bringing up level for play took: 0.000415
+[2018.08.03-02.48.07:450][460]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu 0.345
+[2018.08.03-02.48.07:450][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.48.08:282][502]LogPackageName: SearchForPackageOnDisk took   0.081s, but failed to resolve Cinematic1.umap.
+[2018.08.03-02.48.08:282][502]LogLevel: Warning: WARNING: The map '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' does not exist.
+[2018.08.03-02.48.08:361][502]LogPackageName: SearchForPackageOnDisk took   0.077s, but failed to resolve Cinematic1.umap.
+[2018.08.03-02.48.08:361][502]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.48.08:361][502]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.48.08:361][502]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.48.08:361][502]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.48.08:361][502]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.48.08:361][502]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.48.08:361][502]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.48.08:362][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.48.08:395][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.48.50:860][952]LogEditorTransaction: Undo Resize Widget
+[2018.08.03-02.48.50:863][952]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fa21e4518, Size=4, Default__SKEL_MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.48.52:130][ 21]LogEditorTransaction: Undo Resize Widget
+[2018.08.03-02.48.52:130][ 21]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fa21e4518, Size=4
+[2018.08.03-02.48.52:130][ 21]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190074bc968, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_27:ExecuteUbergraph_MainMenu
+[2018.08.03-02.48.52:132][ 21]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190074bd828, Size=4, Default__SKEL_MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.48.54:027][130]BlueprintLog: New page: Compile MainMenu
+[2018.08.03-02.48.54:030][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190074bd828, Size=4
+[2018.08.03-02.48.54:030][130]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fa21e4998, Size=4, SKEL_MainMenu_C_4 Function /Engine/Transient.REINST_SKEL_MainMenu_C_29:ExecuteUbergraph_MainMenu
+[2018.08.03-02.48.54:045][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019006b20fe8, Size=24
+[2018.08.03-02.48.54:045][130]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f9edbc988, Size=24, MainMenu_C_32 Function /Engine/Transient.REINST_MainMenu_C_31:ExecuteUbergraph_MainMenu
+[2018.08.03-02.48.54:047][130]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f9edbdbd0, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.48.54:068][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fa21e4998, Size=4
+[2018.08.03-02.48.54:069][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190074bc968, Size=4
+[2018.08.03-02.48.58:407][363]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.48.58:433][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.48.58:434][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.48.58:434][363]PIE: New page: PIE session: MainMenu (Aug 3, 2018, 10:48:58 PM)
+[2018.08.03-02.48.58:434][363]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu
+[2018.08.03-02.48.58:435][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000780s)
+[2018.08.03-02.48.58:435][363]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.48.58:435][363]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2018.08.03-02.48.58:435][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu (0.001441s)
+[2018.08.03-02.48.58:462][363]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.48.58:474][363]LogInit: FAudioDevice initialized.
+[2018.08.03-02.48.58:511][363]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.48.58:512][363]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.08.03-12.48.58
+[2018.08.03-02.48.58:512][363]LogWorld: Bringing up level for play took: 0.000387
+[2018.08.03-02.48.58:515][363]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu -0.59
+[2018.08.03-02.48.58:515][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.49.10:167][ 37]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.03-02.49.12:043][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.49.12:074][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.49.12:095][141]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f9edbc988, Size=24
+[2018.08.03-02.49.12:943][191]BlueprintLog: New page: Compile MainMenu
+[2018.08.03-02.49.12:963][191]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f9edbdbd0, Size=24
+[2018.08.03-02.49.12:963][191]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901318f820, Size=24, MainMenu_C_37 Function /Engine/Transient.REINST_MainMenu_C_35:ExecuteUbergraph_MainMenu
+[2018.08.03-02.49.12:966][191]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901318d9c0, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.49.16:966][397]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.49.16:992][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.49.16:992][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.49.16:992][397]PIE: New page: PIE session: MainMenu (Aug 3, 2018, 10:49:16 PM)
+[2018.08.03-02.49.16:992][397]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu
+[2018.08.03-02.49.16:994][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000934s)
+[2018.08.03-02.49.16:994][397]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.49.16:994][397]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2018.08.03-02.49.16:995][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu (0.001594s)
+[2018.08.03-02.49.17:024][397]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.49.17:035][397]LogInit: FAudioDevice initialized.
+[2018.08.03-02.49.17:072][397]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.49.17:073][397]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.08.03-12.49.17
+[2018.08.03-02.49.17:073][397]LogWorld: Bringing up level for play took: 0.000417
+[2018.08.03-02.49.17:075][397]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu -0.029
+[2018.08.03-02.49.17:075][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.49.18:007][447]LogPackageName: SearchForPackageOnDisk took   0.084s, but failed to resolve Cinematic1.umap.
+[2018.08.03-02.49.18:007][447]LogLevel: Warning: WARNING: The map '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' does not exist.
+[2018.08.03-02.49.18:087][447]LogPackageName: SearchForPackageOnDisk took   0.080s, but failed to resolve Cinematic1.umap.
+[2018.08.03-02.49.18:088][447]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.49.18:088][447]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.49.18:088][447]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.49.18:088][447]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.49.18:088][447]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.08.03-02.49.18:088][447]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.49.18:088][447]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2018.08.03-02.49.18:088][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.49.18:122][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.49.26:499][921]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.03-02.49.50:304][213]LogSlate: Window 'Save Content' being destroyed
+[2018.08.03-02.49.50:391][213]LogSavePackage: Save=9.28ms
+[2018.08.03-02.49.50:391][213]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Cinematic1868B7C2D48F53D8B4ADA6DA51DA4D311.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Slides/Cinematic1.umap'
+[2018.08.03-02.49.50:396][213]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Slides/Cinematic1.umap
+[2018.08.03-02.49.50:396][213]LogFileHelpers: Saving map 'Cinematic1' took 0.087
+[2018.08.03-02.49.50:396][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/MainMenu" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset" SILENT=true
+[2018.08.03-02.49.50:448][213]LogSavePackage: Save=32.07ms
+[2018.08.03-02.49.50:448][213]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/MainMenu0CE77C1F48AFB58D97A361ABB62E6B46.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset'
+[2018.08.03-02.49.50:453][213]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/MainMenu.uasset
+[2018.08.03-02.49.50:455][213]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Slides/Cinematic1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.03-02.49.50:455][213]LightingResults: New page: Lighting Build
+[2018.08.03-02.49.50:456][213]LoadErrors: New page: Loading map: Cinematic1.umap
+[2018.08.03-02.49.50:456][213]MapCheck: New page: Map Check
+[2018.08.03-02.49.50:456][213]LightingResults: New page: Lighting Build
+[2018.08.03-02.49.50:475][213]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019010f0e3c8, Size=24
+[2018.08.03-02.49.50:475][213]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901385c7c0, Size=24
+[2018.08.03-02.49.50:476][213]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901318f820, Size=24
+[2018.08.03-02.49.50:476][213]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019006b21240, Size=24
+[2018.08.03-02.49.50:476][213]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f9becfc40, Size=24
+[2018.08.03-02.49.50:476][213]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900e2e3fa0, Size=24
+[2018.08.03-02.49.50:534][213]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.03-02.49.50:534][213]LogAIModule: Creating AISystem for world Cinematic1
+[2018.08.03-02.49.50:603][213]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.03-02.49.50:653][213]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.225ms to complete.
+[2018.08.03-02.49.50:655][213]LogFileHelpers: Loading map 'Cinematic1' took 0.202
+[2018.08.03-02.49.53:389][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8c2b4e00, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.03-02.49.53:398][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8c2b4e00, Size=64
+[2018.08.03-02.49.53:399][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8c2b5080, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.03-02.49.53:406][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f9eed1ad0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.03-02.49.53:409][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f87e25408, Size=4, Default__Enemy_waypoint_C Function /Game/ThirdPersonBP/Blueprints/Enemy_waypoint.Enemy_waypoint_C:ExecuteUbergraph_Enemy_waypoint
+[2018.08.03-02.49.53:410][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f87e25408, Size=4
+[2018.08.03-02.49.53:410][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f87e25408, Size=4, Default__Enemy_waypoint_C Function /Engine/Transient.REINST_Enemy_waypoint_C_68:ExecuteUbergraph_Enemy_waypoint
+[2018.08.03-02.49.53:411][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f87e27338, Size=4, Default__Enemy_waypoint_C Function /Game/ThirdPersonBP/Blueprints/Enemy_waypoint.Enemy_waypoint_C:ExecuteUbergraph_Enemy_waypoint
+[2018.08.03-02.49.53:414][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019008b15a60, Size=104, Default__EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.08.03-02.49.53:416][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019008b15a60, Size=104
+[2018.08.03-02.49.53:416][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019008b15a60, Size=104, Default__EnemyAI_C Function /Engine/Transient.REINST_EnemyAI_C_70:ExecuteUbergraph_EnemyAI
+[2018.08.03-02.49.53:418][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fa214e630, Size=104, Default__EnemyAI_C Function /Game/ThirdPersonBP/Blueprints/EnemyAI.EnemyAI_C:ExecuteUbergraph_EnemyAI
+[2018.08.03-02.49.53:420][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f9ef83c80, Size=120, Default__EnemySpawner_C Function /Game/ThirdPersonBP/Blueprints/EnemySpawner.EnemySpawner_C:ExecuteUbergraph_EnemySpawner
+[2018.08.03-02.49.53:422][490]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190131e6200, Size=512, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.08.03-02.49.53:428][490]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900f346da0, Size=200, Default__DamageText_C Function /Game/ThirdPersonBP/UI/DamageText.DamageText_C:ExecuteUbergraph_DamageText
+[2018.08.03-02.49.53:433][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8c63fa00, Size=84, Default__DreamMeter_C Function /Game/ThirdPersonBP/UI/DreamMeter.DreamMeter_C:ExecuteUbergraph_DreamMeter
+[2018.08.03-02.49.53:470][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fdf9de7c0, Size=32, Default__EnemyHealthBar_C Function /Game/ThirdPersonBP/UI/EnemyHealthBar.EnemyHealthBar_C:ExecuteUbergraph_EnemyHealthBar
+[2018.08.03-02.49.53:484][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8c088800, Size=1392, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.03-02.49.53:524][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900f346da0, Size=200
+[2018.08.03-02.49.53:524][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8bb17ac0, Size=200, Default__DamageText_C Function /Engine/Transient.REINST_DamageText_C_72:ExecuteUbergraph_DamageText
+[2018.08.03-02.49.53:525][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f9ef83c80, Size=120
+[2018.08.03-02.49.53:525][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019004c3b680, Size=120, Default__EnemySpawner_C Function /Engine/Transient.REINST_EnemySpawner_C_73:ExecuteUbergraph_EnemySpawner
+[2018.08.03-02.49.53:525][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8c63fa00, Size=84
+[2018.08.03-02.49.53:525][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fee6edde0, Size=84, Default__DreamMeter_C Function /Engine/Transient.REINST_DreamMeter_C_36:ExecuteUbergraph_DreamMeter
+[2018.08.03-02.49.53:525][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190131e6200, Size=512
+[2018.08.03-02.49.53:526][490]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900e969e00, Size=512, Default__EnemyCharacter_C Function /Engine/Transient.REINST_EnemyCharacter_C_74:ExecuteUbergraph_EnemyCharacter
+[2018.08.03-02.49.53:526][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fdf9de7c0, Size=32
+[2018.08.03-02.49.53:526][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019007218c40, Size=32, Default__EnemyHealthBar_C Function /Engine/Transient.REINST_EnemyHealthBar_C_37:ExecuteUbergraph_EnemyHealthBar
+[2018.08.03-02.49.53:527][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8c088800, Size=1392
+[2018.08.03-02.49.53:527][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8bb0d600, Size=1392, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_75:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.03-02.49.53:554][490]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900848fc80, Size=200, Default__DamageText_C Function /Game/ThirdPersonBP/UI/DamageText.DamageText_C:ExecuteUbergraph_DamageText
+[2018.08.03-02.49.53:555][490]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190079a2b00, Size=120, Default__EnemySpawner_C Function /Game/ThirdPersonBP/Blueprints/EnemySpawner.EnemySpawner_C:ExecuteUbergraph_EnemySpawner
+[2018.08.03-02.49.53:556][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe8f399c0, Size=84, Default__DreamMeter_C Function /Game/ThirdPersonBP/UI/DreamMeter.DreamMeter_C:ExecuteUbergraph_DreamMeter
+[2018.08.03-02.49.53:558][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019013299800, Size=512, Default__EnemyCharacter_C Function /Game/ThirdPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter
+[2018.08.03-02.49.53:559][490]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900e457b00, Size=32, Default__EnemyHealthBar_C Function /Game/ThirdPersonBP/UI/EnemyHealthBar.EnemyHealthBar_C:ExecuteUbergraph_EnemyHealthBar
+[2018.08.03-02.49.53:563][490]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900e459d00, Size=1392, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.03-02.49.53:580][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019006cff240, Size=40, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.03-02.49.53:582][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019006cff240, Size=40
+[2018.08.03-02.49.53:582][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019006cff240, Size=40, Default__ThirdPersonGameMode_C Function /Engine/Transient.REINST_ThirdPersonGameMode_C_83:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.03-02.49.53:584][490]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019006cfeb38, Size=40, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.08.03-02.49.53:712][490]LogSkeletalMesh: Skeletal Mesh found in DDC [13.862820ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.08.03-02.50.10:218][211]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.03-02.51.46:830][140]BlueprintLog: New page: Compile Cinematic1
+[2018.08.03-02.51.46:835][140]LogUObjectGlobals: Created PersistentFrame Addr=0x000001903e9cbb08, Size=24, Default__Cinematic1_C Function /Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.51.46:862][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019004c3b680, Size=120
+[2018.08.03-02.51.46:862][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8bb0d600, Size=1392
+[2018.08.03-02.51.46:862][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019007218c40, Size=32
+[2018.08.03-02.51.46:862][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fee6edde0, Size=84
+[2018.08.03-02.51.46:862][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8bb17ac0, Size=200
+[2018.08.03-02.51.46:862][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900e969e00, Size=512
+[2018.08.03-02.51.46:862][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f87e25408, Size=4
+[2018.08.03-02.51.46:862][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019008b15a60, Size=104
+[2018.08.03-02.51.46:862][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8c2b5080, Size=64
+[2018.08.03-02.51.46:863][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019006cff240, Size=40
+[2018.08.03-02.51.47:613][208]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001903e9cbb08, Size=24
+[2018.08.03-02.51.47:613][208]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902adcd930, Size=24, Default__Cinematic1_C Function /Engine/Transient.REINST_Cinematic1_C_94:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.51.47:614][208]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902adce110, Size=24, Default__Cinematic1_C Function /Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.51.47:711][208]LogSavePackage: Save=102.09ms
+[2018.08.03-02.51.47:711][208]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Cinematic1F8A1CFBB42F7613C4CD90D9D67288F49.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Slides/Cinematic1.umap'
+[2018.08.03-02.51.47:717][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Slides/Cinematic1.umap
+[2018.08.03-02.51.47:790][208]LogFileHelpers: Saving map 'Cinematic1' took 0.275
+[2018.08.03-02.51.49:593][385]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.51.49:634][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1' with GeneratedClass '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1'
+[2018.08.03-02.51.49:634][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.51.49:634][385]PIE: New page: PIE session: Cinematic1 (Aug 3, 2018, 10:51:49 PM)
+[2018.08.03-02.51.49:634][385]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Slides/UEDPIE_0_Cinematic1
+[2018.08.03-02.51.49:635][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000851s)
+[2018.08.03-02.51.49:636][385]LogAIModule: Creating AISystem for world Cinematic1
+[2018.08.03-02.51.49:636][385]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.08.03-02.51.49:636][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1 to /Game/ThirdPersonBP/Slides/UEDPIE_0_Cinematic1.Cinematic1 (0.001723s)
+[2018.08.03-02.51.49:657][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902adcd930, Size=24
+[2018.08.03-02.51.49:664][385]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.51.49:676][385]LogInit: FAudioDevice initialized.
+[2018.08.03-02.51.49:707][385]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.03-02.51.49:708][385]LogWorld: Bringing World /Game/ThirdPersonBP/Slides/UEDPIE_0_Cinematic1.Cinematic1 up for play (max tick rate 0) at 2018.08.03-12.51.49
+[2018.08.03-02.51.49:708][385]LogWorld: Bringing up level for play took: 0.000360
+[2018.08.03-02.51.49:710][385]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode'!
+[2018.08.03-02.51.49:710][385]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.08.03-02.51.49:711][385]PIE: Play in editor start time for /Game/ThirdPersonBP/Slides/UEDPIE_0_Cinematic1 0.607
+[2018.08.03-02.51.49:711][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1' with GeneratedClass '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1'
+[2018.08.03-02.51.52:545][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1' with GeneratedClass '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1'
+[2018.08.03-02.51.52:581][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1' with GeneratedClass '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1'
+[2018.08.03-02.51.55:668][976]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.03-02.51.59:646][388]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.51.59:674][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1' with GeneratedClass '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1'
+[2018.08.03-02.51.59:675][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.51.59:675][388]PIE: New page: PIE session: Cinematic1 (Aug 3, 2018, 10:51:59 PM)
+[2018.08.03-02.51.59:675][388]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Slides/UEDPIE_0_Cinematic1
+[2018.08.03-02.51.59:676][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000802s)
+[2018.08.03-02.51.59:676][388]LogAIModule: Creating AISystem for world Cinematic1
+[2018.08.03-02.51.59:676][388]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2018.08.03-02.51.59:676][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1 to /Game/ThirdPersonBP/Slides/UEDPIE_0_Cinematic1.Cinematic1 (0.001482s)
+[2018.08.03-02.51.59:705][388]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.51.59:717][388]LogInit: FAudioDevice initialized.
+[2018.08.03-02.51.59:748][388]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.51.59:748][388]LogWorld: Bringing World /Game/ThirdPersonBP/Slides/UEDPIE_0_Cinematic1.Cinematic1 up for play (max tick rate 0) at 2018.08.03-12.51.59
+[2018.08.03-02.51.59:749][388]LogWorld: Bringing up level for play took: 0.000333
+[2018.08.03-02.51.59:750][388]PIE: Play in editor start time for /Game/ThirdPersonBP/Slides/UEDPIE_0_Cinematic1 0.646
+[2018.08.03-02.51.59:750][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1' with GeneratedClass '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1'
+[2018.08.03-02.52.02:345][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-02.52.04:845][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1' with GeneratedClass '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1'
+[2018.08.03-02.52.04:883][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1' with GeneratedClass '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1:PersistentLevel.Cinematic1'
+[2018.08.03-02.52.05:934][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-02.52.17:358][854]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_158' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:359][854]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_160' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:362][854]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_162' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:382][855]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_164' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:384][855]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_166' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:386][855]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_168' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:387][855]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_170' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:390][855]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_172' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:407][856]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_174' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:410][856]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_176' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:411][856]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_178' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:413][856]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_180' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:415][856]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_182' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:432][857]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_184' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:434][857]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_186' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:436][857]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_188' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:453][858]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_190' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:456][858]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_192' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:472][859]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_194' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:474][859]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_196' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:475][859]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_198' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:478][859]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_200' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:495][860]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_202' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:498][860]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_204' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:514][861]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_206' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:517][861]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_208' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:534][862]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_210' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:538][862]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_212' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:554][863]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_214' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:556][863]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_216' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:558][863]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_218' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:575][864]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_220' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:578][864]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_222' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:593][865]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_224' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:596][865]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_226' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:615][866]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_228' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:632][867]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_230' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:649][868]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_232' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.52.17:666][869]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_234' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.03-02.53.20:247][983]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.03-02.53.26:737][322]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.03-02.53.37:519][909]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.03-02.53.44:097][281]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.03-02.53.49:060][560]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.03-02.54.04:060][353]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.03-02.54.16:642][ 29]BlueprintLog: New page: Compile Cinematic1
+[2018.08.03-02.54.22:563][392]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190383c9e50, Size=4, Default__SKEL_Cinematic1_C Function /Game/ThirdPersonBP/UI/Cinematic1.SKEL_Cinematic1_C:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.54.33:292][502]BlueprintLog: New page: Compile Cinematic1
+[2018.08.03-02.54.33:294][502]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190383c9e50, Size=4
+[2018.08.03-02.54.33:294][502]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019038155090, Size=4, SKEL_Cinematic1_C_1 Function /Engine/Transient.REINST_SKEL_Cinematic1_C_46:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.54.33:297][502]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019038155440, Size=4, Default__Cinematic1_C Function /Game/ThirdPersonBP/UI/Cinematic1.Cinematic1_C:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.54.33:323][502]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019038155090, Size=4
+[2018.08.03-02.54.33:984][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/Cinematic1" FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Cinematic1.uasset" SILENT=true
+[2018.08.03-02.54.34:018][568]LogSavePackage: Save=13.40ms
+[2018.08.03-02.54.34:018][568]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Cinematic190D532AA4C181C5B49D08EB4B4CCA72E.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Cinematic1.uasset'
+[2018.08.03-02.54.34:024][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/UI/Cinematic1.uasset
+[2018.08.03-02.54.36:597][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-02.54.40:718][250]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902adce110, Size=24
+[2018.08.03-02.54.40:718][250]LogUObjectGlobals: Created PersistentFrame Addr=0x000001904055e8d8, Size=24, Cinematic1_C_22 Function /Engine/Transient.REINST_Cinematic1_C_110:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.54.40:719][250]LogUObjectGlobals: Created PersistentFrame Addr=0x000001904055dac8, Size=24, Default__Cinematic1_C Function /Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.54.40:843][250]LogSavePackage: Save=128.70ms
+[2018.08.03-02.54.40:843][250]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Saved/Cinematic181A423FA4D1D776FBC985C877BE743B2.tmp' to '../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Slides/Cinematic1.umap'
+[2018.08.03-02.54.40:848][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Slides/Cinematic1.umap
+[2018.08.03-02.54.40:891][250]LogFileHelpers: Saving map 'Cinematic1' took 0.268
+[2018.08.03-02.54.41:536][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-02.54.49:774][214]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019036b58d48, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.54.49:775][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019036b58d48, Size=24
+[2018.08.03-02.54.49:775][214]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019036b58d48, Size=24, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_112:ExecuteUbergraph_MainMenu
+[2018.08.03-02.54.49:776][214]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019036b58c10, Size=24, Default__MainMenu_C Function /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.03-02.54.49:780][214]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.54.49:806][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019036b58d48, Size=24
+[2018.08.03-02.54.49:806][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001904055e8d8, Size=24
+[2018.08.03-02.54.49:808][214]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/cranberryjam/Studio2Level 4.19/Content/ThirdPersonBP/Maps/Menus_UI/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.03-02.54.49:808][214]LightingResults: New page: Lighting Build
+[2018.08.03-02.54.49:809][214]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.08.03-02.54.49:855][214]MapCheck: New page: Map Check
+[2018.08.03-02.54.49:855][214]LightingResults: New page: Lighting Build
+[2018.08.03-02.54.49:878][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001904055dac8, Size=24
+[2018.08.03-02.54.49:942][214]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.03-02.54.50:002][214]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.03-02.54.50:057][214]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.413ms to complete.
+[2018.08.03-02.54.50:057][214]LogFileHelpers: Loading map 'MainMenu' took 0.250
+[2018.08.03-02.55.02:570][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-02.55.05:294][511]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.55.05:322][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.55.05:323][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.55.05:323][511]PIE: New page: PIE session: MainMenu (Aug 3, 2018, 10:55:05 PM)
+[2018.08.03-02.55.05:323][511]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu
+[2018.08.03-02.55.05:324][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000866s)
+[2018.08.03-02.55.05:324][511]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.55.05:324][511]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2018.08.03-02.55.05:324][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu (0.001606s)
+[2018.08.03-02.55.05:354][511]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.55.05:368][511]LogInit: FAudioDevice initialized.
+[2018.08.03-02.55.05:405][511]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.55.05:405][511]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.08.03-12.55.05
+[2018.08.03-02.55.05:406][511]LogWorld: Bringing up level for play took: 0.000322
+[2018.08.03-02.55.05:408][511]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu 0.303
+[2018.08.03-02.55.05:408][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.55.07:174][690]LogNet: Browse: /Game/ThirdPersonBP/Slides/Cinematic1
+[2018.08.03-02.55.07:174][690]LogLoad: LoadMap: /Game/ThirdPersonBP/Slides/Cinematic1
+[2018.08.03-02.55.07:200][690]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190087acca0, Size=24, Default__Cinematic1_C Function /Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.55.07:201][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190087acca0, Size=24
+[2018.08.03-02.55.07:201][690]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190087acca0, Size=24, Default__Cinematic1_C Function /Engine/Transient.REINST_Cinematic1_C_114:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.55.07:202][690]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190087aec38, Size=24, Default__Cinematic1_C Function /Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.55.08:104][690]LogAIModule: Creating AISystem for world Cinematic1
+[2018.08.03-02.55.08:105][690]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.55.08:106][690]LogWorld: Bringing World /Game/ThirdPersonBP/Slides/UEDPIE_0_Cinematic1.Cinematic1 up for play (max tick rate 0) at 2018.08.03-12.55.08
+[2018.08.03-02.55.08:106][690]LogWorld: Bringing up level for play took: 0.000891
+[2018.08.03-02.55.08:107][690]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.03-02.55.08:108][690]LogLoad: Took 0.934217 seconds to LoadMap(/Game/ThirdPersonBP/Slides/Cinematic1)
+[2018.08.03-02.55.10:369][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.55.10:405][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.55.10:429][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190087aec38, Size=24
+[2018.08.03-02.55.10:429][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190087acca0, Size=24
+[2018.08.03-02.55.15:153][282]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-02.55.15:181][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.55.15:182][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-02.55.15:182][282]PIE: New page: PIE session: MainMenu (Aug 3, 2018, 10:55:15 PM)
+[2018.08.03-02.55.15:182][282]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu
+[2018.08.03-02.55.15:183][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000959s)
+[2018.08.03-02.55.15:183][282]LogAIModule: Creating AISystem for world MainMenu
+[2018.08.03-02.55.15:184][282]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2018.08.03-02.55.15:184][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu (0.001634s)
+[2018.08.03-02.55.15:212][282]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.03-02.55.15:224][282]LogInit: FAudioDevice initialized.
+[2018.08.03-02.55.15:258][282]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.55.15:259][282]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.08.03-12.55.15
+[2018.08.03-02.55.15:259][282]LogWorld: Bringing up level for play took: 0.000334
+[2018.08.03-02.55.15:261][282]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/Menus_UI/UEDPIE_0_MainMenu 0.156
+[2018.08.03-02.55.15:261][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Menus_UI/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.08.03-02.55.30:933][137]LogNet: Browse: /Game/ThirdPersonBP/Slides/Cinematic1
+[2018.08.03-02.55.30:933][137]LogLoad: LoadMap: /Game/ThirdPersonBP/Slides/Cinematic1
+[2018.08.03-02.55.30:963][137]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019006c22128, Size=24, Default__Cinematic1_C Function /Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.55.30:965][137]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019006c22128, Size=24
+[2018.08.03-02.55.30:965][137]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019006c22128, Size=24, Default__Cinematic1_C Function /Engine/Transient.REINST_Cinematic1_C_116:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.55.30:966][137]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019006c23610, Size=24, Default__Cinematic1_C Function /Game/ThirdPersonBP/Slides/Cinematic1.Cinematic1_C:ExecuteUbergraph_Cinematic1
+[2018.08.03-02.55.30:971][137]LogAIModule: Creating AISystem for world Cinematic1
+[2018.08.03-02.55.30:971][137]LogLoad: Game class is 'MainMenuMode_C'
+[2018.08.03-02.55.30:972][137]LogWorld: Bringing World /Game/ThirdPersonBP/Slides/UEDPIE_0_Cinematic1.Cinematic1 up for play (max tick rate 0) at 2018.08.03-12.55.30
+[2018.08.03-02.55.30:972][137]LogWorld: Bringing up level for play took: 0.000506
+[2018.08.03-02.55.30:973][137]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.03-02.55.30:974][137]LogLoad: Took 0.040864 seconds to LoadMap(/Game/ThirdPersonBP/Slides/Cinematic1)
+[2018.08.03-02.55.31:825][238]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.08.03-02.55.31:825][238]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.08.03-02.55.31:846][238]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019006c23610, Size=24
+[2018.08.03-02.55.31:846][238]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019006c22128, Size=24
+[2018.08.03-02.55.31:993][238]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900ec305b0, Size=48, Default__LoseMenu_C Function /Game/ThirdPersonBP/UI/LoseMenu.LoseMenu_C:ExecuteUbergraph_LoseMenu
+[2018.08.03-02.55.31:996][238]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900ec305b0, Size=48
+[2018.08.03-02.55.31:996][238]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900ec305b0, Size=48, Default__LoseMenu_C Function /Engine/Transient.REINST_LoseMenu_C_48:ExecuteUbergraph_LoseMenu
+[2018.08.03-02.55.31:997][238]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900ec301f0, Size=48, Default__LoseMenu_C Function /Game/ThirdPersonBP/UI/LoseMenu.LoseMenu_C:ExecuteUbergraph_LoseMenu
+[2018.08.03-02.55.32:001][238]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190056ba390, Size=72, Default__ObjectiveWon_C Function /Game/ThirdPersonBP/UI/ObjectiveWon.ObjectiveWon_C:ExecuteUbergraph_ObjectiveWon
+[2018.08.03-02.55.32:005][238]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190056ba390, Size=72
+[2018.08.03-02.55.32:005][238]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190056b89f0, Size=72, Default__ObjectiveWon_C Function /Engine/Transient.REINST_ObjectiveWon_C_49:ExecuteUbergraph_ObjectiveWon
+[2018.08.03-02.55.32:008][238]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019012badd00, Size=72, Default__ObjectiveWon_C Function /Game/ThirdPersonBP/UI/ObjectiveWon.ObjectiveWon_C:ExecuteUbergraph_ObjectiveWon
+[2018.08.03-02.55.32:019][238]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019004dc12f0, Size=104, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.08.03-02.55.32:023][238]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019004dc12f0, Size=104
+[2018.08.03-02.55.32:023][238]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019004dc12f0, Size=104, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_120:ExecuteUbergraph_Level1
+[2018.08.03-02.55.32:027][238]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019008033190, Size=104, Default__Level1_C Function /Game/ThirdPersonBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.08.03-02.55.33:314][238]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.457 s
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: 
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: 
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: Stack: 
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000C26AB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000C240AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000C241ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000ABCBBBE9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000ABC8D28D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000C1C16F37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000C1F5C010 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000C1F7312B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000C1F72544 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000B3FA917A UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000B3F5C788 UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000B3FCA4A0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000C08FCD20 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000C1199626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x0000000054595EAC UE4Editor.exe!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000545A6BD0 UE4Editor.exe!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000545A6C4A UE4Editor.exe!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000545B4177 UE4Editor.exe!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x00000000545B5B87 UE4Editor.exe!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x0000000007CF3034 KERNEL32.DLL!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: [Callstack] 0x0000000008011431 ntdll.dll!UnknownFunction []
+[2018.08.03-02.55.33:314][238]LogOutputDevice: Error: 
+[2018.08.03-02.55.33:318][238]LogStats:                SubmitErrorReport -  0.000 s
