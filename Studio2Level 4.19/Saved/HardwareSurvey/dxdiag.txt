@@ -1,11 +1,7 @@
 ------------------
 System Information
 ------------------
-<<<<<<< HEAD
   DxDiag Previously: Crashed in system information (stage 1). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
-=======
-  DxDiag Previously: Crashed in system information (stage 1) & Direct3D (stage 2). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
->>>>>>> master
 
 ------------
 DxDiag Notes
@@ -14,10 +10,7 @@ DxDiag Notes
         Sound Tab 1: No problems found.
         Sound Tab 2: No problems found.
         Sound Tab 3: No problems found.
-<<<<<<< HEAD
-=======
         Sound Tab 4: No problems found.
->>>>>>> master
           Input Tab: No problems found.
 
 ---------------
@@ -28,11 +21,10 @@ Display Devices
            Chip type: GeForce GTX 980
             DAC type: Integrated RAMDAC
          Device Type: Full Device (POST)
-          Device Key: Enum\PCI\VEN_10DE&DEV_13C0&SUBSYS_36DA1458&REV_A1
+          Device Key: Enum\PCI\VEN_10DE&DEV_13C0&SUBSYS_367C1458&REV_A1
        Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
  Device Problem Code: No Problem
  Driver Problem Code: Unknown
-<<<<<<< HEAD
       Display Memory: 20394 MB
     Dedicated Memory: 4053 MB
        Shared Memory: 16341 MB
@@ -47,37 +39,14 @@ Display Devices
           Monitor Id: SAM0CCB
          Native Mode: 3840 x 2160(p) (59.997Hz)
          Output Type: Displayport External
-=======
-      Display Memory: Unknown
-    Dedicated Memory: n/a
-       Shared Memory: n/a
-        Current Mode: 3840 x 2160 (32 bit) (60Hz)
-         HDR Support: Not Supported
-    Display Topology: Internal
- Display Color Space: Unknown
-     Color Primaries: Unknown
-   Display Luminance: Unknown
-        Monitor Name: Generic PnP Monitor
-       Monitor Model: 
-          Monitor Id: 
-         Native Mode: 
-         Output Type: 
->>>>>>> master
 Monitor Capabilities: HDR Not Supported
 Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
       Advanced Color: Not Supported
          Driver Name: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll
-<<<<<<< HEAD
  Driver File Version: 23.21.0013.9135 (English)
       Driver Version: 23.21.13.9135
          DDI Version: 12
       Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
-=======
- Driver File Version: Unknown (Unknown)
-      Driver Version: 23.21.13.9135
-         DDI Version: Unknown
-      Feature Levels: Unknown
->>>>>>> master
         Driver Model: WDDM 2.3
  Graphics Preemption: DMA
   Compute Preemption: DMA
@@ -88,24 +57,16 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
           Block List: No Blocks
   Catalog Attributes: Universal:False Declarative:False 
    Driver Attributes: Final Retail
-<<<<<<< HEAD
     Driver Date/Size: 23/03/2018 10:00:00 AM, 949016 bytes
          WHQL Logo'd: Yes
      WHQL Date Stamp: Unknown
-   Device Identifier: {D7B71E3E-5080-11CF-4754-D7161BC2DA35}
-=======
-    Driver Date/Size: Unknown, 0 bytes
-         WHQL Logo'd: n/a
-     WHQL Date Stamp: n/a
-   Device Identifier: Unknown
->>>>>>> master
+   Device Identifier: {D7B71E3E-5080-11CF-4754-71161BC2DA35}
            Vendor ID: 0x10DE
            Device ID: 0x13C0
-           SubSys ID: 0x36DA1458
+           SubSys ID: 0x367C1458
          Revision ID: 0x00A1
   Driver Strong Name: oem22.inf:0f066de3ad09d9de:Section096:23.21.13.9135:pci\ven_10de&dev_13c0
       Rank Of Driver: 00D12001
-<<<<<<< HEAD
          Video Accel: 
          DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
    Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
@@ -160,43 +121,10 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
          MPO Formats: Not Supported
     PanelFitter Caps: Not Supported
  PanelFitter Stretch: Not Supported
-=======
-         Video Accel: Unknown
-         DXVA2 Modes: Unknown
-      Deinterlace Caps: n/a
-        D3D9 Overlay: Unknown
-             DXVA-HD: Unknown
-        DDraw Status: Disabled
-          D3D Status: Not Available
-          AGP Status: Not Available
-       MPO MaxPlanes: Unknown
-            MPO Caps: Unknown
-         MPO Stretch: Unknown
-     MPO Media Hints: Unknown
-         MPO Formats: Unknown
-    PanelFitter Caps: Unknown
- PanelFitter Stretch: Unknown
->>>>>>> master
 
 -------------
 Sound Devices
 -------------
-<<<<<<< HEAD
-            Description: U28E850 (NVIDIA High Definition Audio)
- Default Sound Playback: No
- Default Voice Playback: No
-            Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0071&SUBSYS_145836DA&REV_1001
-        Manufacturer ID: 1
-             Product ID: 100
-                   Type: WDM
-            Driver Name: nvhda64v.sys
-         Driver Version: 1.03.0036.0006 (English)
-      Driver Attributes: Final Retail
-            WHQL Logo'd: n/a
-          Date and Size: 15/12/2017 12:00:00 AM, 226760 bytes
-            Other Files: 
-        Driver Provider: NVIDIA Corporation
-=======
             Description: Speakers (Realtek High Definition Audio)
  Default Sound Playback: No
  Default Voice Playback: No
@@ -211,7 +139,6 @@ Sound Devices
           Date and Size: 16/08/2016 12:00:00 AM, 5276168 bytes
             Other Files: 
         Driver Provider: Realtek Semiconductor Corp.
->>>>>>> master
          HW Accel Level: Basic
               Cap Flags: 0x0
     Min/Max Sample Rate: 0, 0
@@ -223,11 +150,7 @@ Static/Strm HW Mix Bufs: 0, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
-<<<<<<< HEAD
-            Description: Realtek Digital Output (Realtek High Definition Audio)
-=======
             Description: Realtek Digital Output(Optical) (Realtek High Definition Audio)
->>>>>>> master
  Default Sound Playback: No
  Default Voice Playback: No
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_10438698&REV_1003
@@ -252,11 +175,7 @@ Static/Strm HW Mix Bufs: 0, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
-<<<<<<< HEAD
-            Description: Realtek Digital Output(Optical) (Realtek High Definition Audio)
-=======
             Description: Realtek Digital Output (Realtek High Definition Audio)
->>>>>>> master
  Default Sound Playback: No
  Default Voice Playback: No
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_10438698&REV_1003
@@ -281,12 +200,10 @@ Static/Strm HW Mix Bufs: 0, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
-<<<<<<< HEAD
-=======
             Description: U28E850 (NVIDIA High Definition Audio)
  Default Sound Playback: No
  Default Voice Playback: No
-            Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0071&SUBSYS_145836DA&REV_1001
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0071&SUBSYS_1458367C&REV_1001
         Manufacturer ID: 1
              Product ID: 100
                    Type: WDM
@@ -308,7 +225,6 @@ Static/Strm HW Mix Bufs: 0, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
->>>>>>> master
 ---------------------
 Sound Capture Devices
 ---------------------
@@ -331,82 +247,51 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
-<<<<<<< HEAD
-      Device Name: SteelSeries Rival 100 Gaming Mouse
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x1038, 0x1702
-        FF Driver: n/a
-
-=======
->>>>>>> master
-      Device Name: Wired Keyboard 600
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x045E, 0x07F8
-        FF Driver: n/a
-
-<<<<<<< HEAD
-      Device Name: Wired Keyboard 600
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x045E, 0x07F8
-=======
-      Device Name: SteelSeries Rival 100 Gaming Mouse
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x1038, 0x1702
->>>>>>> master
-        FF Driver: n/a
-
       Device Name: SteelSeries Rival 100
          Attached: 1
     Controller ID: 0x0
 Vendor/Product ID: 0x1038, 0x1702
         FF Driver: n/a
 
-<<<<<<< HEAD
-=======
+      Device Name: SteelSeries Rival 100 Gaming Mouse
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1038, 0x1702
+        FF Driver: n/a
+
       Device Name: Wired Keyboard 600
          Attached: 1
     Controller ID: 0x0
 Vendor/Product ID: 0x045E, 0x07F8
         FF Driver: n/a
 
->>>>>>> master
+      Device Name: Wired Keyboard 600
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x045E, 0x07F8
+        FF Driver: n/a
+
 Poll w/ Interrupt: No
 
 -----------
 USB Devices
 -----------
 + USB Root Hub (USB 3.0)
-<<<<<<< HEAD
 | Vendor/Product ID: 0x8086, 0xA12F
-=======
-| Vendor/Product ID: 0x1B21, 0x1242
->>>>>>> master
 | Matching Device ID: USB\ROOT_HUB30
 | Service: USBHUB3
-| Driver: USBHUB3.SYS, 6/8/2018 19:30:50, 565152 bytes
+| Driver: USBHUB3.SYS, 8/3/2018 13:40:43, 566568 bytes
 | 
 +-+ USB Composite Device
 | | Vendor/Product ID: 0x045E, 0x07F8
-<<<<<<< HEAD
-| | Location: Port_#0009.Hub_#0001
-=======
-| | Location: Port_#0004.Hub_#0002
->>>>>>> master
+| | Location: Port_#0010.Hub_#0001
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
 | | Driver: usbccgp.sys, 4/12/2018 09:33:52, 168864 bytes
 | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x045E, 0x07F8
-<<<<<<< HEAD
-| | | Location: 0000.0014.0000.009.000.000.000.000.000
-=======
-| | | Location: 0003.0000.0000.004.000.000.000.000.000
->>>>>>> master
+| | | Location: 0000.0014.0000.010.000.000.000.000.000
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 4/12/2018 09:33:52, 42496 bytes
@@ -419,34 +304,17 @@ USB Devices
 | | | | Service: kbdhid
 | | | | Driver: kbdhid.sys, 4/12/2018 09:33:52, 40448 bytes
 | | | | Driver: kbdclass.sys, 4/12/2018 09:33:52, 63904 bytes
-<<<<<<< HEAD
 | | 
 +-+ USB Composite Device
 | | Vendor/Product ID: 0x1038, 0x1702
-| | Location: Port_#0006.Hub_#0001
-=======
-| 
-+ USB Root Hub (USB 3.0)
-| Vendor/Product ID: 0x8086, 0xA12F
-| Matching Device ID: USB\ROOT_HUB30
-| Service: USBHUB3
-| Driver: USBHUB3.SYS, 6/8/2018 19:30:50, 565152 bytes
-| 
-+-+ USB Composite Device
-| | Vendor/Product ID: 0x1038, 0x1702
-| | Location: Port_#0005.Hub_#0001
->>>>>>> master
+| | Location: Port_#0009.Hub_#0001
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
 | | Driver: usbccgp.sys, 4/12/2018 09:33:52, 168864 bytes
 | | 
 | +-+ SteelSeries Rival 100
 | | | Vendor/Product ID: 0x1038, 0x1702
-<<<<<<< HEAD
-| | | Location: 0000.0014.0000.006.000.000.000.000.000
-=======
-| | | Location: 0000.0014.0000.005.000.000.000.000.000
->>>>>>> master
+| | | Location: 0000.0014.0000.009.000.000.000.000.000
 | | | Matching Device ID: USB\VID_1038&PID_1702&MI_01
 | | | Lower Filters: sshid
 | | | Service: mshidkmdf
@@ -495,7 +363,7 @@ WM ASF Reader,0x00400000,0,0,qasf.dll,12.00.17134.0001
 AVI Splitter,0x00600000,1,1,quartz.dll,10.00.17134.0001
 VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,10.00.17134.0001
 SBE2MediaTypeProfile,0x00200000,0,0,sbe.dll,10.00.17134.0001
-Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.17134.0137
+Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.17134.0191
 AC3 Parser Filter,0x00600000,1,1,mpg2splt.ax,10.00.17134.0001
 StreamBufferSink,0x00200000,0,0,sbe.dll,10.00.17134.0001
 MJPEG Decompressor,0x00600000,1,1,quartz.dll,10.00.17134.0001
@@ -618,16 +486,6 @@ WDM Streaming Communication Transforms:
 Tee/Sink-to-Sink Converter,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 
 Audio Renderers:
-<<<<<<< HEAD
-U28E850 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
-Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.17134.0001
-Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.17134.0001
-DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
-DirectSound: U28E850 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
-DirectSound: Realtek Digital Output(Optical) (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
-Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
-Realtek Digital Output(Optical) (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
-=======
 Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.17134.0001
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.17134.0001
@@ -638,7 +496,6 @@ DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,
 Realtek Digital Output(Optical) (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 U28E850 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
->>>>>>> master
 
 
 ----------------------------
@@ -712,10 +569,10 @@ Media Foundation Transforms
 
 Video Decoders:
   NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpeg.dll, 23.21.0013.9135
-  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.17134.0137
+  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.17134.0191
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.17134.0001
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.17134.0001
-  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.17134.0137
+  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.17134.0191
   WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject, 0x1, wmvsdecd.dll, 10.00.17134.0001
   WMVideo Decoder MFT, CLSID_CWMVDecMediaObject, 0x1, wmvdecod.dll, 10.00.17134.0112
   MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.17134.0001
@@ -729,7 +586,7 @@ Video Encoders:
   NVIDIA HEVC Encoder MFT, {966F107C-8EA2-425D-B822-E4A71BEF01D7}, 0x4, 8, nvEncMFThevc.dll, 23.21.0013.9135
   H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.17134.0001
   WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.17134.0001
-  Microsoft MF VPX Encoder Transform, {AEB6C755-2546-4881-82CC-E15AE5EBFF3D}, 0x1, MSVPXENC.dll, 10.00.17134.0165
+  Microsoft MF VPX Encoder Transform, {AEB6C755-2546-4881-82CC-E15AE5EBFF3D}, 0x1, MSVPXENC.dll, 10.00.17134.0191
   H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.17134.0001
   WMVideo9 Encoder MFT, CLSID_CWMV9EncMediaObject, 0x1, wmvencod.dll, 10.00.17134.0001
   Microsoft MPEG-2 Video Encoder MFT, {E6335F02-80B7-4DC4-ADFA-DFE7210D20D5}, 0x2, msmpeg2enc.dll, 10.00.17134.0112
@@ -737,11 +594,11 @@ Video Encoders:
 Video Effects:
   Frame Rate Converter, CLSID_CFrameRateConvertDmo, 0x1, mfvdsp.dll, 10.00.17134.0001
   Resizer MFT, CLSID_CResizerDMO, 0x1, vidreszr.dll, 10.00.17134.0001
-  VideoStabilization MFT, {51571744-7FE4-4FF2-A498-2DC34FF74F1B}, 0x1, MSVideoDSP.dll, 10.00.17134.0083
+  VideoStabilization MFT, {51571744-7FE4-4FF2-A498-2DC34FF74F1B}, 0x1, MSVideoDSP.dll, 10.00.17134.0228
   Color Control, CLSID_CColorControlDmo, 0x1, mfvdsp.dll, 10.00.17134.0001
   Color Converter MFT, CLSID_CColorConvertDMO, 0x1, colorcnv.dll, 10.00.17134.0001
 Video Processor:
-  Microsoft Video Processor MFT, {88753B26-5B24-49BD-B2E7-0C445C78C982}, 0x1, msvproc.dll, 10.00.17134.0137
+  Microsoft Video Processor MFT, {88753B26-5B24-49BD-B2E7-0C445C78C982}, 0x1, msvproc.dll, 10.00.17134.0228
 Audio Decoders:
   Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}, 0x1, DolbyDecMFT.dll, 10.00.17134.0081
   MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}, 0x1, MSAMRNBDecoder.dll, 10.00.17134.0001
@@ -778,7 +635,7 @@ Audio Effects:
 Multiplexers:
   Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.17134.0137
 Others:
-  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.17134.0137
+  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.17134.0191
 
 
 --------------------------------------------
@@ -1046,263 +903,151 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-<<<<<<< HEAD
-Fault bucket , type 0
-Event Name: LiveKernelEvent
-=======
-Fault bucket 125730739576, type 5
-Event Name: PerfWatsonVS12Data
->>>>>>> master
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-<<<<<<< HEAD
-P1: ab
-P2: 15
-P3: c0
-P4: 0
-P5: 4
-P6: 10_0_17134
-P7: 0_0
-P8: 256_1
-=======
-P1: PerfWatsonTcdb
-P2: 0
-P3: 0
-P4: 0
-P5: 0
-P6: 
-P7: 
-P8: 
->>>>>>> master
-P9: 
-P10: 
-
-
-+++ WER1 +++:
-<<<<<<< HEAD
-Fault bucket , type 0
-Event Name: LiveKernelEvent
-=======
-Fault bucket 125730739576, type 5
-Event Name: PerfWatsonVS12Data
->>>>>>> master
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-<<<<<<< HEAD
-P1: ab
-P2: 15
-P3: c0
-P4: 0
-P5: 4
-P6: 10_0_17134
-P7: 0_0
-P8: 256_1
-=======
-P1: PerfWatsonTcdb
-P2: 0
-P3: 0
-P4: 0
-P5: 0
-P6: 
-P7: 
-P8: 
->>>>>>> master
-P9: 
-P10: 
-
-
-+++ WER2 +++:
-<<<<<<< HEAD
-Fault bucket 1852031397115991341, type 5
+Fault bucket 2042819805597877167, type 5
 Event Name: RADAR_PRE_LEAK_64
-=======
-Fault bucket 2126457183764705699, type 4
-Event Name: APPCRASH
->>>>>>> master
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-<<<<<<< HEAD
-P1: 7zG.exe
-P2: 16.4.0.0
+P1: Unity.exe
+P2: 2018.1.1.52149
 P3: 10.0.17134.2.0.0
 P4: 
 P5: 
 P6: 
 P7: 
 P8: 
-=======
-P1: svchost.exe_InstallService
-P2: 10.0.17134.1
-P3: a38b9ab2
-P4: StackHash_2814
-P5: 10.0.17134.165
-P6: f4df6dc2
-P7: c0000374
-P8: PCH_CF_FROM_ntdll+0x000000000009AA04
->>>>>>> master
+P9: 
+P10: 
+
+
++++ WER1 +++:
+Fault bucket 127824537390, type 5
+Event Name: SkyDriveClientError
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: OneDriveSetup.exe
+P2: 17.3.6816.0313
+P3: OneDriveSetup.exe
+P4: 17.3.6816.0313
+P5: 0x80040692
+P6: Installer
+P7: application.cpp
+P8: 166
+P9: 
+P10: 
+
+
++++ WER2 +++:
+Fault bucket 127824537390, type 5
+Event Name: SkyDriveClientError
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: OneDriveSetup.exe
+P2: 17.3.6816.0313
+P3: OneDriveSetup.exe
+P4: 17.3.6816.0313
+P5: 0x80040692
+P6: Installer
+P7: application.cpp
+P8: 166
 P9: 
 P10: 
 
 
 +++ WER3 +++:
-Fault bucket 125730739576, type 5
-Event Name: PerfWatsonVS12Data
+Fault bucket , type 0
+Event Name: SkyDriveClientError
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: PerfWatsonTcdb
-P2: 0
-P3: 0
-P4: 0
-P5: 0
-P6: 
-P7: 
-P8: 
+P1: OneDriveSetup.exe
+P2: 17.3.6816.0313
+P3: OneDriveSetup.exe
+P4: 17.3.6816.0313
+P5: 0x80040692
+P6: Installer
+P7: application.cpp
+P8: 166
 P9: 
 P10: 
 
 
 +++ WER4 +++:
-<<<<<<< HEAD
-Fault bucket 2092592622353407906, type 5
-Event Name: StoreAgentInstallFailure1
-=======
-Fault bucket 125730739576, type 5
-Event Name: PerfWatsonVS12Data
->>>>>>> master
+Fault bucket , type 0
+Event Name: SkyDriveClientError
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-<<<<<<< HEAD
-P1: Update;ScanForUpdates
-P2: 80246013
-P3: 17134
-P4: 165
-P5: Windows.Desktop
-P6: 8
-=======
-P1: PerfWatsonTcdb
-P2: 0
-P3: 0
-P4: 0
-P5: 0
-P6: 
->>>>>>> master
-P7: 
-P8: 
+P1: OneDriveSetup.exe
+P2: 17.3.6816.0313
+P3: OneDriveSetup.exe
+P4: 17.3.6816.0313
+P5: 0x80040692
+P6: Installer
+P7: application.cpp
+P8: 166
 P9: 
 P10: 
 
 
 +++ WER5 +++:
-<<<<<<< HEAD
-Fault bucket 1869537068523734795, type 5
-Event Name: WindowsUpdateFailure3
-=======
-Fault bucket 125730739576, type 5
-Event Name: PerfWatsonVS12Data
->>>>>>> master
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-<<<<<<< HEAD
-P1: 10.0.17134.137
-P2: 80246013
-P3: D5DEC869-EF2D-448C-B43D-511F540995A8
-P4: Install
-P5: 2
-P6: 0
-P7: 80246013
-P8: Update;ScanForUpdates
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
-
-
-+++ WER6 +++:
-Fault bucket 1750432696827573293, type 5
-Event Name: WindowsUpdateFailure3
-=======
-P1: PerfWatsonTcdb
-P2: 0
-P3: 0
-P4: 0
-P5: 0
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER6 +++:
-Fault bucket 125730739576, type 5
-Event Name: PerfWatsonVS12Data
->>>>>>> master
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-<<<<<<< HEAD
-P1: 10.0.17134.137
-P2: 80246013
-P3: B4A941A3-6770-4876-9BDB-38BCF0DBD7F0
-P4: Install
-P5: 2
-P6: 0
-P7: 80246013
-P8: Update;ScanForUpdates
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
-
-
-+++ WER7 +++:
 Fault bucket , type 0
-Event Name: StoreAgentInstallFailure1
-=======
-P1: PerfWatsonTcdb
-P2: 0
-P3: 0
+Event Name: LiveKernelEvent
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: ab
+P2: 7
+P3: f0
 P4: 0
-P5: 0
-P6: 
-P7: 
-P8: 
+P5: 5
+P6: 10_0_17134
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+
++++ WER6 +++:
+Fault bucket , type 0
+Event Name: LiveKernelEvent
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: ab
+P2: 7
+P3: f0
+P4: 0
+P5: 5
+P6: 10_0_17134
+P7: 0_0
+P8: 256_1
 P9: 
 P10: 
 
 
 +++ WER7 +++:
-Fault bucket 125730739576, type 5
-Event Name: PerfWatsonVS12Data
->>>>>>> master
+Fault bucket 2188313064849356013, type 5
+Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-<<<<<<< HEAD
-P1: Update;ScanForUpdates
-P2: 80246013
-P3: 17134
-P4: 165
-P5: Windows.Desktop
-P6: 8
-=======
-P1: PerfWatsonTcdb
-P2: 0
-P3: 0
-P4: 0
-P5: 0
+P1: UE4Editor.exe
+P2: 4.20.1.0
+P3: 10.0.17134.2.0.0
+P4: 
+P5: 
 P6: 
->>>>>>> master
 P7: 
 P8: 
 P9: 
@@ -1310,34 +1055,12 @@ P10:
 
 
 +++ WER8 +++:
-<<<<<<< HEAD
-Fault bucket , type 0
-Event Name: WindowsUpdateFailure3
-=======
 Fault bucket 125730739576, type 5
 Event Name: PerfWatsonVS12Data
->>>>>>> master
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-<<<<<<< HEAD
-P1: 10.0.17134.137
-P2: 80246013
-P3: D5DEC869-EF2D-448C-B43D-511F540995A8
-P4: Install
-P5: 2
-P6: 0
-P7: 80246013
-P8: Update;ScanForUpdates
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
-
-
-+++ WER9 +++:
-Fault bucket , type 0
-Event Name: WindowsUpdateFailure3
-=======
 P1: PerfWatsonTcdb
 P2: 0
 P3: 0
@@ -1353,23 +1076,10 @@ P10:
 +++ WER9 +++:
 Fault bucket 125730739576, type 5
 Event Name: PerfWatsonVS12Data
->>>>>>> master
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-<<<<<<< HEAD
-P1: 10.0.17134.137
-P2: 80246013
-P3: B4A941A3-6770-4876-9BDB-38BCF0DBD7F0
-P4: Install
-P5: 2
-P6: 0
-P7: 80246013
-P8: Update;ScanForUpdates
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
-=======
 P1: PerfWatsonTcdb
 P2: 0
 P3: 0
@@ -1380,6 +1090,5 @@ P7:
 P8: 
 P9: 
 P10: 
->>>>>>> master
 
 
